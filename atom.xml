@@ -4,13 +4,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">渊漪</title>
     <subtitle type="html">关心下一代二进制软件安全</subtitle>
-    <updated>2023-03-04T10:11:32&#43;08:00</updated>
-    <id>https://c01dkit.com/</id>
-    <link rel="alternate" type="text/html" href="https://c01dkit.com/" />
-    <link rel="self" type="application/atom&#43;xml" href="https://c01dkit.com/atom.xml" />
+    <updated>2023-03-08T21:18:25&#43;08:00</updated>
+    <id>https://blog.c01dkit.com/</id>
+    <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://blog.c01dkit.com/atom.xml" />
     <author>
             <name>c01dkit</name>
-            <uri>https://c01dkit.com/</uri>
+            <uri>https://blog.c01dkit.com/</uri>
             
                 <email>contact@c01dkit.com</email>
             </author>
@@ -18,19 +18,19 @@
     <generator uri="https://gohugo.io/" version="0.111.1">Hugo</generator>
         <entry>
             <title type="text">与人的缘</title>
-            <link rel="alternate" type="text/html" href="https://c01dkit.com/life/connection-with-people/" />
-            <id>https://c01dkit.com/life/connection-with-people/</id>
+            <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/connection-with-people/" />
+            <id>https://blog.c01dkit.com/life/connection-with-people/</id>
             <updated>2023-03-04T09:16:05&#43;08:00</updated>
             <published>2022-08-28T20:31:15&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
-                    <uri>https://c01dkit.com/</uri>
+                    <uri>https://blog.c01dkit.com/</uri>
                     <email>contact@c01dkit.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">终于还是赶上八月份的尾巴，在生活辑里撰了这篇。思来想去，这一月里似乎过得太匆匆，也没有什么值得分享的精彩瞬间。注视着八月，那它就……</summary>
             
                 <content type="html">&lt;p&gt;终于还是赶上八月份的尾巴，在生活辑里撰了这篇。思来想去，这一月里似乎过得太匆匆，也没有什么值得分享的精彩瞬间。注视着八月，那它就如永恒一般绵延；而一旦移开视线，这由无数瞬间组成的永恒也支离破碎，倏而消失了。一起消失的，还有不自觉者的觉知。那些声与色，光与热，时而高涨时而低落的自我意识，时而饱满时而匮乏的生活激情，都在这杭州的湿热中缓缓地发酵，在这蝉鸣中升腾，在这城市上空汇聚。&lt;/p&gt;
-&lt;p&gt;虽然不肯给自己放个几天的暑假，但是心思已经和无数远方的人们相连了吧。即便在一方狭小的空间里周转挪移，但亦可假借网络流神游天外，与数不胜数的偶像结缘&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;https://c01dkit.com/life/connection-with-people/#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;，忘乎所以，不知今夕何年。低廉的交流成本，带来了粗浅的交流收益；越是与无数多的偶像相汇，越是有无数多的瞬间被消耗，腐败，终于消弭。&lt;/p&gt;
+&lt;p&gt;虽然不肯给自己放个几天的暑假，但是心思已经和无数远方的人们相连了吧。即便在一方狭小的空间里周转挪移，但亦可假借网络流神游天外，与数不胜数的偶像结缘&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;https://blog.c01dkit.com/life/connection-with-people/#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;，忘乎所以，不知今夕何年。低廉的交流成本，带来了粗浅的交流收益；越是与无数多的偶像相汇，越是有无数多的瞬间被消耗，腐败，终于消弭。&lt;/p&gt;
 &lt;p&gt;和人们交谈，还是有那么一些艺术在的。认识清楚对方是个什么水平，自己是个什么水平，是不是处于平等的对话地位。倒也不必因为地位尊卑而换一副两副新面孔来“差异化处理”，只不过交谈时的写意与自得，确实应当把握分寸。明白自己的需求是什么，对方的需求是什么，能不能做一些个有效的沟通，毕竟大家的时间都是有限的。&lt;/p&gt;
 &lt;p&gt;弦外之音，话外之意，让人难以捉摸。进一分是褊狭的急不可耐，退一分是孤绝的自视清高。会心便可莞尔，不解着实郁躁，一知半解地误会双方的意思，达成了“自己”的“共识”，为之后埋雷，更是双方都不好过。所以说要“再三确认，反复强调”，如能举例一二说明就更好了。&lt;/p&gt;
 &lt;p&gt;希冀也应当有所收敛。孤注一掷，把自己的未来全部付诸他人，是没有对自己负责。生来不过飘渺天地间一过客，“自我意识”本身的玄妙自又不可捉摸，在宏大的宇宙视角之下不值一提。在神游天地之时，偶得窥见轮回之一角，足以使人心魂惊骇，在浩浩荡荡中迷失，久久不能自已。&lt;/p&gt;
@@ -39,7 +39,7 @@
 &lt;hr&gt;
 &lt;ol&gt;
 &lt;li id=&#34;fn:1&#34;&gt;
-&lt;p&gt;此“偶像”指“virtual human beings”，即现实生活中的人在网络世界中的投影，而非一般意义的“idols”；“结缘”仅指“interact“&amp;#160;&lt;a href=&#34;https://c01dkit.com/life/connection-with-people/#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;此“偶像”指“virtual human beings”，即现实生活中的人在网络世界中的投影，而非一般意义的“idols”；“结缘”仅指“interact“&amp;#160;&lt;a href=&#34;https://blog.c01dkit.com/life/connection-with-people/#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
@@ -54,7 +54,7 @@
                     
                     
                         
-                            <category scheme="https://c01dkit.com/life/" term="life" label="life" />
+                            <category scheme="https://blog.c01dkit.com/life/" term="life" label="life" />
                         
                     
                 
@@ -69,13 +69,13 @@
     
         <entry>
             <title type="text">我们为什么越来越怀旧？</title>
-            <link rel="alternate" type="text/html" href="https://c01dkit.com/life/why-reminiscence/" />
-            <id>https://c01dkit.com/life/why-reminiscence/</id>
+            <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/why-reminiscence/" />
+            <id>https://blog.c01dkit.com/life/why-reminiscence/</id>
             <updated>2023-03-04T09:16:05&#43;08:00</updated>
             <published>2022-07-07T14:10:49&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
-                    <uri>https://c01dkit.com/</uri>
+                    <uri>https://blog.c01dkit.com/</uri>
                     <email>contact@c01dkit.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">摘自人物 也许你已经注意到了，我们正在被怀旧的气息密实包裹。属于上一个十年、二十年甚至三十年的文化材料，再一次摆上台面，被我们重新……</summary>
@@ -147,7 +147,7 @@
                     
                     
                         
-                            <category scheme="https://c01dkit.com/life/" term="life" label="life" />
+                            <category scheme="https://blog.c01dkit.com/life/" term="life" label="life" />
                         
                     
                 
@@ -162,13 +162,13 @@
     
         <entry>
             <title type="text">优雅编程</title>
-            <link rel="alternate" type="text/html" href="https://c01dkit.com/tech/code-gracely/" />
-            <id>https://c01dkit.com/tech/code-gracely/</id>
+            <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/tech/code-gracely/" />
+            <id>https://blog.c01dkit.com/tech/code-gracely/</id>
             <updated>2023-03-04T09:16:05&#43;08:00</updated>
             <published>2022-07-02T19:08:51&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
-                    <uri>https://c01dkit.com/</uri>
+                    <uri>https://blog.c01dkit.com/</uri>
                     <email>contact@c01dkit.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">程序优化方法 优化需要通过大量测试来验证一致性、性能，因为并非所有优化都是正确或必要的。从重构程序执行流的角度来讲，优化并不是灵丹……</summary>
@@ -242,7 +242,7 @@
                     
                     
                         
-                            <category scheme="https://c01dkit.com/tech/" term="tech" label="tech" />
+                            <category scheme="https://blog.c01dkit.com/tech/" term="tech" label="tech" />
                         
                     
                 
@@ -257,13 +257,13 @@
     
         <entry>
             <title type="text">寻章摘句</title>
-            <link rel="alternate" type="text/html" href="https://c01dkit.com/tech/picking-ups/" />
-            <id>https://c01dkit.com/tech/picking-ups/</id>
-            <updated>2023-03-04T09:16:05&#43;08:00</updated>
+            <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/tech/picking-ups/" />
+            <id>https://blog.c01dkit.com/tech/picking-ups/</id>
+            <updated>2023-03-06T09:22:35&#43;08:00</updated>
             <published>2022-06-26T20:48:40&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
-                    <uri>https://c01dkit.com/</uri>
+                    <uri>https://blog.c01dkit.com/</uri>
                     <email>contact@c01dkit.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">文句摘录 FUZZUSB: Hybrid Stateful Fuzzing of USB Gadget Stacks (Oakland 2022) While the prevalence and versatility of USB have made our daily life convenient, it has also attracted attackers seeking to exploit vulnerabilities within the USB ecosystem. Registered Report: DATAFLOW Towards a Data-Flow-Guided Fuzzer Unfortunately, these more accurate analyses incur a high run-time penalty, impeding fuzzer throughput. Unlike DTA, which strives……</summary>
@@ -402,6 +402,34 @@ that they need to execute. In order to use any of these tools, the analyst must 
 &lt;li&gt;vicinity 附近，临近，附近地区，大约的程度或数量&lt;/li&gt;
 &lt;li&gt;retention 保留，记忆力，保持力，滞留，扣留&lt;/li&gt;
 &lt;li&gt;suffice 足够，有能力，满足……的需要，使满足&lt;/li&gt;
+&lt;li&gt;rudimentary 简陋的&lt;/li&gt;
+&lt;li&gt;inadvertently 漫不经心地，疏忽地&lt;/li&gt;
+&lt;li&gt;cease 停止，终止&lt;/li&gt;
+&lt;li&gt;collectively 全体地，共同地&lt;/li&gt;
+&lt;li&gt;daunting 令人畏惧的，使人气馁的&lt;/li&gt;
+&lt;li&gt;encompass 围绕，包围，包含，包括&lt;/li&gt;
+&lt;li&gt;devastating 毁灭性的，令人震惊的&lt;/li&gt;
+&lt;li&gt;retrofit 给机器设备装配（新部件），翻新，改型&lt;/li&gt;
+&lt;li&gt;yield to 让步于，使自己受到xxx的支配&lt;/li&gt;
+&lt;li&gt;sterilizer 消毒者，消毒器&lt;/li&gt;
+&lt;li&gt;salient 显著的，突出的，跳跃的，（角）凸出的&lt;/li&gt;
+&lt;li&gt;nuanced 有细微差别的&lt;/li&gt;
+&lt;li&gt;discern 察觉出，了解；分辨出&lt;/li&gt;
+&lt;li&gt;subsidised 补贴的&lt;/li&gt;
+&lt;li&gt;culprit 犯人，罪犯&lt;/li&gt;
+&lt;li&gt;holistic 全盘的，整体的，功能整体性的&lt;/li&gt;
+&lt;li&gt;endeavor 努力，尽力&lt;/li&gt;
+&lt;li&gt;influx 注入，流入，汇集&lt;/li&gt;
+&lt;li&gt;plausible 貌似真实的，貌似有理的，花言巧语的&lt;/li&gt;
+&lt;li&gt;pertain 有关，存在，适用&lt;/li&gt;
+&lt;li&gt;obsolescence 废弃，陈旧过时，（器官）废退&lt;/li&gt;
+&lt;li&gt;resort to 诉诸，依靠，求助于&lt;/li&gt;
+&lt;li&gt;discrepancy 差异，不一致，区别&lt;/li&gt;
+&lt;li&gt;impair 损害，削弱&lt;/li&gt;
+&lt;li&gt;hefty 重的，健壮的，异常大的，重量级的&lt;/li&gt;
+&lt;li&gt;paucity 少量，缺乏，不足，缺少&lt;/li&gt;
+&lt;li&gt;obstruct 阻碍，阻止，妨碍&lt;/li&gt;
+&lt;li&gt;retention 保留，记忆力，滞留，扣留&lt;/li&gt;
 &lt;/ul&gt;
 </content>
             
@@ -414,7 +442,7 @@ that they need to execute. In order to use any of these tools, the analyst must 
                     
                     
                         
-                            <category scheme="https://c01dkit.com/tech/" term="tech" label="tech" />
+                            <category scheme="https://blog.c01dkit.com/tech/" term="tech" label="tech" />
                         
                     
                 
@@ -429,13 +457,13 @@ that they need to execute. In order to use any of these tools, the analyst must 
     
         <entry>
             <title type="text">光怪陆离</title>
-            <link rel="alternate" type="text/html" href="https://c01dkit.com/life/lustrous-and-dazzling/" />
-            <id>https://c01dkit.com/life/lustrous-and-dazzling/</id>
+            <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/lustrous-and-dazzling/" />
+            <id>https://blog.c01dkit.com/life/lustrous-and-dazzling/</id>
             <updated>2023-03-04T09:16:05&#43;08:00</updated>
             <published>2022-06-19T19:55:48&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
-                    <uri>https://c01dkit.com/</uri>
+                    <uri>https://blog.c01dkit.com/</uri>
                     <email>contact@c01dkit.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">加油站 我看到他们站在汽车加油站的棚顶，做着从未有人做过的梦。 他们跳动着，双手挥舞着，寂寂地高喊着，然后棚便拔地而起了，缓缓上升了……</summary>
@@ -542,7 +570,7 @@ that they need to execute. In order to use any of these tools, the analyst must 
                     
                     
                         
-                            <category scheme="https://c01dkit.com/life/" term="life" label="life" />
+                            <category scheme="https://blog.c01dkit.com/life/" term="life" label="life" />
                         
                     
                 
@@ -557,13 +585,13 @@ that they need to execute. In order to use any of these tools, the analyst must 
     
         <entry>
             <title type="text">平心与静气</title>
-            <link rel="alternate" type="text/html" href="https://c01dkit.com/life/calm-down/" />
-            <id>https://c01dkit.com/life/calm-down/</id>
+            <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/calm-down/" />
+            <id>https://blog.c01dkit.com/life/calm-down/</id>
             <updated>2023-03-04T09:16:05&#43;08:00</updated>
             <published>2022-05-25T18:43:03&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
-                    <uri>https://c01dkit.com/</uri>
+                    <uri>https://blog.c01dkit.com/</uri>
                     <email>contact@c01dkit.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">最近突然会很毫无征兆地心烦意乱。前些阵子在忙着毕业论文，折腾了很久算是交上去了，也该开始做答辩PPT；支部的事情又接踵而至，一天……</summary>
@@ -584,7 +612,7 @@ that they need to execute. In order to use any of these tools, the analyst must 
                     
                     
                         
-                            <category scheme="https://c01dkit.com/life/" term="life" label="life" />
+                            <category scheme="https://blog.c01dkit.com/life/" term="life" label="life" />
                         
                     
                 
@@ -599,19 +627,19 @@ that they need to execute. In order to use any of these tools, the analyst must 
     
         <entry>
             <title type="text">模糊测试</title>
-            <link rel="alternate" type="text/html" href="https://c01dkit.com/tech/fuzzing/" />
-            <id>https://c01dkit.com/tech/fuzzing/</id>
+            <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/tech/fuzzing/" />
+            <id>https://blog.c01dkit.com/tech/fuzzing/</id>
             <updated>2023-03-04T09:16:05&#43;08:00</updated>
             <published>2022-05-24T18:42:25&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
-                    <uri>https://c01dkit.com/</uri>
+                    <uri>https://blog.c01dkit.com/</uri>
                     <email>contact@c01dkit.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">基本介绍 覆盖率指引的模糊测试方法获得覆盖率的四种追踪方式1： 使用编译器向基本块边缘插桩，可以准确地插桩并易于优化，但需要源码已知……</summary>
             
                 <content type="html">&lt;h2 id=&#34;基本介绍&#34;&gt;基本介绍&lt;/h2&gt;
-&lt;p&gt;覆盖率指引的模糊测试方法获得覆盖率的四种追踪方式&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;https://c01dkit.com/tech/fuzzing/#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;：&lt;/p&gt;
+&lt;p&gt;覆盖率指引的模糊测试方法获得覆盖率的四种追踪方式&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;https://blog.c01dkit.com/tech/fuzzing/#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;：&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;使用编译器向基本块边缘插桩，可以准确地插桩并易于优化，但需要源码已知。&lt;/li&gt;
 &lt;li&gt;静态二进制重写，不需要源码，仍在研究，因为静态代码插桩准确性难以保证，并且优化能力有限。这些限制条件会影响代码率信息的质量与准确性，以及二进制重写的表现。&lt;/li&gt;
@@ -666,7 +694,7 @@ that they need to execute. In order to use any of these tools, the analyst must 
 &lt;hr&gt;
 &lt;ol&gt;
 &lt;li id=&#34;fn:1&#34;&gt;
-&lt;p&gt;&lt;a href=&#34;https://smartech.gatech.edu/bitstream/handle/1853/66560/LOPEZ-THESIS-2022.pdf?sequence=1&#34;&gt;FUZZING WITH PERFORMANCE MONITORING AND TRACING HARDWARE&lt;/a&gt;&amp;#160;&lt;a href=&#34;https://c01dkit.com/tech/fuzzing/#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://smartech.gatech.edu/bitstream/handle/1853/66560/LOPEZ-THESIS-2022.pdf?sequence=1&#34;&gt;FUZZING WITH PERFORMANCE MONITORING AND TRACING HARDWARE&lt;/a&gt;&amp;#160;&lt;a href=&#34;https://blog.c01dkit.com/tech/fuzzing/#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
@@ -681,7 +709,7 @@ that they need to execute. In order to use any of these tools, the analyst must 
                     
                     
                         
-                            <category scheme="https://c01dkit.com/tech/" term="tech" label="tech" />
+                            <category scheme="https://blog.c01dkit.com/tech/" term="tech" label="tech" />
                         
                     
                 
@@ -696,13 +724,13 @@ that they need to execute. In order to use any of these tools, the analyst must 
     
         <entry>
             <title type="text">黄昏随想</title>
-            <link rel="alternate" type="text/html" href="https://c01dkit.com/life/dusk-thoughts/" />
-            <id>https://c01dkit.com/life/dusk-thoughts/</id>
+            <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/dusk-thoughts/" />
+            <id>https://blog.c01dkit.com/life/dusk-thoughts/</id>
             <updated>2023-03-04T09:16:05&#43;08:00</updated>
             <published>2022-04-04T17:48:04&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
-                    <uri>https://c01dkit.com/</uri>
+                    <uri>https://blog.c01dkit.com/</uri>
                     <email>contact@c01dkit.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">今天第一次尝试泡点茶包，是之前舍友从外地带回来的茶颜悦色。工作的时候戴着耳机放着点 BGM。 也许是任务安排比较明确，纯粹的写代码？……</summary>
@@ -725,7 +753,7 @@ that they need to execute. In order to use any of these tools, the analyst must 
                     
                     
                         
-                            <category scheme="https://c01dkit.com/life/" term="life" label="life" />
+                            <category scheme="https://blog.c01dkit.com/life/" term="life" label="life" />
                         
                     
                 
@@ -740,13 +768,13 @@ that they need to execute. In order to use any of these tools, the analyst must 
     
         <entry>
             <title type="text">此间过往，说予你听</title>
-            <link rel="alternate" type="text/html" href="https://c01dkit.com/life/letter-to-the-young/" />
-            <id>https://c01dkit.com/life/letter-to-the-young/</id>
+            <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/letter-to-the-young/" />
+            <id>https://blog.c01dkit.com/life/letter-to-the-young/</id>
             <updated>2023-03-04T09:16:05&#43;08:00</updated>
             <published>2022-03-29T20:49:10&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
-                    <uri>https://c01dkit.com/</uri>
+                    <uri>https://blog.c01dkit.com/</uri>
                     <email>contact@c01dkit.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">也是时候谈一谈这转瞬即逝的本科生活了。虽说参与不少活动与工作，但要说“为大学规划提出建议”，我自觉还是差了那么点资历，愧不敢当。……</summary>
@@ -769,7 +797,7 @@ that they need to execute. In order to use any of these tools, the analyst must 
                     
                     
                         
-                            <category scheme="https://c01dkit.com/life/" term="life" label="life" />
+                            <category scheme="https://blog.c01dkit.com/life/" term="life" label="life" />
                         
                     
                 
@@ -784,13 +812,13 @@ that they need to execute. In order to use any of these tools, the analyst must 
     
         <entry>
             <title type="text">记忆的气息</title>
-            <link rel="alternate" type="text/html" href="https://c01dkit.com/life/memodor/" />
-            <id>https://c01dkit.com/life/memodor/</id>
+            <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/memodor/" />
+            <id>https://blog.c01dkit.com/life/memodor/</id>
             <updated>2023-03-04T09:16:05&#43;08:00</updated>
             <published>2022-02-26T17:11:38&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
-                    <uri>https://c01dkit.com/</uri>
+                    <uri>https://blog.c01dkit.com/</uri>
                     <email>contact@c01dkit.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">香烟的烟雾散去，晕染着反复冲泡数次的茶叶气息，混合在略感潮湿的空气中 —— 在只有冷光灯照射着的瓷砖地板、每年粉刷一次的墙壁的走廊里……</summary>
@@ -814,7 +842,7 @@ that they need to execute. In order to use any of these tools, the analyst must 
                     
                     
                         
-                            <category scheme="https://c01dkit.com/life/" term="life" label="life" />
+                            <category scheme="https://blog.c01dkit.com/life/" term="life" label="life" />
                         
                     
                 
@@ -829,13 +857,13 @@ that they need to execute. In order to use any of these tools, the analyst must 
     
         <entry>
             <title type="text">追忆：本科生涯</title>
-            <link rel="alternate" type="text/html" href="https://c01dkit.com/life/undergraduate/" />
-            <id>https://c01dkit.com/life/undergraduate/</id>
+            <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/undergraduate/" />
+            <id>https://blog.c01dkit.com/life/undergraduate/</id>
             <updated>2023-03-04T09:16:05&#43;08:00</updated>
             <published>2021-09-24T14:38:01&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
-                    <uri>https://c01dkit.com/</uri>
+                    <uri>https://blog.c01dkit.com/</uri>
                     <email>contact@c01dkit.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">前言 四年的时间一下子就过去了。回想往日，记忆犹新。记得最清楚的还是紫金港的点点滴滴，没有导师看管，社团组织活动丰富，算是自由自在……</summary>
@@ -907,7 +935,7 @@ that they need to execute. In order to use any of these tools, the analyst must 
                     
                     
                         
-                            <category scheme="https://c01dkit.com/life/" term="life" label="life" />
+                            <category scheme="https://blog.c01dkit.com/life/" term="life" label="life" />
                         
                     
                 
@@ -922,13 +950,13 @@ that they need to execute. In order to use any of these tools, the analyst must 
     
         <entry>
             <title type="text">追忆：带训时光</title>
-            <link rel="alternate" type="text/html" href="https://c01dkit.com/life/drill-thoughts/" />
-            <id>https://c01dkit.com/life/drill-thoughts/</id>
+            <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/drill-thoughts/" />
+            <id>https://blog.c01dkit.com/life/drill-thoughts/</id>
             <updated>2023-03-04T09:16:05&#43;08:00</updated>
             <published>2021-09-12T14:32:26&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
-                    <uri>https://c01dkit.com/</uri>
+                    <uri>https://blog.c01dkit.com/</uri>
                     <email>contact@c01dkit.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">前言 2021级军训，在8.24-9.8号开展。这可能是前所未有的一次军训：在疫情防控的形势下，同时进行20级和21级学生的军训，……</summary>
@@ -981,7 +1009,7 @@ that they need to execute. In order to use any of these tools, the analyst must 
                     
                     
                         
-                            <category scheme="https://c01dkit.com/life/" term="life" label="life" />
+                            <category scheme="https://blog.c01dkit.com/life/" term="life" label="life" />
                         
                     
                 

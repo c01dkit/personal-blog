@@ -8,7 +8,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>渊漪</title>
-        <link>https://c01dkit.com/</link>
+        <link>https://blog.c01dkit.com/</link>
         <description>关心下一代二进制软件安全</description>
         <generator>Hugo 0.111.1 https://gohugo.io/</generator>
         
@@ -23,15 +23,15 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sat, 04 Mar 2023 10:11:32 &#43;0800</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 21:18:25 &#43;0800</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://c01dkit.com/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://blog.c01dkit.com/rss.xml" />
         
         
             <item>
                 <title>与人的缘</title>
-                <link>https://c01dkit.com/life/connection-with-people/</link>
-                <guid isPermaLink="true">https://c01dkit.com/life/connection-with-people/</guid>
+                <link>https://blog.c01dkit.com/life/connection-with-people/</link>
+                <guid isPermaLink="true">https://blog.c01dkit.com/life/connection-with-people/</guid>
                 <pubDate>Sun, 28 Aug 2022 20:31:15 &#43;0800</pubDate>
                 
                     <author>contact@c01dkit.com (c01dkit)</author>
@@ -39,7 +39,7 @@
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
                     <description>&lt;p&gt;终于还是赶上八月份的尾巴，在生活辑里撰了这篇。思来想去，这一月里似乎过得太匆匆，也没有什么值得分享的精彩瞬间。注视着八月，那它就如永恒一般绵延；而一旦移开视线，这由无数瞬间组成的永恒也支离破碎，倏而消失了。一起消失的，还有不自觉者的觉知。那些声与色，光与热，时而高涨时而低落的自我意识，时而饱满时而匮乏的生活激情，都在这杭州的湿热中缓缓地发酵，在这蝉鸣中升腾，在这城市上空汇聚。&lt;/p&gt;
-&lt;p&gt;虽然不肯给自己放个几天的暑假，但是心思已经和无数远方的人们相连了吧。即便在一方狭小的空间里周转挪移，但亦可假借网络流神游天外，与数不胜数的偶像结缘&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;https://c01dkit.com/life/connection-with-people/#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;，忘乎所以，不知今夕何年。低廉的交流成本，带来了粗浅的交流收益；越是与无数多的偶像相汇，越是有无数多的瞬间被消耗，腐败，终于消弭。&lt;/p&gt;
+&lt;p&gt;虽然不肯给自己放个几天的暑假，但是心思已经和无数远方的人们相连了吧。即便在一方狭小的空间里周转挪移，但亦可假借网络流神游天外，与数不胜数的偶像结缘&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;https://blog.c01dkit.com/life/connection-with-people/#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;，忘乎所以，不知今夕何年。低廉的交流成本，带来了粗浅的交流收益；越是与无数多的偶像相汇，越是有无数多的瞬间被消耗，腐败，终于消弭。&lt;/p&gt;
 &lt;p&gt;和人们交谈，还是有那么一些艺术在的。认识清楚对方是个什么水平，自己是个什么水平，是不是处于平等的对话地位。倒也不必因为地位尊卑而换一副两副新面孔来“差异化处理”，只不过交谈时的写意与自得，确实应当把握分寸。明白自己的需求是什么，对方的需求是什么，能不能做一些个有效的沟通，毕竟大家的时间都是有限的。&lt;/p&gt;
 &lt;p&gt;弦外之音，话外之意，让人难以捉摸。进一分是褊狭的急不可耐，退一分是孤绝的自视清高。会心便可莞尔，不解着实郁躁，一知半解地误会双方的意思，达成了“自己”的“共识”，为之后埋雷，更是双方都不好过。所以说要“再三确认，反复强调”，如能举例一二说明就更好了。&lt;/p&gt;
 &lt;p&gt;希冀也应当有所收敛。孤注一掷，把自己的未来全部付诸他人，是没有对自己负责。生来不过飘渺天地间一过客，“自我意识”本身的玄妙自又不可捉摸，在宏大的宇宙视角之下不值一提。在神游天地之时，偶得窥见轮回之一角，足以使人心魂惊骇，在浩浩荡荡中迷失，久久不能自已。&lt;/p&gt;
@@ -48,7 +48,7 @@
 &lt;hr&gt;
 &lt;ol&gt;
 &lt;li id=&#34;fn:1&#34;&gt;
-&lt;p&gt;此“偶像”指“virtual human beings”，即现实生活中的人在网络世界中的投影，而非一般意义的“idols”；“结缘”仅指“interact“&amp;#160;&lt;a href=&#34;https://c01dkit.com/life/connection-with-people/#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;此“偶像”指“virtual human beings”，即现实生活中的人在网络世界中的投影，而非一般意义的“idols”；“结缘”仅指“interact“&amp;#160;&lt;a href=&#34;https://blog.c01dkit.com/life/connection-with-people/#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
@@ -63,7 +63,7 @@
                         
                         
                             
-                                <category domain="https://c01dkit.com/life/">life</category>
+                                <category domain="https://blog.c01dkit.com/life/">life</category>
                             
                         
                     
@@ -78,8 +78,8 @@
         
             <item>
                 <title>我们为什么越来越怀旧？</title>
-                <link>https://c01dkit.com/life/why-reminiscence/</link>
-                <guid isPermaLink="true">https://c01dkit.com/life/why-reminiscence/</guid>
+                <link>https://blog.c01dkit.com/life/why-reminiscence/</link>
+                <guid isPermaLink="true">https://blog.c01dkit.com/life/why-reminiscence/</guid>
                 <pubDate>Thu, 07 Jul 2022 14:10:49 &#43;0800</pubDate>
                 
                     <author>contact@c01dkit.com (c01dkit)</author>
@@ -153,7 +153,7 @@
                         
                         
                             
-                                <category domain="https://c01dkit.com/life/">life</category>
+                                <category domain="https://blog.c01dkit.com/life/">life</category>
                             
                         
                     
@@ -168,8 +168,8 @@
         
             <item>
                 <title>优雅编程</title>
-                <link>https://c01dkit.com/tech/code-gracely/</link>
-                <guid isPermaLink="true">https://c01dkit.com/tech/code-gracely/</guid>
+                <link>https://blog.c01dkit.com/tech/code-gracely/</link>
+                <guid isPermaLink="true">https://blog.c01dkit.com/tech/code-gracely/</guid>
                 <pubDate>Sat, 02 Jul 2022 19:08:51 &#43;0800</pubDate>
                 
                     <author>contact@c01dkit.com (c01dkit)</author>
@@ -245,7 +245,7 @@
                         
                         
                             
-                                <category domain="https://c01dkit.com/tech/">tech</category>
+                                <category domain="https://blog.c01dkit.com/tech/">tech</category>
                             
                         
                     
@@ -260,8 +260,8 @@
         
             <item>
                 <title>寻章摘句</title>
-                <link>https://c01dkit.com/tech/picking-ups/</link>
-                <guid isPermaLink="true">https://c01dkit.com/tech/picking-ups/</guid>
+                <link>https://blog.c01dkit.com/tech/picking-ups/</link>
+                <guid isPermaLink="true">https://blog.c01dkit.com/tech/picking-ups/</guid>
                 <pubDate>Sun, 26 Jun 2022 20:48:40 &#43;0800</pubDate>
                 
                     <author>contact@c01dkit.com (c01dkit)</author>
@@ -402,6 +402,34 @@ that they need to execute. In order to use any of these tools, the analyst must 
 &lt;li&gt;vicinity 附近，临近，附近地区，大约的程度或数量&lt;/li&gt;
 &lt;li&gt;retention 保留，记忆力，保持力，滞留，扣留&lt;/li&gt;
 &lt;li&gt;suffice 足够，有能力，满足……的需要，使满足&lt;/li&gt;
+&lt;li&gt;rudimentary 简陋的&lt;/li&gt;
+&lt;li&gt;inadvertently 漫不经心地，疏忽地&lt;/li&gt;
+&lt;li&gt;cease 停止，终止&lt;/li&gt;
+&lt;li&gt;collectively 全体地，共同地&lt;/li&gt;
+&lt;li&gt;daunting 令人畏惧的，使人气馁的&lt;/li&gt;
+&lt;li&gt;encompass 围绕，包围，包含，包括&lt;/li&gt;
+&lt;li&gt;devastating 毁灭性的，令人震惊的&lt;/li&gt;
+&lt;li&gt;retrofit 给机器设备装配（新部件），翻新，改型&lt;/li&gt;
+&lt;li&gt;yield to 让步于，使自己受到xxx的支配&lt;/li&gt;
+&lt;li&gt;sterilizer 消毒者，消毒器&lt;/li&gt;
+&lt;li&gt;salient 显著的，突出的，跳跃的，（角）凸出的&lt;/li&gt;
+&lt;li&gt;nuanced 有细微差别的&lt;/li&gt;
+&lt;li&gt;discern 察觉出，了解；分辨出&lt;/li&gt;
+&lt;li&gt;subsidised 补贴的&lt;/li&gt;
+&lt;li&gt;culprit 犯人，罪犯&lt;/li&gt;
+&lt;li&gt;holistic 全盘的，整体的，功能整体性的&lt;/li&gt;
+&lt;li&gt;endeavor 努力，尽力&lt;/li&gt;
+&lt;li&gt;influx 注入，流入，汇集&lt;/li&gt;
+&lt;li&gt;plausible 貌似真实的，貌似有理的，花言巧语的&lt;/li&gt;
+&lt;li&gt;pertain 有关，存在，适用&lt;/li&gt;
+&lt;li&gt;obsolescence 废弃，陈旧过时，（器官）废退&lt;/li&gt;
+&lt;li&gt;resort to 诉诸，依靠，求助于&lt;/li&gt;
+&lt;li&gt;discrepancy 差异，不一致，区别&lt;/li&gt;
+&lt;li&gt;impair 损害，削弱&lt;/li&gt;
+&lt;li&gt;hefty 重的，健壮的，异常大的，重量级的&lt;/li&gt;
+&lt;li&gt;paucity 少量，缺乏，不足，缺少&lt;/li&gt;
+&lt;li&gt;obstruct 阻碍，阻止，妨碍&lt;/li&gt;
+&lt;li&gt;retention 保留，记忆力，滞留，扣留&lt;/li&gt;
 &lt;/ul&gt;
 </description>
                 
@@ -414,7 +442,7 @@ that they need to execute. In order to use any of these tools, the analyst must 
                         
                         
                             
-                                <category domain="https://c01dkit.com/tech/">tech</category>
+                                <category domain="https://blog.c01dkit.com/tech/">tech</category>
                             
                         
                     
@@ -429,8 +457,8 @@ that they need to execute. In order to use any of these tools, the analyst must 
         
             <item>
                 <title>光怪陆离</title>
-                <link>https://c01dkit.com/life/lustrous-and-dazzling/</link>
-                <guid isPermaLink="true">https://c01dkit.com/life/lustrous-and-dazzling/</guid>
+                <link>https://blog.c01dkit.com/life/lustrous-and-dazzling/</link>
+                <guid isPermaLink="true">https://blog.c01dkit.com/life/lustrous-and-dazzling/</guid>
                 <pubDate>Sun, 19 Jun 2022 19:55:48 &#43;0800</pubDate>
                 
                     <author>contact@c01dkit.com (c01dkit)</author>
@@ -539,7 +567,7 @@ that they need to execute. In order to use any of these tools, the analyst must 
                         
                         
                             
-                                <category domain="https://c01dkit.com/life/">life</category>
+                                <category domain="https://blog.c01dkit.com/life/">life</category>
                             
                         
                     
@@ -554,8 +582,8 @@ that they need to execute. In order to use any of these tools, the analyst must 
         
             <item>
                 <title>平心与静气</title>
-                <link>https://c01dkit.com/life/calm-down/</link>
-                <guid isPermaLink="true">https://c01dkit.com/life/calm-down/</guid>
+                <link>https://blog.c01dkit.com/life/calm-down/</link>
+                <guid isPermaLink="true">https://blog.c01dkit.com/life/calm-down/</guid>
                 <pubDate>Wed, 25 May 2022 18:43:03 &#43;0800</pubDate>
                 
                     <author>contact@c01dkit.com (c01dkit)</author>
@@ -578,7 +606,7 @@ that they need to execute. In order to use any of these tools, the analyst must 
                         
                         
                             
-                                <category domain="https://c01dkit.com/life/">life</category>
+                                <category domain="https://blog.c01dkit.com/life/">life</category>
                             
                         
                     
@@ -593,8 +621,8 @@ that they need to execute. In order to use any of these tools, the analyst must 
         
             <item>
                 <title>模糊测试</title>
-                <link>https://c01dkit.com/tech/fuzzing/</link>
-                <guid isPermaLink="true">https://c01dkit.com/tech/fuzzing/</guid>
+                <link>https://blog.c01dkit.com/tech/fuzzing/</link>
+                <guid isPermaLink="true">https://blog.c01dkit.com/tech/fuzzing/</guid>
                 <pubDate>Tue, 24 May 2022 18:42:25 &#43;0800</pubDate>
                 
                     <author>contact@c01dkit.com (c01dkit)</author>
@@ -602,7 +630,7 @@ that they need to execute. In order to use any of these tools, the analyst must 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
                     <description>&lt;h2 id=&#34;基本介绍&#34;&gt;基本介绍&lt;/h2&gt;
-&lt;p&gt;覆盖率指引的模糊测试方法获得覆盖率的四种追踪方式&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;https://c01dkit.com/tech/fuzzing/#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;：&lt;/p&gt;
+&lt;p&gt;覆盖率指引的模糊测试方法获得覆盖率的四种追踪方式&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;https://blog.c01dkit.com/tech/fuzzing/#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;：&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;使用编译器向基本块边缘插桩，可以准确地插桩并易于优化，但需要源码已知。&lt;/li&gt;
 &lt;li&gt;静态二进制重写，不需要源码，仍在研究，因为静态代码插桩准确性难以保证，并且优化能力有限。这些限制条件会影响代码率信息的质量与准确性，以及二进制重写的表现。&lt;/li&gt;
@@ -657,7 +685,7 @@ that they need to execute. In order to use any of these tools, the analyst must 
 &lt;hr&gt;
 &lt;ol&gt;
 &lt;li id=&#34;fn:1&#34;&gt;
-&lt;p&gt;&lt;a href=&#34;https://smartech.gatech.edu/bitstream/handle/1853/66560/LOPEZ-THESIS-2022.pdf?sequence=1&#34;&gt;FUZZING WITH PERFORMANCE MONITORING AND TRACING HARDWARE&lt;/a&gt;&amp;#160;&lt;a href=&#34;https://c01dkit.com/tech/fuzzing/#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://smartech.gatech.edu/bitstream/handle/1853/66560/LOPEZ-THESIS-2022.pdf?sequence=1&#34;&gt;FUZZING WITH PERFORMANCE MONITORING AND TRACING HARDWARE&lt;/a&gt;&amp;#160;&lt;a href=&#34;https://blog.c01dkit.com/tech/fuzzing/#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
@@ -672,7 +700,7 @@ that they need to execute. In order to use any of these tools, the analyst must 
                         
                         
                             
-                                <category domain="https://c01dkit.com/tech/">tech</category>
+                                <category domain="https://blog.c01dkit.com/tech/">tech</category>
                             
                         
                     
@@ -687,8 +715,8 @@ that they need to execute. In order to use any of these tools, the analyst must 
         
             <item>
                 <title>黄昏随想</title>
-                <link>https://c01dkit.com/life/dusk-thoughts/</link>
-                <guid isPermaLink="true">https://c01dkit.com/life/dusk-thoughts/</guid>
+                <link>https://blog.c01dkit.com/life/dusk-thoughts/</link>
+                <guid isPermaLink="true">https://blog.c01dkit.com/life/dusk-thoughts/</guid>
                 <pubDate>Mon, 04 Apr 2022 17:48:04 &#43;0800</pubDate>
                 
                     <author>contact@c01dkit.com (c01dkit)</author>
@@ -713,7 +741,7 @@ that they need to execute. In order to use any of these tools, the analyst must 
                         
                         
                             
-                                <category domain="https://c01dkit.com/life/">life</category>
+                                <category domain="https://blog.c01dkit.com/life/">life</category>
                             
                         
                     
@@ -728,8 +756,8 @@ that they need to execute. In order to use any of these tools, the analyst must 
         
             <item>
                 <title>此间过往，说予你听</title>
-                <link>https://c01dkit.com/life/letter-to-the-young/</link>
-                <guid isPermaLink="true">https://c01dkit.com/life/letter-to-the-young/</guid>
+                <link>https://blog.c01dkit.com/life/letter-to-the-young/</link>
+                <guid isPermaLink="true">https://blog.c01dkit.com/life/letter-to-the-young/</guid>
                 <pubDate>Tue, 29 Mar 2022 20:49:10 &#43;0800</pubDate>
                 
                     <author>contact@c01dkit.com (c01dkit)</author>
@@ -754,7 +782,7 @@ that they need to execute. In order to use any of these tools, the analyst must 
                         
                         
                             
-                                <category domain="https://c01dkit.com/life/">life</category>
+                                <category domain="https://blog.c01dkit.com/life/">life</category>
                             
                         
                     
@@ -769,8 +797,8 @@ that they need to execute. In order to use any of these tools, the analyst must 
         
             <item>
                 <title>记忆的气息</title>
-                <link>https://c01dkit.com/life/memodor/</link>
-                <guid isPermaLink="true">https://c01dkit.com/life/memodor/</guid>
+                <link>https://blog.c01dkit.com/life/memodor/</link>
+                <guid isPermaLink="true">https://blog.c01dkit.com/life/memodor/</guid>
                 <pubDate>Sat, 26 Feb 2022 17:11:38 &#43;0800</pubDate>
                 
                     <author>contact@c01dkit.com (c01dkit)</author>
@@ -796,7 +824,7 @@ that they need to execute. In order to use any of these tools, the analyst must 
                         
                         
                             
-                                <category domain="https://c01dkit.com/life/">life</category>
+                                <category domain="https://blog.c01dkit.com/life/">life</category>
                             
                         
                     
@@ -811,8 +839,8 @@ that they need to execute. In order to use any of these tools, the analyst must 
         
             <item>
                 <title>追忆：本科生涯</title>
-                <link>https://c01dkit.com/life/undergraduate/</link>
-                <guid isPermaLink="true">https://c01dkit.com/life/undergraduate/</guid>
+                <link>https://blog.c01dkit.com/life/undergraduate/</link>
+                <guid isPermaLink="true">https://blog.c01dkit.com/life/undergraduate/</guid>
                 <pubDate>Fri, 24 Sep 2021 14:38:01 &#43;0800</pubDate>
                 
                     <author>contact@c01dkit.com (c01dkit)</author>
@@ -886,7 +914,7 @@ that they need to execute. In order to use any of these tools, the analyst must 
                         
                         
                             
-                                <category domain="https://c01dkit.com/life/">life</category>
+                                <category domain="https://blog.c01dkit.com/life/">life</category>
                             
                         
                     
@@ -901,8 +929,8 @@ that they need to execute. In order to use any of these tools, the analyst must 
         
             <item>
                 <title>追忆：带训时光</title>
-                <link>https://c01dkit.com/life/drill-thoughts/</link>
-                <guid isPermaLink="true">https://c01dkit.com/life/drill-thoughts/</guid>
+                <link>https://blog.c01dkit.com/life/drill-thoughts/</link>
+                <guid isPermaLink="true">https://blog.c01dkit.com/life/drill-thoughts/</guid>
                 <pubDate>Sun, 12 Sep 2021 14:32:26 &#43;0800</pubDate>
                 
                     <author>contact@c01dkit.com (c01dkit)</author>
@@ -957,7 +985,7 @@ that they need to execute. In order to use any of these tools, the analyst must 
                         
                         
                             
-                                <category domain="https://c01dkit.com/life/">life</category>
+                                <category domain="https://blog.c01dkit.com/life/">life</category>
                             
                         
                     

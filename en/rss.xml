@@ -8,7 +8,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Ripple in Abyss</title>
-        <link>https://c01dkit.com/en/</link>
+        <link>https://blog.c01dkit.com/en/</link>
         <description>关心下一代二进制软件安全</description>
         <generator>Hugo 0.111.1 https://gohugo.io/</generator>
         
@@ -23,15 +23,15 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Sat, 04 Mar 2023 10:11:32 &#43;0800</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 21:18:26 &#43;0800</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://c01dkit.com/en/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://blog.c01dkit.com/en/rss.xml" />
         
         
             <item>
                 <title>Margin with people</title>
-                <link>https://c01dkit.com/en/life/connection-with-people/</link>
-                <guid isPermaLink="true">https://c01dkit.com/en/life/connection-with-people/</guid>
+                <link>https://blog.c01dkit.com/en/life/connection-with-people/</link>
+                <guid isPermaLink="true">https://blog.c01dkit.com/en/life/connection-with-people/</guid>
                 <pubDate>Sun, 28 Aug 2022 20:31:15 &#43;0800</pubDate>
                 
                     <author>contact@c01dkit.com (c01dkit)</author>
@@ -55,7 +55,7 @@
                         
                         
                             
-                                <category domain="https://c01dkit.com/en/life/">life</category>
+                                <category domain="https://blog.c01dkit.com/en/life/">life</category>
                             
                         
                     
@@ -66,8 +66,8 @@
         
             <item>
                 <title>Why are we getting nostalgic？</title>
-                <link>https://c01dkit.com/en/life/why-reminiscence/</link>
-                <guid isPermaLink="true">https://c01dkit.com/en/life/why-reminiscence/</guid>
+                <link>https://blog.c01dkit.com/en/life/why-reminiscence/</link>
+                <guid isPermaLink="true">https://blog.c01dkit.com/en/life/why-reminiscence/</guid>
                 <pubDate>Thu, 07 Jul 2022 14:10:49 &#43;0800</pubDate>
                 
                     <author>contact@c01dkit.com (c01dkit)</author>
@@ -141,7 +141,7 @@
                         
                         
                             
-                                <category domain="https://c01dkit.com/en/life/">life</category>
+                                <category domain="https://blog.c01dkit.com/en/life/">life</category>
                             
                         
                     
@@ -152,8 +152,8 @@
         
             <item>
                 <title>Lustrous and Dazzling</title>
-                <link>https://c01dkit.com/en/life/lustrous-and-dazzling/</link>
-                <guid isPermaLink="true">https://c01dkit.com/en/life/lustrous-and-dazzling/</guid>
+                <link>https://blog.c01dkit.com/en/life/lustrous-and-dazzling/</link>
+                <guid isPermaLink="true">https://blog.c01dkit.com/en/life/lustrous-and-dazzling/</guid>
                 <pubDate>Sun, 19 Jun 2022 19:55:48 &#43;0800</pubDate>
                 
                     <author>contact@c01dkit.com (c01dkit)</author>
@@ -259,7 +259,7 @@
                         
                         
                             
-                                <category domain="https://c01dkit.com/en/life/">life</category>
+                                <category domain="https://blog.c01dkit.com/en/life/">life</category>
                             
                         
                     
@@ -270,8 +270,8 @@
         
             <item>
                 <title>Peace and Calmness</title>
-                <link>https://c01dkit.com/en/life/calm-down/</link>
-                <guid isPermaLink="true">https://c01dkit.com/en/life/calm-down/</guid>
+                <link>https://blog.c01dkit.com/en/life/calm-down/</link>
+                <guid isPermaLink="true">https://blog.c01dkit.com/en/life/calm-down/</guid>
                 <pubDate>Wed, 25 May 2022 18:43:03 &#43;0800</pubDate>
                 
                     <author>contact@c01dkit.com (c01dkit)</author>
@@ -294,7 +294,7 @@
                         
                         
                             
-                                <category domain="https://c01dkit.com/en/life/">life</category>
+                                <category domain="https://blog.c01dkit.com/en/life/">life</category>
                             
                         
                     
@@ -305,8 +305,8 @@
         
             <item>
                 <title>Dusk Reflections</title>
-                <link>https://c01dkit.com/en/life/dusk-thoughts/</link>
-                <guid isPermaLink="true">https://c01dkit.com/en/life/dusk-thoughts/</guid>
+                <link>https://blog.c01dkit.com/en/life/dusk-thoughts/</link>
+                <guid isPermaLink="true">https://blog.c01dkit.com/en/life/dusk-thoughts/</guid>
                 <pubDate>Mon, 04 Apr 2022 17:48:04 &#43;0800</pubDate>
                 
                     <author>contact@c01dkit.com (c01dkit)</author>
@@ -331,7 +331,7 @@
                         
                         
                             
-                                <category domain="https://c01dkit.com/en/life/">life</category>
+                                <category domain="https://blog.c01dkit.com/en/life/">life</category>
                             
                         
                     
@@ -342,8 +342,8 @@
         
             <item>
                 <title>Letter to The Young</title>
-                <link>https://c01dkit.com/en/life/letter-to-the-young/</link>
-                <guid isPermaLink="true">https://c01dkit.com/en/life/letter-to-the-young/</guid>
+                <link>https://blog.c01dkit.com/en/life/letter-to-the-young/</link>
+                <guid isPermaLink="true">https://blog.c01dkit.com/en/life/letter-to-the-young/</guid>
                 <pubDate>Tue, 29 Mar 2022 20:49:10 &#43;0800</pubDate>
                 
                     <author>contact@c01dkit.com (c01dkit)</author>
@@ -368,7 +368,7 @@
                         
                         
                             
-                                <category domain="https://c01dkit.com/en/life/">life</category>
+                                <category domain="https://blog.c01dkit.com/en/life/">life</category>
                             
                         
                     
@@ -379,8 +379,8 @@
         
             <item>
                 <title>Scent of Memory</title>
-                <link>https://c01dkit.com/en/life/memodor/</link>
-                <guid isPermaLink="true">https://c01dkit.com/en/life/memodor/</guid>
+                <link>https://blog.c01dkit.com/en/life/memodor/</link>
+                <guid isPermaLink="true">https://blog.c01dkit.com/en/life/memodor/</guid>
                 <pubDate>Sat, 26 Feb 2022 17:11:38 &#43;0800</pubDate>
                 
                     <author>contact@c01dkit.com (c01dkit)</author>
@@ -406,7 +406,7 @@
                         
                         
                             
-                                <category domain="https://c01dkit.com/en/life/">life</category>
+                                <category domain="https://blog.c01dkit.com/en/life/">life</category>
                             
                         
                     

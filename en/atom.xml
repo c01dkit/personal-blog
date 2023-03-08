@@ -4,13 +4,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
     <title type="text">Ripple in Abyss</title>
     <subtitle type="html">关心下一代二进制软件安全</subtitle>
-    <updated>2023-03-04T10:11:32&#43;08:00</updated>
-    <id>https://c01dkit.com/en/</id>
-    <link rel="alternate" type="text/html" href="https://c01dkit.com/en/" />
-    <link rel="self" type="application/atom&#43;xml" href="https://c01dkit.com/en/atom.xml" />
+    <updated>2023-03-08T21:18:26&#43;08:00</updated>
+    <id>https://blog.c01dkit.com/en/</id>
+    <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/en/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://blog.c01dkit.com/en/atom.xml" />
     <author>
             <name>c01dkit</name>
-            <uri>https://c01dkit.com/en/</uri>
+            <uri>https://blog.c01dkit.com/en/</uri>
             
                 <email>contact@c01dkit.com</email>
             </author>
@@ -18,13 +18,13 @@
     <generator uri="https://gohugo.io/" version="0.111.1">Hugo</generator>
         <entry>
             <title type="text">Margin with people</title>
-            <link rel="alternate" type="text/html" href="https://c01dkit.com/en/life/connection-with-people/" />
-            <id>https://c01dkit.com/en/life/connection-with-people/</id>
+            <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/en/life/connection-with-people/" />
+            <id>https://blog.c01dkit.com/en/life/connection-with-people/</id>
             <updated>2023-03-04T09:16:05&#43;08:00</updated>
             <published>2022-08-28T20:31:15&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
-                    <uri>https://c01dkit.com/</uri>
+                    <uri>https://blog.c01dkit.com/</uri>
                     <email>contact@c01dkit.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Finally I caught up with the end of August and wrote this article in the Life Series. When I think about it, it seems that this month has passed too quickly and there are no wonderful moments worth sharing. When I look at August, it stretches like an eternity; but once I look away, this eternity of countless moments also falls apart and disappears. What disappears together is the awareness of the unconscious.</summary>
@@ -46,7 +46,7 @@
                     
                     
                         
-                            <category scheme="https://c01dkit.com/en/life/" term="life" label="life" />
+                            <category scheme="https://blog.c01dkit.com/en/life/" term="life" label="life" />
                         
                     
                 
@@ -57,13 +57,13 @@
     
         <entry>
             <title type="text">Why are we getting nostalgic？</title>
-            <link rel="alternate" type="text/html" href="https://c01dkit.com/en/life/why-reminiscence/" />
-            <id>https://c01dkit.com/en/life/why-reminiscence/</id>
+            <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/en/life/why-reminiscence/" />
+            <id>https://blog.c01dkit.com/en/life/why-reminiscence/</id>
             <updated>2023-03-04T09:16:05&#43;08:00</updated>
             <published>2022-07-07T14:10:49&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
-                    <uri>https://c01dkit.com/</uri>
+                    <uri>https://blog.c01dkit.com/</uri>
                     <email>contact@c01dkit.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Cited from People
@@ -136,7 +136,7 @@ Perhaps you have noticed that we are being densely wrapped in nostalgia. Cultura
                     
                     
                         
-                            <category scheme="https://c01dkit.com/en/life/" term="life" label="life" />
+                            <category scheme="https://blog.c01dkit.com/en/life/" term="life" label="life" />
                         
                     
                 
@@ -147,13 +147,13 @@ Perhaps you have noticed that we are being densely wrapped in nostalgia. Cultura
     
         <entry>
             <title type="text">Lustrous and Dazzling</title>
-            <link rel="alternate" type="text/html" href="https://c01dkit.com/en/life/lustrous-and-dazzling/" />
-            <id>https://c01dkit.com/en/life/lustrous-and-dazzling/</id>
+            <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/en/life/lustrous-and-dazzling/" />
+            <id>https://blog.c01dkit.com/en/life/lustrous-and-dazzling/</id>
             <updated>2023-03-04T09:16:05&#43;08:00</updated>
             <published>2022-06-19T19:55:48&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
-                    <uri>https://c01dkit.com/</uri>
+                    <uri>https://blog.c01dkit.com/</uri>
                     <email>contact@c01dkit.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Gas Station I saw them standing on the roof of a car gas station shed, dreaming like no one had ever dreamed before. They jumped, waved their hands, shouted in silence, and then the shed rose from the ground and slowly rose. I saw two or three policemen holding the supporting pillars and flying up with the shed. Little by little, they climbed upward, and the shed suddenly flew flat and away, and soon disappeared from sight.</summary>
@@ -257,7 +257,7 @@ Perhaps you have noticed that we are being densely wrapped in nostalgia. Cultura
                     
                     
                         
-                            <category scheme="https://c01dkit.com/en/life/" term="life" label="life" />
+                            <category scheme="https://blog.c01dkit.com/en/life/" term="life" label="life" />
                         
                     
                 
@@ -268,13 +268,13 @@ Perhaps you have noticed that we are being densely wrapped in nostalgia. Cultura
     
         <entry>
             <title type="text">Peace and Calmness</title>
-            <link rel="alternate" type="text/html" href="https://c01dkit.com/en/life/calm-down/" />
-            <id>https://c01dkit.com/en/life/calm-down/</id>
+            <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/en/life/calm-down/" />
+            <id>https://blog.c01dkit.com/en/life/calm-down/</id>
             <updated>2023-03-04T09:16:05&#43;08:00</updated>
             <published>2022-05-25T18:43:03&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
-                    <uri>https://c01dkit.com/</uri>
+                    <uri>https://blog.c01dkit.com/</uri>
                     <email>contact@c01dkit.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Recently, I&#39;ve suddenly become very upset without any warning. I was busy with my graduation thesis some time ago, and it took me a long time to turn it in, so I should start doing the defense PPT; the branch affairs came one after another, and I had to work for all parties day after day, and I was busy. On the contrary, I gradually began to lose patience with my own work, and simply passed by as if I was doing a show, and did not do anything meaningful or breakthrough progress.</summary>
@@ -295,7 +295,7 @@ Perhaps you have noticed that we are being densely wrapped in nostalgia. Cultura
                     
                     
                         
-                            <category scheme="https://c01dkit.com/en/life/" term="life" label="life" />
+                            <category scheme="https://blog.c01dkit.com/en/life/" term="life" label="life" />
                         
                     
                 
@@ -306,13 +306,13 @@ Perhaps you have noticed that we are being densely wrapped in nostalgia. Cultura
     
         <entry>
             <title type="text">Dusk Reflections</title>
-            <link rel="alternate" type="text/html" href="https://c01dkit.com/en/life/dusk-thoughts/" />
-            <id>https://c01dkit.com/en/life/dusk-thoughts/</id>
+            <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/en/life/dusk-thoughts/" />
+            <id>https://blog.c01dkit.com/en/life/dusk-thoughts/</id>
             <updated>2023-03-04T09:16:05&#43;08:00</updated>
             <published>2022-04-04T17:48:04&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
-                    <uri>https://c01dkit.com/</uri>
+                    <uri>https://blog.c01dkit.com/</uri>
                     <email>contact@c01dkit.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Today&#39;s first attempt to brew some tea bags, is before the roommate from outside to bring back the tea color. When working with headphones playing a little BGM.
@@ -336,7 +336,7 @@ Perhaps the task is more clearly arranged, purely to write code? Or is the tea h
                     
                     
                         
-                            <category scheme="https://c01dkit.com/en/life/" term="life" label="life" />
+                            <category scheme="https://blog.c01dkit.com/en/life/" term="life" label="life" />
                         
                     
                 
@@ -347,13 +347,13 @@ Perhaps the task is more clearly arranged, purely to write code? Or is the tea h
     
         <entry>
             <title type="text">Letter to The Young</title>
-            <link rel="alternate" type="text/html" href="https://c01dkit.com/en/life/letter-to-the-young/" />
-            <id>https://c01dkit.com/en/life/letter-to-the-young/</id>
+            <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/en/life/letter-to-the-young/" />
+            <id>https://blog.c01dkit.com/en/life/letter-to-the-young/</id>
             <updated>2023-03-04T09:16:05&#43;08:00</updated>
             <published>2022-03-29T20:49:10&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
-                    <uri>https://c01dkit.com/</uri>
+                    <uri>https://blog.c01dkit.com/</uri>
                     <email>contact@c01dkit.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">It is time for me to talk about my undergraduate life, which has passed so quickly. Although I have been involved in many activities and work, I feel that I am not qualified to &amp;quot;advise on college planning&amp;quot;. It is better to talk about the memory of the past, and talk about the ideal of better behavior. Looking back on these four years of groping, there are always a thousand words, all kinds of thoughts haunting, difficult to express.</summary>
@@ -376,7 +376,7 @@ Perhaps the task is more clearly arranged, purely to write code? Or is the tea h
                     
                     
                         
-                            <category scheme="https://c01dkit.com/en/life/" term="life" label="life" />
+                            <category scheme="https://blog.c01dkit.com/en/life/" term="life" label="life" />
                         
                     
                 
@@ -387,13 +387,13 @@ Perhaps the task is more clearly arranged, purely to write code? Or is the tea h
     
         <entry>
             <title type="text">Scent of Memory</title>
-            <link rel="alternate" type="text/html" href="https://c01dkit.com/en/life/memodor/" />
-            <id>https://c01dkit.com/en/life/memodor/</id>
+            <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/en/life/memodor/" />
+            <id>https://blog.c01dkit.com/en/life/memodor/</id>
             <updated>2023-03-04T09:16:05&#43;08:00</updated>
             <published>2022-02-26T17:11:38&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
-                    <uri>https://c01dkit.com/</uri>
+                    <uri>https://blog.c01dkit.com/</uri>
                     <email>contact@c01dkit.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">The smoke from the cigarettes dissipated, and the scent of tea leaves, which had been brewed several times, mixed in the slightly humid air - in the hallway with only the tile floor illuminated by cold light and the walls painted once a year. Smelling the faint fragrance of green tea sugar, I felt like I was back ten or so years ago, running around in the living room of my grandfather&#39;s house; and like I was going to that winter afternoon ten years later, when the sun shone orange and yellow, warm and warm, soft and gentle through the window, shining on the computer desk, illuminating half of the computer screen, and half of the photos.</summary>
@@ -417,7 +417,7 @@ Perhaps the task is more clearly arranged, purely to write code? Or is the tea h
                     
                     
                         
-                            <category scheme="https://c01dkit.com/en/life/" term="life" label="life" />
+                            <category scheme="https://blog.c01dkit.com/en/life/" term="life" label="life" />
                         
                     
                 
