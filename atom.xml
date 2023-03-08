@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">渊漪</title>
     <subtitle type="html">关心下一代二进制软件安全</subtitle>
-    <updated>2023-03-08T21:18:25&#43;08:00</updated>
+    <updated>2023-03-08T21:25:24&#43;08:00</updated>
     <id>https://blog.c01dkit.com/</id>
     <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://blog.c01dkit.com/atom.xml" />
@@ -259,7 +259,7 @@
             <title type="text">寻章摘句</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/tech/picking-ups/" />
             <id>https://blog.c01dkit.com/tech/picking-ups/</id>
-            <updated>2023-03-06T09:22:35&#43;08:00</updated>
+            <updated>2023-03-08T21:25:13&#43;08:00</updated>
             <published>2022-06-26T20:48:40&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
@@ -430,6 +430,9 @@ that they need to execute. In order to use any of these tools, the analyst must 
 &lt;li&gt;paucity 少量，缺乏，不足，缺少&lt;/li&gt;
 &lt;li&gt;obstruct 阻碍，阻止，妨碍&lt;/li&gt;
 &lt;li&gt;retention 保留，记忆力，滞留，扣留&lt;/li&gt;
+&lt;li&gt;envision 设想，预想 vt.&lt;/li&gt;
+&lt;li&gt;remediate 补救，治疗，矫正，修复&lt;/li&gt;
+&lt;li&gt;conundrum 谜语，难解的问题&lt;/li&gt;
 &lt;/ul&gt;
 </content>
             
