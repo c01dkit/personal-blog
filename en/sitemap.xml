@@ -2,8 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.c01dkit.com/en/life/about-reading-novels/</loc>
+    <lastmod>2023-03-12T17:41:08+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://blog.c01dkit.com/life/about-reading-novels/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.c01dkit.com/en/life/about-reading-novels/"
+                />
+  </url><url>
     <loc>https://blog.c01dkit.com/en/life/</loc>
-    <lastmod>2023-03-04T09:16:05+08:00</lastmod>
+    <lastmod>2023-03-12T17:41:08+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -13,6 +26,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://blog.c01dkit.com/en/life/"
+                />
+  </url><url>
+    <loc>https://blog.c01dkit.com/en/</loc>
+    <lastmod>2023-03-12T17:41:08+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://blog.c01dkit.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.c01dkit.com/en/"
                 />
   </url><url>
     <loc>https://blog.c01dkit.com/en/life/connection-with-people/</loc>
@@ -26,19 +52,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://blog.c01dkit.com/en/life/connection-with-people/"
-                />
-  </url><url>
-    <loc>https://blog.c01dkit.com/en/</loc>
-    <lastmod>2023-03-04T09:16:05+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://blog.c01dkit.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.c01dkit.com/en/"
                 />
   </url><url>
     <loc>https://blog.c01dkit.com/en/life/why-reminiscence/</loc>

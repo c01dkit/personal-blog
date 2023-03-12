@@ -2,14 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.c01dkit.com/tech/porting/</loc>
-    <lastmod>2023-03-10T16:34:03+08:00</lastmod>
+    <loc>https://blog.c01dkit.com/life/</loc>
+    <lastmod>2023-03-12T17:36:43+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.c01dkit.com/en/life/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://blog.c01dkit.com/life/"
+                />
   </url><url>
-    <loc>https://blog.c01dkit.com/tech/</loc>
-    <lastmod>2023-03-10T16:34:03+08:00</lastmod>
+    <loc>https://blog.c01dkit.com/life/about-reading-novels/</loc>
+    <lastmod>2023-03-12T17:36:43+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.c01dkit.com/en/life/about-reading-novels/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://blog.c01dkit.com/life/about-reading-novels/"
+                />
   </url><url>
     <loc>https://blog.c01dkit.com/</loc>
-    <lastmod>2023-03-10T16:34:03+08:00</lastmod>
+    <lastmod>2023-03-12T17:36:43+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -21,18 +41,11 @@
                 href="https://blog.c01dkit.com/"
                 />
   </url><url>
-    <loc>https://blog.c01dkit.com/life/</loc>
-    <lastmod>2023-03-10T09:04:17+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.c01dkit.com/en/life/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://blog.c01dkit.com/life/"
-                />
+    <loc>https://blog.c01dkit.com/tech/</loc>
+    <lastmod>2023-03-12T15:35:47+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.c01dkit.com/tech/porting/</loc>
+    <lastmod>2023-03-12T15:35:47+08:00</lastmod>
   </url><url>
     <loc>https://blog.c01dkit.com/life/connection-with-people/</loc>
     <lastmod>2023-03-04T09:16:05+08:00</lastmod>
@@ -96,7 +109,7 @@
     <lastmod>2023-03-04T09:16:05+08:00</lastmod>
   </url><url>
     <loc>https://blog.c01dkit.com/about/</loc>
-    <lastmod>2023-03-04T09:16:05+08:00</lastmod>
+    <lastmod>2023-03-12T15:41:40+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
