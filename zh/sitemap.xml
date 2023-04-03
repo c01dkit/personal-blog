@@ -2,14 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.c01dkit.com/tech/pwn-college/</loc>
-    <lastmod>2023-03-20T22:39:50+08:00</lastmod>
+    <loc>https://blog.c01dkit.com/tech/try-chatgpt/</loc>
+    <lastmod>2023-04-01T14:08:41+08:00</lastmod>
   </url><url>
     <loc>https://blog.c01dkit.com/tech/</loc>
-    <lastmod>2023-03-21T21:54:45+08:00</lastmod>
+    <lastmod>2023-04-01T14:08:41+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.c01dkit.com/en/tech/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://blog.c01dkit.com/tech/"
+                />
   </url><url>
     <loc>https://blog.c01dkit.com/</loc>
-    <lastmod>2023-03-26T21:21:22+08:00</lastmod>
+    <lastmod>2023-04-03T21:42:53+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -20,9 +30,6 @@
                 hreflang="zh"
                 href="https://blog.c01dkit.com/"
                 />
-  </url><url>
-    <loc>https://blog.c01dkit.com/tech/try-chatgpt/</loc>
-    <lastmod>2023-03-18T19:19:52+08:00</lastmod>
   </url><url>
     <loc>https://blog.c01dkit.com/life/</loc>
     <lastmod>2023-03-12T20:12:50+08:00</lastmod>
@@ -86,7 +93,7 @@
     <lastmod>2023-03-21T21:54:45+08:00</lastmod>
   </url><url>
     <loc>https://blog.c01dkit.com/tech/picking-ups/</loc>
-    <lastmod>2023-03-18T20:23:21+08:00</lastmod>
+    <lastmod>2023-03-27T12:11:09+08:00</lastmod>
   </url><url>
     <loc>https://blog.c01dkit.com/life/lustrous-and-dazzling/</loc>
     <lastmod>2023-03-04T09:16:05+08:00</lastmod>
@@ -118,7 +125,7 @@
     <lastmod>2023-03-04T09:16:05+08:00</lastmod>
   </url><url>
     <loc>https://blog.c01dkit.com/report/</loc>
-    <lastmod>2023-03-26T21:21:22+08:00</lastmod>
+    <lastmod>2023-04-03T21:42:53+08:00</lastmod>
   </url><url>
     <loc>https://blog.c01dkit.com/life/dusk-thoughts/</loc>
     <lastmod>2023-03-04T09:16:05+08:00</lastmod>

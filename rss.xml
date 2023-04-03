@@ -23,62 +23,10 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sun, 26 Mar 2023 21:26:18 &#43;0800</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 21:43:08 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://blog.c01dkit.com/rss.xml" />
         
-        
-            <item>
-                <title>Pwn College学习笔记</title>
-                <link>https://blog.c01dkit.com/tech/pwn-college/</link>
-                <guid isPermaLink="true">https://blog.c01dkit.com/tech/pwn-college/</guid>
-                <pubDate>Mon, 20 Mar 2023 22:08:11 &#43;0800</pubDate>
-                
-                    <author>contact@c01dkit.com (c01dkit)</author>
-                
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
-                
-                    <description>&lt;h2 id=&#34;talking-web-cse-365---spring-2023&#34;&gt;Talking Web CSE 365 - Spring 2023&lt;/h2&gt;
-&lt;h3 id=&#34;notes&#34;&gt;Notes&lt;/h3&gt;
-&lt;p&gt;请求第一行Request line：请求方法 URI 协议版本 CRLF
-响应第一行Status line：协议版本 状态码 解释 CRLF&lt;/p&gt;
-&lt;p&gt;请求方法
-GET：获取信息，如果URI是处理程序，则获取程序运行后的结果（而不是源码）
-HEAD：和GET类似，但是response不返回body，一般用于测试资源是否存在、修改时间，获取资源元数据等
-POST：提交额外的信息用于服务端处理&lt;/p&gt;
-&lt;p&gt;HTTP URL Scheme：scheme://host:port/path?query#fragment&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;scheme 访问资源的协议，比如http&lt;/li&gt;
-&lt;li&gt;host 持有资源的主机&lt;/li&gt;
-&lt;li&gt;port 提供服务的程序使用的端口&lt;/li&gt;
-&lt;li&gt;path 确定特定资源&lt;/li&gt;
-&lt;li&gt;query 资源可以利用的额外信息&lt;/li&gt;
-&lt;li&gt;fragment 客户端有关这一资源的信息（不会传给服务器？）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;writeups&#34;&gt;WriteUps&lt;/h3&gt;
-</description>
-                
-                
-                
-                    
-                    
-                    
-                        
-                        
-                        
-                            
-                                <category domain="https://blog.c01dkit.com/tech/">tech</category>
-                            
-                        
-                    
-                
-                
-                
-                    
-                        
-                    
-                
-            </item>
         
             <item>
                 <title>ChatGPT来帮忙</title>
@@ -90,7 +38,58 @@ POST：提交额外的信息用于服务端处理&lt;/p&gt;
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
-                    <description>&lt;h2 id=&#34;抽象&#34;&gt;抽象&lt;/h2&gt;
+                    <description>&lt;h2 id=&#34;linux命令&#34;&gt;linux命令&lt;/h2&gt;
+&lt;h3 id=&#34;网络站点打包下载&#34;&gt;网络站点打包下载&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;linux用哪个命令可以把一个网址以及其所依赖的js和css等等文件自动下载下来？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;在Linux中，你可以使用 wget 命令来自动下载一个网站及其依赖的资源文件（如JS和CSS等）。&lt;/p&gt;
+&lt;p&gt;下面是一个示例命令：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wget --recursive --no-clobber --page-requisites --html-extension --convert-links --restrict-file-names&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;windows --domains website.com --no-parent http://website.com
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;该命令使用了多个选项，其中一些选项的含义如下：&lt;/p&gt;
+&lt;p&gt;--recursive: 下载网站的所有链接。
+--no-clobber: 不会重复下载已经存在的文件。
+--page-requisites: 下载所有页面的资源（如图像，音频和视频）。
+--html-extension: 将所有HTML文件扩展名添加为 .html。
+--convert-links: 将所有链接转换为本地链接。
+--restrict-file-names=windows: 避免使用 Linux 不支持的文件名字符。
+--domains website.com: 限制下载的域名范围。
+--no-parent: 不会下载父级链接（有助于防止无限递归）。&lt;/p&gt;
+&lt;p&gt;你可以根据自己的需要修改这些选项以满足特定的要求。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;用这条命令被服务器发现恶意下载，被给403 forbidden了怎么办？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;如果你使用的命令被服务器认为是恶意下载，并且被服务器拒绝访问，那么你可以考虑以下一些方法来解决这个问题：&lt;/p&gt;
+&lt;p&gt;修改下载速度：有些服务器可能会限制下载速度，如果你下载的太快，就会被认为是攻击。你可以尝试使用 --limit-rate 选项来限制下载速度，例如：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wget --limit-rate&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;200k http://example.com
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;修改下载并发数：类似于速度限制，一些服务器也会限制同时进行的下载数。你可以尝试使用 --tries 和 --wait 选项来限制并发下载数，例如：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wget --tries&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;10&lt;/span&gt; --wait&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;5&lt;/span&gt; http://example.com
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;添加 User-Agent：有些服务器可能会检查 User-Agent，如果 User-Agent 被认为是恶意的，那么你的请求也会被拒绝。你可以尝试使用 --user-agent 选项来设置 User-Agent，例如：&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;wget --user-agent=&amp;#34;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3&amp;#34; http://example.com
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;与服务器管理员联系：如果以上方法都不能解决问题，你可以联系服务器管理员，说明你的下载请求是合法的，请求他们放行你的请求。
+需要注意的是，不要使用非法的方式下载文件，以免侵犯他人的合法权益，并有可能导致法律纠纷。&lt;/p&gt;
+&lt;h2 id=&#34;抽象&#34;&gt;抽象&lt;/h2&gt;
 &lt;h3 id=&#34;比较gopythonrust的关系&#34;&gt;比较Go、Python、Rust的关系&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;go、rust、python三种编程语言在语言特性方面有什么区别？各自有什么优势？适用场景有什么区别？&lt;/p&gt;
@@ -1216,6 +1215,15 @@ that they need to execute. In order to use any of these tools, the analyst must 
 &lt;li&gt;remediate 补救，治疗，矫正，修复&lt;/li&gt;
 &lt;li&gt;conundrum 谜语，难解的问题&lt;/li&gt;
 &lt;li&gt;depict 展示，描述，显示&lt;/li&gt;
+&lt;li&gt;expedite 加快进展&lt;/li&gt;
+&lt;li&gt;remedy 治疗法，改正，改进，补救&lt;/li&gt;
+&lt;li&gt;instinctive reaction 本能反应&lt;/li&gt;
+&lt;li&gt;deem 认为，视为，相信&lt;/li&gt;
+&lt;li&gt;detour 绕路，绕道，弯路&lt;/li&gt;
+&lt;li&gt;futile 无效的，没用的&lt;/li&gt;
+&lt;li&gt;the hassle of sth. 某事带来的麻烦&lt;/li&gt;
+&lt;li&gt;unencumbered 没有阻碍的，不受妨碍的，无负担的&lt;/li&gt;
+&lt;li&gt;idiosyncrasy （某人特有的）气质，习性，癖好&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;情景&#34;&gt;情景&lt;/h2&gt;
 &lt;p&gt;准备开始介绍技术细节：&lt;/p&gt;
