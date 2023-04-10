@@ -23,10 +23,67 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Mon, 03 Apr 2023 21:43:08 &#43;0800</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 20:17:27 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://blog.c01dkit.com/rss.xml" />
         
+        
+            <item>
+                <title>20230407~20230410深圳行</title>
+                <link>https://blog.c01dkit.com/life/trip-to-shenzhen-inforsec/</link>
+                <guid isPermaLink="true">https://blog.c01dkit.com/life/trip-to-shenzhen-inforsec/</guid>
+                <pubDate>Mon, 10 Apr 2023 19:47:08 &#43;0800</pubDate>
+                
+                    <author>contact@c01dkit.com (c01dkit)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;h2 id=&#34;第一次飞行&#34;&gt;第一次飞行&lt;/h2&gt;
+&lt;p&gt;疫情落幕，InforSec在深圳开第一次线下会议。付冲师兄作为讲者被邀请分享，我们也商量着打算组团深圳行，一起去参会。
+这是我第一次坐飞机！也是第一次参加大型的信安线下会议。来之前还蛮紧张，安排舍友说如果没有平安回来就帮我格式化电脑（甚至开玩笑说出发之前要写好遗书hh），但实际上感觉就和大巴车似的（因为会有上下的颠簸，高铁只有左右的晃动）。两个小时的飞行，有点意犹未尽了。飞机上也比较安静，因为高空没有网络，所以也就没有打电话、视频外放啥的。云层之上的风景是蛮好看的，永远是晴天，深蓝的天幕，一望无际的云海，静谧而神秘。如果有能飞行的能力就好了。好想在云间穿梭！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://c01dkit.s3.ap-northeast-1.amazonaws.com/assets/images/20230407inforsec/Snipaste_2023-04-10_20-04-58.jpg&#34; alt=&#34;飞向深圳&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;在会议&#34;&gt;在会议&lt;/h2&gt;
+&lt;p&gt;两天的会议整体还是非常有意义的，见到了非常多的年轻老师，会议整体也并不沉闷。有一个比较有意思的梗，第一天上午有位老师在报告时打趣“听完这个报告，对xxx已经感到绝望了”，大家都欢快地发笑。之后的各位老师分享之后，主持人也会调侃“我现在对这个领域也开始感到绝望了”，又是引发一阵欢快的笑声。乃至第二天，老板来到现场主持圆桌会议，也恰如其分地援引了这个梗。&lt;/p&gt;
+&lt;p&gt;第一天下午签到的时候还可以免费领书！目测是奇安信发不出去的书了2333。在两天间的四场茶歇也不错，虽然不及去年在杭州年中汇报的茶歇优秀，但也算可以了。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://c01dkit.s3.ap-northeast-1.amazonaws.com/assets/images/20230407inforsec/Snipaste_2023-04-10_20-05-40.jpg&#34; alt=&#34;会场&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;深圳游&#34;&gt;深圳游&lt;/h2&gt;
+&lt;p&gt;会议之外，我们也夜游深圳城中村，在美食街吃了地道的肠粉和炒牛河（第一天晚上，都没吃完hhh），不得不说，只要10块加料，会给非常多的牛肉。不过肠粉吃起来的味道和杭州感觉都差不多了。最后一晚和亦凡、凌铭一起吃了牛肉火锅，体会到四五十分钟的排队，饭后又畅游夜景，一边漫步一边聊天，感受深圳高玄的崇楼与气息驳杂的巷道。不同年代修建的建筑、不同节奏的生活方式尽在一屏之内，确实是非常新奇的体验了。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://c01dkit.s3.ap-northeast-1.amazonaws.com/assets/images/20230407inforsec/Snipaste_2023-04-10_20-06-17.jpg&#34; alt=&#34;牛河与肠粉&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://c01dkit.s3.ap-northeast-1.amazonaws.com/assets/images/20230407inforsec/Snipaste_2023-04-10_20-03-59.jpg&#34; alt=&#34;藤椒味冰激凌&#34;&gt;&lt;/p&gt;
+&lt;p&gt;但是最受不了的是街道建设实在不行，行人、非机动车（乃至机动车）都在一条道上（因为很多路没有给非机动车道，所以人行道就是非机动车道），逆行的、顺行的、载人的、鸣笛的，有二轮、三轮、四轮都会在人走着走着从身后或面前开过，感觉非常难受。&lt;/p&gt;
+&lt;p&gt;只是比较可惜的一点是没有逛什么景点，像什么世界之窗啥的都没去。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://c01dkit.s3.ap-northeast-1.amazonaws.com/assets/images/20230407inforsec/Snipaste_2023-04-10_20-06-50.jpg&#34; alt=&#34;小吃街&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://c01dkit.s3.ap-northeast-1.amazonaws.com/assets/images/20230407inforsec/Snipaste_2023-04-10_20-07-31.jpg&#34; alt=&#34;天桥夜景&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;南科游&#34;&gt;南科游&lt;/h2&gt;
+&lt;p&gt;两天的会议虽然给了饭票，但是去中心餐厅看了眼，感觉要排非常久的队伍，因而也没有用到，权当是纪念品了。说起这里，比较有趣的事情是第一天出来搜索KFC，绕着餐厅转了一大圈，发现竟然有校内KFC，进去之后发现竟然还是和刚才出来的是同一个餐厅，真是非常有趣了。在南科大的第一天也去纪念馆买了件印着南科logo的短袖（因为出来的时候感觉没啥短袖能带了hh），以及一包明信片&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://c01dkit.s3.ap-northeast-1.amazonaws.com/assets/images/20230407inforsec/Snipaste_2023-04-10_20-15-12.jpg&#34; alt=&#34;南科标记&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;一些感受&#34;&gt;一些感受&lt;/h2&gt;
+&lt;p&gt;会议其实重点不在听报告，而在认识大佬、进行social（线下沟通、加好友），第一天和其他人一起凑着加了黄老师的微信，第二天主动加了周老师的微信（不过都还没有请教问题），等大家这几天出差结束、回杭州以后，再有机会请教吧！&lt;/p&gt;
+&lt;p&gt;要论收获的话，其实还是心态上的转变和认识上的丰满。老师们在圆桌会议上谈到，希望博士生的特质从主到次分别是有&lt;strong&gt;强烈的自我驱动力、对技术的好奇心、韧性&lt;/strong&gt;。有自我驱动力，会遇到问题及时沟通解决，而不是消极地等待组会时被问到说没进展；有对技术的好奇心，才会不断寻微探幽，获得自我提升；有韧性，才不会被一次又一次的失败、拒稿所阻遏，最终修得正果。至于聪明和勤奋，那更是最后才会考虑“聪明”。反思自己开始独自做课题起，一直都比较被动和消极，查询资料也没有明确的目标导向，没有深入思考就去胡乱试方法，甚至连问题本身都没有想清楚场景、是否有必要做、问题和挑战是什么。从一开始就否定自己，又怎么去取得一些进展呢？
+以后应该做些什么呢？还是要端正研究态度，不要为了科研而科研。另外要了解一些常识，比如期刊、会议、相关团队、最新进展之类的，不要闭门造车。&lt;/p&gt;
+</description>
+                
+                
+                
+                    
+                    
+                    
+                        
+                        
+                        
+                            
+                                <category domain="https://blog.c01dkit.com/life/">life</category>
+                            
+                        
+                    
+                
+                
+                
+                    
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>ChatGPT来帮忙</title>

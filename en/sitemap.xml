@@ -2,8 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.c01dkit.com/en/life/trip-to-shenzhen-infosec/</loc>
+    <lastmod>2023-04-10T20:17:12+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.c01dkit.com/en/life/</loc>
+    <lastmod>2023-04-10T20:17:12+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://blog.c01dkit.com/life/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.c01dkit.com/en/life/"
+                />
+  </url><url>
     <loc>https://blog.c01dkit.com/en/</loc>
-    <lastmod>2023-03-28T21:26:07+08:00</lastmod>
+    <lastmod>2023-04-10T20:17:12+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -42,19 +58,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://blog.c01dkit.com/en/life/about-reading-novels/"
-                />
-  </url><url>
-    <loc>https://blog.c01dkit.com/en/life/</loc>
-    <lastmod>2023-03-12T20:14:18+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://blog.c01dkit.com/life/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.c01dkit.com/en/life/"
                 />
   </url><url>
     <loc>https://blog.c01dkit.com/en/life/connection-with-people/</loc>
