@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
     <title type="text">Ripple in Abyss</title>
     <subtitle type="html">关心下一代二进制软件安全</subtitle>
-    <updated>2023-04-10T20:17:27&#43;08:00</updated>
+    <updated>2023-04-17T10:17:55&#43;08:00</updated>
     <id>https://blog.c01dkit.com/en/</id>
     <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/en/" />
     <link rel="self" type="application/atom&#43;xml" href="https://blog.c01dkit.com/en/atom.xml" />
@@ -17,10 +17,10 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.111.1">Hugo</generator>
         <entry>
-            <title type="text">20230407~20230410深圳行</title>
+            <title type="text">Inforsec In Shenzhen</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/en/life/trip-to-shenzhen-infosec/" />
             <id>https://blog.c01dkit.com/en/life/trip-to-shenzhen-infosec/</id>
-            <updated>2023-04-10T20:17:12&#43;08:00</updated>
+            <updated>2023-04-10T20:23:13&#43;08:00</updated>
             <published>2023-04-10T19:47:08&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
