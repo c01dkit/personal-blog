@@ -19,7 +19,7 @@
                 />
   </url><url>
     <loc>https://blog.c01dkit.com/</loc>
-    <lastmod>2023-04-24T10:04:44+08:00</lastmod>
+    <lastmod>2023-04-30T21:48:47+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -29,22 +29,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://blog.c01dkit.com/"
-                />
-  </url><url>
-    <loc>https://blog.c01dkit.com/tech/try-chatgpt/</loc>
-    <lastmod>2023-04-01T14:08:41+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.c01dkit.com/tech/</loc>
-    <lastmod>2023-04-01T14:08:41+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.c01dkit.com/en/tech/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://blog.c01dkit.com/tech/"
                 />
   </url><url>
     <loc>https://blog.c01dkit.com/life/about-reading-novels/</loc>
@@ -59,12 +43,6 @@
                 hreflang="zh"
                 href="https://blog.c01dkit.com/life/about-reading-novels/"
                 />
-  </url><url>
-    <loc>https://blog.c01dkit.com/tech/porting/</loc>
-    <lastmod>2023-03-12T15:35:47+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.c01dkit.com/tech/python-utils/</loc>
-    <lastmod>2023-03-21T16:55:41+08:00</lastmod>
   </url><url>
     <loc>https://blog.c01dkit.com/life/connection-with-people/</loc>
     <lastmod>2023-03-04T09:16:05+08:00</lastmod>
@@ -92,12 +70,6 @@
                 href="https://blog.c01dkit.com/life/why-reminiscence/"
                 />
   </url><url>
-    <loc>https://blog.c01dkit.com/tech/code-gracely/</loc>
-    <lastmod>2023-03-21T21:54:45+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.c01dkit.com/tech/picking-ups/</loc>
-    <lastmod>2023-03-27T12:11:09+08:00</lastmod>
-  </url><url>
     <loc>https://blog.c01dkit.com/life/lustrous-and-dazzling/</loc>
     <lastmod>2023-03-04T09:16:05+08:00</lastmod>
     <xhtml:link
@@ -124,11 +96,8 @@
                 href="https://blog.c01dkit.com/life/calm-down/"
                 />
   </url><url>
-    <loc>https://blog.c01dkit.com/tech/fuzzing/</loc>
-    <lastmod>2023-03-04T09:16:05+08:00</lastmod>
-  </url><url>
     <loc>https://blog.c01dkit.com/report/</loc>
-    <lastmod>2023-04-24T10:04:44+08:00</lastmod>
+    <lastmod>2023-04-30T21:48:47+08:00</lastmod>
   </url><url>
     <loc>https://blog.c01dkit.com/life/dusk-thoughts/</loc>
     <lastmod>2023-03-04T09:16:05+08:00</lastmod>
