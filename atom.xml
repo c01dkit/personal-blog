@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">渊漪</title>
     <subtitle type="html">关心下一代二进制软件安全</subtitle>
-    <updated>2023-07-09T20:32:44&#43;08:00</updated>
+    <updated>2023-07-16T20:33:54&#43;08:00</updated>
     <id>https://blog.c01dkit.com/</id>
     <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://blog.c01dkit.com/atom.xml" />
@@ -16,6 +16,68 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.111.1">Hugo</generator>
+        <entry>
+            <title type="text">《跃迁》读书札记</title>
+            <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/reading-transition/" />
+            <id>https://blog.c01dkit.com/life/reading-transition/</id>
+            <updated>2023-07-14T21:35:11&#43;08:00</updated>
+            <published>2023-06-25T22:58:38&#43;08:00</published>
+            <author>
+                    <name>c01dkit</name>
+                    <uri>https://blog.c01dkit.com/</uri>
+                    <email>contact@c01dkit.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">先找价值，从头部做起 下51%胜率的稳手，迭代成功 找一手信息，节约时间、提高质量 从价值与优势对工作进行四象限划分，谨慎思考 永远从价……</summary>
+            
+                <content type="html">&lt;ol&gt;
+&lt;li&gt;先找价值，从头部做起&lt;/li&gt;
+&lt;li&gt;下51%胜率的稳手，迭代成功&lt;/li&gt;
+&lt;li&gt;找一手信息，节约时间、提高质量&lt;/li&gt;
+&lt;li&gt;从价值与优势对工作进行四象限划分，谨慎思考&lt;/li&gt;
+&lt;li&gt;永远从价值而不是从优势出发&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;单机学习：思考整合-学习。联机学习：思考整合-分享-联机外界-学习。好的方法一定是逆人性的。遇到问题：谁最有可能知道这个答案？如何联系？在此之前需要准备什么？&lt;/p&gt;
+&lt;p&gt;关于读书&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;盲目学习是负效果，要提高认知效率（认知收益/投入精力），设定目标、分配资源&lt;/li&gt;
+&lt;li&gt;碎片化的时间用来知识性阅读，检索前先判断是不是有用的知识，然后决定涉入深度&lt;/li&gt;
+&lt;li&gt;直接从第一页开始读是最愚蠢的。先读目录了解最重要的章节。一开始没有框架，读完也不会有&lt;/li&gt;
+&lt;li&gt;不要盲目买书，先看书评、目录。读书时带着问题读&lt;/li&gt;
+&lt;li&gt;“知识晶体”概念，结构化知识：树状结构、关联结构、序列关系、数据结构&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;关于提问&lt;/p&gt;
+&lt;p&gt;要做终身提问者，从问题树触发，只学能解决问题的知识。提问三个重点：1.准备充分、目标清晰。要问有具体指向性的问题，给出自己的尝试和思考过程。2.组合问题，连问多个深入的问题，促进思考。3.输出答案。记录、整理、反馈答案，给出进一步的行动计划。&lt;/p&gt;
+&lt;p&gt;思考的角度：证据（如何证明什么是对错）、视角（别人如何看这个问题）、联系（之间是否存在规律和模式，之前是否出现过类似情况）、猜想（可能会是什么样子）、相关（为什么重要）&lt;/p&gt;
+&lt;p&gt;关于学习&lt;/p&gt;
+&lt;p&gt;学习不是为了获得知识，而是为了解决问题。在学习时，要时刻记得：目前在学习的东西，能够解决我的问题吗？能否解决眼前的问题吗？如果不能，那就做个标记，不要继续了。否则会花几个小时的时间，最后一无所获。&lt;/p&gt;
+&lt;p&gt;关于产出&lt;/p&gt;
+&lt;p&gt;产出不一定大，但一定要有。一点点的积累会逐渐成型，稍加修饰就可以形成“个体之和大于整体”的效果。&lt;/p&gt;
+&lt;p&gt;关于分享&lt;/p&gt;
+&lt;p&gt;通过分享完成输出，检验输入。帮助他人解决问题就是在打磨自己的思想。&lt;/p&gt;
+</content>
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                        
+                            <category scheme="https://blog.c01dkit.com/life/" term="life" label="life" />
+                        
+                    
+                
+            
+            
+            
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">Inforsec深圳行</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/trip-to-shenzhen-inforsec/" />
