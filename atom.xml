@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">渊漪</title>
     <subtitle type="html">关心下一代二进制软件安全</subtitle>
-    <updated>2023-07-29T20:07:04&#43;08:00</updated>
+    <updated>2023-07-29T23:19:08&#43;08:00</updated>
     <id>https://blog.c01dkit.com/</id>
     <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://blog.c01dkit.com/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">Gossip暑校上海行</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/trip-to-shanghai-gossip/" />
             <id>https://blog.c01dkit.com/life/trip-to-shanghai-gossip/</id>
-            <updated>2023-07-29T20:06:44&#43;08:00</updated>
+            <updated>2023-07-29T23:18:41&#43;08:00</updated>
             <published>2023-07-29T19:17:30&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
@@ -32,9 +32,9 @@
                 <content type="html">&lt;h2 id=&#34;序&#34;&gt;序&lt;/h2&gt;
 &lt;p&gt;今年上交Gossip在7.24-28，上海信息安全工程学院（张江科学园报告厅）举办。活动推文见：&lt;a href=&#34;https://mp.weixin.qq.com/s/LNwEhv51GbmiA8BWieSSlw&#34;&gt;活动议程&lt;/a&gt;，&lt;a href=&#34;https://mp.weixin.qq.com/s/kEqX2QXLqzoIsa_GVhE62w&#34;&gt;参会指南&lt;/a&gt;。&lt;/p&gt;
 &lt;p&gt;周日的时候到了宾馆，晚饭后和yifan提前过去探探路。张江高等研究院内部建筑还是蛮ok的，似乎落成不足五年。提前报备了身份信息，用随申码就可以刷开门禁了。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://c01dkit.s3.ap-northeast-1.amazonaws.com/assets/images/20230728gossip/Snipaste_2023-07-29_19-43-09.png&#34;&gt;夜探&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://c01dkit.s3.ap-northeast-1.amazonaws.com/assets/images/20230728gossip/Snipaste_2023-07-29_19-43-09.png&#34; alt=&#34;夜探&#34;&gt;&lt;/p&gt;
 &lt;p&gt;建筑的外观和内部摆设都很好看很适用。最喜欢的一点就是各个建筑之间有暖廊相连，且有很多沙发、座椅、桌子供讨论。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://c01dkit.s3.ap-northeast-1.amazonaws.com/assets/images/20230728gossip/Snipaste_2023-07-29_19-43-24.png&#34;&gt;讨论区&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://c01dkit.s3.ap-northeast-1.amazonaws.com/assets/images/20230728gossip/Snipaste_2023-07-29_19-43-24.png&#34; alt=&#34;讨论区&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;卢康杰-开源软件&#34;&gt;卢康杰 开源软件&lt;/h2&gt;
 &lt;p&gt;古早未被修复的漏洞 仍然有效&lt;/p&gt;
 &lt;h3 id=&#34;advanced-analysis-and-reasoning&#34;&gt;advanced analysis and reasoning&lt;/h3&gt;
@@ -86,7 +86,7 @@ TyPM，分析模块之间有没有对某种类型的依赖关系（type based an
 &lt;p&gt;peripheral、central需要配对
 broadcaster、observer广播&lt;/p&gt;
 &lt;h2 id=&#34;殷婷婷-从fuzzing到bounty&#34;&gt;殷婷婷 从Fuzzing到Bounty&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://c01dkit.s3.ap-northeast-1.amazonaws.com/assets/images/20230728gossip/Snipaste_2023-07-29_19-43-16.png&#34;&gt;Web安全&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://c01dkit.s3.ap-northeast-1.amazonaws.com/assets/images/20230728gossip/Snipaste_2023-07-29_19-43-16.png&#34; alt=&#34;Web安全&#34;&gt;&lt;/p&gt;
 &lt;p&gt;FANS&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;关注的问题，Android底层，原生代码接口漏洞，新的攻击面&lt;/li&gt;
@@ -106,7 +106,7 @@ broadcaster、observer广播&lt;/p&gt;
 &lt;p&gt;现有内存隔离技术：基于地址隔离，访存前先检查;基于域的隔离;专用访问内存指令&lt;/p&gt;
 &lt;p&gt;defense文章：先思考，预先整理thread model&lt;/p&gt;
 &lt;h2 id=&#34;孟玮-web安全研究的挑战与机会&#34;&gt;孟玮 Web安全研究的挑战与机会&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://c01dkit.s3.ap-northeast-1.amazonaws.com/assets/images/20230728gossip/Snipaste_2023-07-29_19-42-50.png&#34;&gt;Web安全&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://c01dkit.s3.ap-northeast-1.amazonaws.com/assets/images/20230728gossip/Snipaste_2023-07-29_19-42-50.png&#34; alt=&#34;Web安全&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;客户端的安全性&#34;&gt;客户端的安全性&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;点击劫持&lt;/strong&gt; 插桩底层C++代码，检测属性修改；检测元素相似性与透明覆盖&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;JS全局标识符冲突&lt;/strong&gt; 使用绝对地址，检查标识符是否定义&lt;/p&gt;
@@ -123,13 +123,13 @@ broadcaster、observer广播&lt;/p&gt;
 &lt;p&gt;如何做研究？大量阅读论文、博客、视频等任何资料&lt;/p&gt;
 &lt;h2 id=&#34;跋&#34;&gt;跋&lt;/h2&gt;
 &lt;p&gt;总结下来，五天的讲座还是收获不少的。主要是对怎么做研究有了进一步的了解，同时也在督促自己沉下来打牢基础。有一个北京口音的学生/老师很有意思，几乎每个讲者汇报之后都会提问，而且语气很像是圆桌会议的主持人hhh。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://c01dkit.s3.ap-northeast-1.amazonaws.com/assets/images/20230728gossip/Snipaste_2023-07-29_19-41-50.png&#34;&gt;合影&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://c01dkit.s3.ap-northeast-1.amazonaws.com/assets/images/20230728gossip/Snipaste_2023-07-29_19-41-50.png&#34; alt=&#34;合影&#34;&gt;&lt;/p&gt;
 &lt;p&gt;这几天大伙经常吃川菜，比如龙阳广场的先启半步颠、川渝诱惑等等。在上海吃川菜感觉确实有点意思的嗷。但不得不说，还是得数先启的最为好吃。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://c01dkit.s3.ap-northeast-1.amazonaws.com/assets/images/20230728gossip/Snipaste_2023-07-29_19-42-36.png&#34;&gt;川菜&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://c01dkit.s3.ap-northeast-1.amazonaws.com/assets/images/20230728gossip/Snipaste_2023-07-29_19-42-36.png&#34; alt=&#34;川菜&#34;&gt;&lt;/p&gt;
 &lt;p&gt;周六上海有ChinaJoy，导致临近的酒店房费直接爆炸，所以只订到周四。华住app上给的图跟白宫似的，实际上也差不多，不过要等到合适的时间、合适的光照拍。晚上大概是这么个样子：&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://c01dkit.s3.ap-northeast-1.amazonaws.com/assets/images/20230728gossip/Snipaste_2023-07-29_19-43-01.png&#34;&gt;酒店&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://c01dkit.s3.ap-northeast-1.amazonaws.com/assets/images/20230728gossip/Snipaste_2023-07-29_19-43-01.png&#34; alt=&#34;酒店&#34;&gt;&lt;/p&gt;
 &lt;p&gt;最后一个晚上来到某商场吃了湘菜，几乎全是预制菜，非常难吃且量少得很。算是踩雷了吧。不过走的时候在商场里看到有个桌游培训班，不得不说连桌游都已经开始卷了吗……本来就是一种促进沟通、增进友谊的娱乐活动，非要分出个高下，是不是算是舍本逐末了呢。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://c01dkit.s3.ap-northeast-1.amazonaws.com/assets/images/20230728gossip/Snipaste_2023-07-29_19-43-31.png&#34;&gt;桌游&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://c01dkit.s3.ap-northeast-1.amazonaws.com/assets/images/20230728gossip/Snipaste_2023-07-29_19-43-31.png&#34; alt=&#34;桌游&#34;&gt;&lt;/p&gt;
 </content>
             
             
