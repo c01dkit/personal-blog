@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.c01dkit.com/life/reading-transition/</loc>
-    <lastmod>2023-07-14T21:35:11+08:00</lastmod>
+    <loc>https://blog.c01dkit.com/life/trip-to-shanghai-gossip/</loc>
+    <lastmod>2023-07-29T20:06:44+08:00</lastmod>
   </url><url>
     <loc>https://blog.c01dkit.com/life/</loc>
-    <lastmod>2023-07-24T22:25:20+08:00</lastmod>
+    <lastmod>2023-07-29T20:06:44+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -19,7 +19,7 @@
                 />
   </url><url>
     <loc>https://blog.c01dkit.com/</loc>
-    <lastmod>2023-07-24T22:25:20+08:00</lastmod>
+    <lastmod>2023-07-29T20:06:44+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -30,6 +30,9 @@
                 hreflang="zh"
                 href="https://blog.c01dkit.com/"
                 />
+  </url><url>
+    <loc>https://blog.c01dkit.com/life/reading-transition/</loc>
+    <lastmod>2023-07-14T21:35:11+08:00</lastmod>
   </url><url>
     <loc>https://blog.c01dkit.com/life/trip-to-shenzhen-inforsec/</loc>
     <lastmod>2023-04-10T20:23:23+08:00</lastmod>
@@ -74,7 +77,7 @@
                 />
   </url><url>
     <loc>https://blog.c01dkit.com/life/lustrous-and-dazzling/</loc>
-    <lastmod>2023-07-24T22:25:20+08:00</lastmod>
+    <lastmod>2023-07-28T08:32:49+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
