@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">渊漪</title>
     <subtitle type="html">关心下一代二进制软件安全</subtitle>
-    <updated>2023-07-31T09:24:46&#43;08:00</updated>
+    <updated>2023-08-08T10:47:56&#43;08:00</updated>
     <id>https://blog.c01dkit.com/</id>
     <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://blog.c01dkit.com/atom.xml" />
@@ -20,17 +20,17 @@
             <title type="text">Gossip暑校上海行</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/trip-to-shanghai-gossip/" />
             <id>https://blog.c01dkit.com/life/trip-to-shanghai-gossip/</id>
-            <updated>2023-07-29T23:18:41&#43;08:00</updated>
+            <updated>2023-07-31T10:47:19&#43;08:00</updated>
             <published>2023-07-29T19:17:30&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
                     <uri>https://blog.c01dkit.com/</uri>
                     <email>contact@c01dkit.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">序 今年上交Gossip在7.24-28，上海信息安全工程学院（张江科学园报告厅）举办。活动推文见：活动议程，参会指南。 周日的时候……</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">序 今年上交Gossip在7.24-28，上海信息安全工程学院（张江科学园报告厅）举办。活动推文见：活动议程，参会指南，活动小记。……</summary>
             
                 <content type="html">&lt;h2 id=&#34;序&#34;&gt;序&lt;/h2&gt;
-&lt;p&gt;今年上交Gossip在7.24-28，上海信息安全工程学院（张江科学园报告厅）举办。活动推文见：&lt;a href=&#34;https://mp.weixin.qq.com/s/LNwEhv51GbmiA8BWieSSlw&#34;&gt;活动议程&lt;/a&gt;，&lt;a href=&#34;https://mp.weixin.qq.com/s/kEqX2QXLqzoIsa_GVhE62w&#34;&gt;参会指南&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;今年上交Gossip在7.24-28，上海信息安全工程学院（张江科学园报告厅）举办。活动推文见：&lt;a href=&#34;https://mp.weixin.qq.com/s/LNwEhv51GbmiA8BWieSSlw&#34;&gt;活动议程&lt;/a&gt;，&lt;a href=&#34;https://mp.weixin.qq.com/s/kEqX2QXLqzoIsa_GVhE62w&#34;&gt;参会指南&lt;/a&gt;，&lt;a href=&#34;https://mp.weixin.qq.com/s/AAvWrv0pdBTw8PfpWrfEKQ&#34;&gt;活动小记&lt;/a&gt;。&lt;/p&gt;
 &lt;p&gt;周日的时候到了宾馆，晚饭后和yifan提前过去探探路。张江高等研究院内部建筑还是蛮ok的，似乎落成不足五年。提前报备了身份信息，用随申码就可以刷开门禁了。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://c01dkit.s3.ap-northeast-1.amazonaws.com/assets/images/20230728gossip/Snipaste_2023-07-29_19-43-09.png&#34; alt=&#34;夜探&#34;&gt;&lt;/p&gt;
 &lt;p&gt;建筑的外观和内部摆设都很好看很适用。最喜欢的一点就是各个建筑之间有暖廊相连，且有很多沙发、座椅、桌子供讨论。&lt;/p&gt;
