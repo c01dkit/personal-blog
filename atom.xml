@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">渊漪</title>
     <subtitle type="html">关心下一代二进制软件安全</subtitle>
-    <updated>2023-10-09T09:49:17&#43;08:00</updated>
+    <updated>2023-10-16T09:40:10&#43;08:00</updated>
     <id>https://blog.c01dkit.com/</id>
     <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://blog.c01dkit.com/atom.xml" />
@@ -16,6 +16,151 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.111.1">Hugo</generator>
+        <entry>
+            <title type="text">闲来无事打发时间的小技巧</title>
+            <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/time-consuming-techniques/" />
+            <id>https://blog.c01dkit.com/life/time-consuming-techniques/</id>
+            <updated>2023-10-16T09:39:28&#43;08:00</updated>
+            <published>2023-10-13T13:49:06&#43;08:00</published>
+            <author>
+                    <name>c01dkit</name>
+                    <uri>https://blog.c01dkit.com/</uri>
+                    <email>contact@c01dkit.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">心情焦虑时需要找一些事情来做，舒缓一下心情。不论是否对知识增进有无好处，总归是一些心保健操吧。比如九点多迫切希望下班的时候，可以……</summary>
+            
+                <content type="html">&lt;p&gt;心情焦虑时需要找一些事情来做，舒缓一下心情。不论是否对知识增进有无好处，总归是一些心保健操吧。比如九点多迫切希望下班的时候，可以稍微缓解一下焦虑。&lt;/p&gt;
+&lt;p&gt;不需要发声的事情：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;整理电脑磁盘文件：删除无用文件，归纳整理关联文件，重命名文件&lt;/li&gt;
+&lt;li&gt;挑一篇论文，看看一作二作通讯等作者的团队历史发了什么文章&lt;/li&gt;
+&lt;li&gt;看中国地图，了解各个省份的位置、山脉与河流走向&lt;/li&gt;
+&lt;li&gt;看人体骨架图，了解每根骨头的类型和位置（英文essential anatomy 5，中文3Dbody解剖）&lt;/li&gt;
+&lt;li&gt;找一些图片，设计输入法皮肤并开放给大家使用&lt;/li&gt;
+&lt;li&gt;在b站上学习AI绘画技巧，用stable diffusion、lora等绘制一些有趣的图片&lt;/li&gt;
+&lt;li&gt;读一篇CTF题目的writeup，总结一下一些新的知识&lt;/li&gt;
+&lt;li&gt;了解一个开源|商用软件，比如elasticsearch、redis的大致功能和实现原理，相比同类产品的优势是什么&lt;/li&gt;
+&lt;li&gt;设计一个虚构的角色，并构建ta的经历、性格、外形、说话方式等设定&lt;/li&gt;
+&lt;li&gt;了解并掌握一种配色系列方案，并保存起来&lt;/li&gt;
+&lt;li&gt;成语大辞典选一个读音，了解一下有什么成语，见猎心喜&lt;/li&gt;
+&lt;li&gt;举一个平时生活中经常见到的物品，查一查它在其他语言里是什么&lt;/li&gt;
+&lt;li&gt;记录自己上一次睡觉时的梦境&lt;/li&gt;
+&lt;li&gt;在leetcode或者pta做一道题的过程中，学习学习一门语言的基础用法&lt;/li&gt;
+&lt;li&gt;挑一篇论文，在connectedpapers网站（或者论文参考文献）找找相关论文，了解这个领域在做什么事情，相关团队有哪些&lt;/li&gt;
+&lt;li&gt;读一些行研报告，记录数据源，往往可以用于写本子或ppt&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;需要发声的事情：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;用完美钢琴等app，模唱音阶上下行&lt;/li&gt;
+&lt;li&gt;用多邻国等app，学语言&lt;/li&gt;
+&lt;li&gt;用全民K歌等app，学唱歌（社交才艺展示用）&lt;/li&gt;
+&lt;li&gt;身体器官表演（口哨、手埙等），学曲子&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                        
+                            <category scheme="https://blog.c01dkit.com/life/" term="life" label="life" />
+                        
+                    
+                
+            
+            
+            
+                
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">第四类幻想</title>
+            <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/fancy-thoughts/" />
+            <id>https://blog.c01dkit.com/life/fancy-thoughts/</id>
+            <updated>2023-10-13T18:15:49&#43;08:00</updated>
+            <published>2023-10-10T13:13:30&#43;08:00</published>
+            <author>
+                    <name>c01dkit</name>
+                    <uri>https://blog.c01dkit.com/</uri>
+                    <email>contact@c01dkit.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">20231013。今天实验室师兄抢遥遥领先的手机。在线抢票这种事情，想要比得过爬虫太难了。而且对于这种中央服务器会做校验的抢票，……</summary>
+            
+                <content type="html">&lt;p&gt;20231013。今天实验室师兄抢遥遥领先的手机。在线抢票这种事情，想要比得过爬虫太难了。而且对于这种中央服务器会做校验的抢票，还是得自己先去抢票开始后的时间节点，趁别人还没有开始抢的，先抢到资格，然后暂停，等待旧世界时间同步过来就得到了。&lt;/p&gt;
+&lt;p&gt;20231011。今天和群友聊身高体重。有群友表示自己太高了，想变矮。虽然群里很多医学生（拆一节脊椎出去？（x））但一种比较好的方法，可能可以把身体一部分折叠进四维空间里。这样在三维世界里的投影不就可以变矮了吗！&lt;/p&gt;
+&lt;p&gt;20231010。今天看到群友聊起组织线下轰趴活动难以找到大家都有空的时间，也对组织者又比较高的要求。那么可以选择三四个时间段分别组织轰趴，然后在时空维度上将这些轰趴捏在一起就好了！这样大家就可以任选一个自己空余的时间段参加轰趴了，然后也都可以见面。&lt;/p&gt;
+&lt;p&gt;20231009。今天和群友聊长生之术。既然宇宙里各地时间流速是不一致的，那么只要随身携带个短距的改变时间流速的仪器，不就可以实现在他人眼中看来寿命悠久的老乌龟吗。虽然自己感觉的实际寿命是不变的。不过这样一来，周围的一切都在加速运行，自己的反应速度反而跟不上了。&lt;/p&gt;
+</content>
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                        
+                            <category scheme="https://blog.c01dkit.com/life/" term="life" label="life" />
+                        
+                    
+                
+            
+            
+            
+                
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">聊聊写文</title>
+            <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/writing-a-bubble/" />
+            <id>https://blog.c01dkit.com/life/writing-a-bubble/</id>
+            <updated>2023-10-10T14:04:55&#43;08:00</updated>
+            <published>2023-10-09T19:00:02&#43;08:00</published>
+            <author>
+                    <name>c01dkit</name>
+                    <uri>https://blog.c01dkit.com/</uri>
+                    <email>contact@c01dkit.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">浑浑噩噩间，心中总有一些郁结难平。可能是种种不顺利，一点一点地积累着。平时没有什么感觉，可能总是因为繁忙之中得不到休息的时间听一……</summary>
+            
+                <content type="html">&lt;p&gt;浑浑噩噩间，心中总有一些郁结难平。可能是种种不顺利，一点一点地积累着。平时没有什么感觉，可能总是因为繁忙之中得不到休息的时间听一听自己的心声。闻到种种令人不快的气息、听到种种令人烦躁的声音，加上脑海里时不时浮现出的焦虑与恐慌，以及幻梦破灭的虚无与乏力感，如同沼泽里冒出的一个又一个粘稠的泡泡，慢慢扩大但又不破裂。用繁忙来逃避着安静地思考，用种种琐碎的小事填满碎片化的时间，一会想着做这个一会又想着做那个，多线程同时进发但又进展甚微，最后导致看似哪个方面都了解一些，但真要论起实践来又是哪哪都不行。这很不好。&lt;/p&gt;
+&lt;p&gt;写点文字就是一个比较好的纾解方式。“我以我笔抒我心”是我写文的唯一理由。情绪激昂之时、忧虑之时，或是有感而发、妙手偶得之时，便会三言两语排遣或记录心境。从小学与初中阶段的破碎意识流，到高中时对排比对偶用韵的狂热追求，再到大学时追求朴实真挚的表达，风格确实一直在发生着改变。这个时候往往就能够逐渐使自己躁动不安的内心与紧张焦虑的情绪慢慢稳定下来，尝试一点点与自己和解，一点点询问自己（副人格？）的真实想法。也就在这个时候，“我”才是“我”自己，而不是那个活在别人注视之中的影子。&lt;/p&gt;
+&lt;p&gt;时不时发呆。倒也不是真有什么东西在想，只是单纯不愿意去思考什么事情，白白消磨虚度时间，一直到晚上的休息时光罢了。这些忙里偷闲的琐碎时光，不如拿来记录一下最近所学知识，写写技术博文，巩固巩固知识。平日里总是艳羡别人如何博闻广识，实际上都是一点一滴的积累。没有开始，又怎么会有收效呢。包括以后，不要做一些无意义的事情，比如用百度搜索什么的时候不要点开侧边栏的“新闻”。做任何一件事前，想一想前因后果，想一想预期付出与收益，不至于盲目行动。做一件事情有很多方法，要选择最高效的那一条。&lt;/p&gt;
+</content>
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                        
+                            <category scheme="https://blog.c01dkit.com/life/" term="life" label="life" />
+                        
+                    
+                
+            
+            
+            
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">君子之交淡如水</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/life-is-a-crossline/" />
@@ -520,7 +665,7 @@ broadcaster、observer广播&lt;/p&gt;
             <title type="text">光怪陆离</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/lustrous-and-dazzling/" />
             <id>https://blog.c01dkit.com/life/lustrous-and-dazzling/</id>
-            <updated>2023-10-09T09:48:54&#43;08:00</updated>
+            <updated>2023-10-15T16:01:41&#43;08:00</updated>
             <published>2022-06-19T19:55:48&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
@@ -772,6 +917,31 @@ broadcaster、observer广播&lt;/p&gt;
 &lt;p&gt;一切易于反光的红色，也都被我清理掉了“&lt;/p&gt;
 &lt;p&gt;他嘻嘻笑着。&lt;/p&gt;
 &lt;p&gt;是啊，我曾用那一抹亮红来杀人。&lt;/p&gt;
+&lt;h2 id=&#34;黄粱一梦&#34;&gt;黄粱一梦&lt;/h2&gt;
+&lt;h3 id=&#34;待机与坚定的信念&#34;&gt;待机与坚定的信念&lt;/h3&gt;
+&lt;p&gt;生命机能衰微之时，便可以进入超低能耗运行状态&lt;/p&gt;
+&lt;p&gt;在此期间如同冬眠般，抱膝蜷缩着，不对外界事务做出反应&lt;/p&gt;
+&lt;p&gt;需要坚定的意志完成自我修复方可醒来，否则便是永永远远地沉寂&lt;/p&gt;
+&lt;h3 id=&#34;坠楼&#34;&gt;坠楼&lt;/h3&gt;
+&lt;p&gt;小学最高层的教室。&lt;/p&gt;
+&lt;p&gt;她身着一袭红袄，刚刚拉开窗户，便如一张轻薄的纸&lt;/p&gt;
+&lt;p&gt;被狂风一下子吸出窗外，高高抛向天空，随后重重摔落到地面上了&lt;/p&gt;
+&lt;h3 id=&#34;辩群雄&#34;&gt;辩群雄&lt;/h3&gt;
+&lt;p&gt;大厅里，身边围着一群同伴&lt;/p&gt;
+&lt;p&gt;“你们都是虚幻的，是模拟出来的”&lt;/p&gt;
+&lt;p&gt;“这系统啊，你只会根据大家平时的表现来虚构出一个个人”&lt;/p&gt;
+&lt;p&gt;“但你没有想到的是，我内心深处隐藏着众多的人格”&lt;/p&gt;
+&lt;p&gt;“你吸取了我表面的懦弱，却将内心另一个狂放不羁的自我完全释放”&lt;/p&gt;
+&lt;p&gt;“你拿走了他的骄恣，却没想到现在的他是如此唯唯诺诺吧。”&lt;/p&gt;
+&lt;p&gt;“这便是众多真实中掩藏的虚假。你败了。”&lt;/p&gt;
+&lt;h3 id=&#34;黄粱梦醒&#34;&gt;黄粱梦醒&lt;/h3&gt;
+&lt;p&gt;来到地铁幽邃的入口&lt;/p&gt;
+&lt;p&gt;“要下去吗？”&lt;/p&gt;
+&lt;p&gt;“下去吧！前面有……”&lt;/p&gt;
+&lt;p&gt;一级一级地在楼梯上向下走去了。&lt;/p&gt;
+&lt;p&gt;拂开一层透明、最下方似乎被啃咬得参差不齐的硅胶垂帘&lt;/p&gt;
+&lt;p&gt;一下子远处是夜色下的学校了&lt;/p&gt;
+&lt;p&gt;梦醒，原来冬眠的，一直是我自己啊。&lt;/p&gt;
 </content>
             
             
