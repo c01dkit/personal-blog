@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">渊漪</title>
     <subtitle type="html">关心下一代二进制软件安全</subtitle>
-    <updated>2023-10-28T14:48:10&#43;08:00</updated>
+    <updated>2023-11-06T09:46:13&#43;08:00</updated>
     <id>https://blog.c01dkit.com/</id>
     <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://blog.c01dkit.com/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">闲来无事打发时间的小技巧</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/time-consuming-techniques/" />
             <id>https://blog.c01dkit.com/life/time-consuming-techniques/</id>
-            <updated>2023-10-22T12:21:56&#43;08:00</updated>
+            <updated>2023-11-05T21:15:17&#43;08:00</updated>
             <published>2023-10-13T13:49:06&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
@@ -35,7 +35,7 @@
 &lt;li&gt;整理电脑磁盘文件：删除无用文件，归纳整理关联文件，重命名文件&lt;/li&gt;
 &lt;li&gt;挑一篇论文，看看一作二作通讯等作者的团队是什么，以及之前发了哪些文章&lt;/li&gt;
 &lt;li&gt;看中国地图，了解各个省份的位置、山脉与河流走向&lt;/li&gt;
-&lt;li&gt;看人体骨架图，了解每根骨头的类型和位置（英文essential anatomy 5，中文3Dbody解剖）&lt;/li&gt;
+&lt;li&gt;看人体解剖图，了解骨头、肌肉的类型和位置（英文essential anatomy 5，中文3Dbody解剖）&lt;/li&gt;
 &lt;li&gt;找一些图片，设计输入法皮肤并开放给大家使用&lt;/li&gt;
 &lt;li&gt;在b站上学习AI绘画技巧，用stable diffusion、lora等绘制一些有趣的图片&lt;/li&gt;
 &lt;li&gt;读一篇CTF题目的writeup，总结一下一些新的知识&lt;/li&gt;
@@ -50,6 +50,7 @@
 &lt;li&gt;读一些行研报告，记录数据源，往往可以用于写本子或ppt&lt;/li&gt;
 &lt;li&gt;了解一项体育赛事的比赛规则&lt;/li&gt;
 &lt;li&gt;认识一个汽车车标和相关型号、价位&lt;/li&gt;
+&lt;li&gt;总结一下自己的知识技能树，每天学到什么东西写成json，有空的时候存到数据库里&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;需要发声的事情：&lt;/p&gt;
 &lt;ul&gt;
@@ -667,7 +668,7 @@ broadcaster、observer广播&lt;/p&gt;
             <title type="text">光怪陆离</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/lustrous-and-dazzling/" />
             <id>https://blog.c01dkit.com/life/lustrous-and-dazzling/</id>
-            <updated>2023-10-15T16:01:41&#43;08:00</updated>
+            <updated>2023-10-31T10:30:06&#43;08:00</updated>
             <published>2022-06-19T19:55:48&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
@@ -944,6 +945,30 @@ broadcaster、observer广播&lt;/p&gt;
 &lt;p&gt;拂开一层透明、最下方似乎被啃咬得参差不齐的硅胶垂帘&lt;/p&gt;
 &lt;p&gt;一下子远处是夜色下的学校了&lt;/p&gt;
 &lt;p&gt;梦醒，原来冬眠的，一直是我自己啊。&lt;/p&gt;
+&lt;h2 id=&#34;腐蚀之毒&#34;&gt;腐蚀之毒&lt;/h2&gt;
+&lt;p&gt;左手食指似乎被刺了一针&lt;/p&gt;
+&lt;p&gt;表皮开始脱落下来了，一层又一层，带着干涸的淤血&lt;/p&gt;
+&lt;p&gt;它好像呼吸到了新鲜的空气，一下子生机勃勃起来&lt;/p&gt;
+&lt;p&gt;一点点地迅速扩张领地，远端指节消失在空气中了&lt;/p&gt;
+&lt;h2 id=&#34;督工&#34;&gt;督工&lt;/h2&gt;
+&lt;p&gt;学校装修了新的教室，窗明几净&lt;/p&gt;
+&lt;p&gt;如报告厅般，推门而出便是老板的办公桌&lt;/p&gt;
+&lt;p&gt;老板下班了，大家也可以放假了&lt;/p&gt;
+&lt;h2 id=&#34;铁道旁屋&#34;&gt;铁道旁屋&lt;/h2&gt;
+&lt;p&gt;斜斜的暖暖的夕阳，空闲的铁道，丛生的秋草&lt;/p&gt;
+&lt;p&gt;在铁道旁边的一间石屋子里了。&lt;/p&gt;
+&lt;p&gt;一人靠着墙操作电脑，一人靠着对面墙操作电脑&lt;/p&gt;
+&lt;p&gt;我坐在床上&lt;/p&gt;
+&lt;p&gt;有人推门进来了，第一个人把座位让给他。&lt;/p&gt;
+&lt;h2 id=&#34;校车&#34;&gt;校车&lt;/h2&gt;
+&lt;p&gt;新桥门口，坐在红色的公交车般的校车里&lt;/p&gt;
+&lt;p&gt;他们两人上车，其中一人匍匐在另一人的身上&lt;/p&gt;
+&lt;p&gt;他们开着校车，仿佛是真正的校车司机&lt;/p&gt;
+&lt;p&gt;借着视角遮蔽，他们的小动作没有被保安发现&lt;/p&gt;
+&lt;p&gt;空车出门，掉头折返，但却已多出很多乘客&lt;/p&gt;
+&lt;p&gt;在路口 是驾照考试&lt;/p&gt;
+&lt;p&gt;考试现场遇到了几个熟人，在根据指示牌检查埋藏在土坑里的水表和电表&lt;/p&gt;
+&lt;p&gt;幸好、我几年前已经通过了驾照考试，只不过，一直没有开，所以现在还不会开车罢了&lt;/p&gt;
 </content>
             
             
