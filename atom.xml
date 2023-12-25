@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">渊漪</title>
     <subtitle type="html">关心下一代二进制软件安全</subtitle>
-    <updated>2023-12-18T09:30:23&#43;08:00</updated>
+    <updated>2023-12-25T14:14:42&#43;08:00</updated>
     <id>https://blog.c01dkit.com/</id>
     <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://blog.c01dkit.com/atom.xml" />
@@ -16,6 +16,49 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.111.1">Hugo</generator>
+        <entry>
+            <title type="text">动植物随想</title>
+            <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/bio-thoughts/" />
+            <id>https://blog.c01dkit.com/life/bio-thoughts/</id>
+            <updated>2023-12-24T09:58:24&#43;08:00</updated>
+            <published>2023-12-24T09:33:43&#43;08:00</published>
+            <author>
+                    <name>c01dkit</name>
+                    <uri>https://blog.c01dkit.com/</uri>
+                    <email>contact@c01dkit.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">现在人们吃的比较多的还是熟食，即用各种烹饪方法把动物或者植物做成熟的然后再吃掉。 除了生菜等少数洗干净就可以直接吃的植物以外，更多……</summary>
+            
+                <content type="html">&lt;p&gt;现在人们吃的比较多的还是熟食，即用各种烹饪方法把动物或者植物做成熟的然后再吃掉。&lt;/p&gt;
+&lt;p&gt;除了生菜等少数洗干净就可以直接吃的植物以外，更多植物都需要做熟，否则口感很不好，甚至有毒。而对于动物而言除了一些海产品可以生吃，很多肉类还是需要做熟，易于消化。但对与植物的果实（或者特指水果）而言，似乎都是直接生吃。做熟了反而会丧失本身的甜美。&lt;/p&gt;
+&lt;p&gt;同样都是植物的一部分，为什么果实偏偏生吃也适宜呢？是因为结构上的不同吗？比如果肉一般比较柔软多汁，而且含糖量高，也不像植株本身那样坚硬。从进化的角度来想，常见的果实里带有种子。果实成熟后用鲜艳的颜色、散发香气来吸引各种动物来吃，种子由于不便消化而随粪便排出，有利于植物的繁衍。这里的动物不包括昆虫。&lt;/p&gt;
+&lt;p&gt;那么果实这一组成成分，区别于植物其他组成部分（比如对于苹果树，在一般情况下，常理认知的大部分动物会选择吃苹果，而不会直接吃树枝树叶什么的），承担了繁衍生息这一重要的功能。很多植物的繁衍需要依靠外物，是不是因为植物一般是不会移动，所以需要用果实来作为交换。当然这里所说的果实就是指苹果橘子桃子草莓这些从口感上来讲比较多汁的、携带种子的果实。&lt;/p&gt;
+&lt;p&gt;类比植物，动物身上有没有可以直接食用的、不影响主体生存的组成部分呢？由于动物可以自主活动，好像比较少见。哺乳动物在哺乳期会产奶，但那已经是在生育发生后，产奶的目的也不是为了获得新的后代。鸡鸭鹅等家禽会下蛋，但是下蛋前已经完成必要准备工作了，蛋也不是为了吸引别的动物帮助繁衍的。孔雀开屏、鸟类啼鸣是为了繁衍，但那是求偶的行为，也不是物质上可以供其他动植物“食用“的。&lt;/p&gt;
+&lt;p&gt;这么一想，好像确实比较少见了，动物为了繁衍而产出的可供其他动物吃掉的组成部分。那么为了区分于现实世界的动植物，幻想动物就可以在定义上具备这一属性，比如某群友的幻想动物在设定上可以生产某种果汁来让其他动物饮用（不确定用处是不是为了繁衍）。这种带有部分植物特性的动物设定，确实很有意思。&lt;/p&gt;
+</content>
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                        
+                            <category scheme="https://blog.c01dkit.com/life/" term="life" label="life" />
+                        
+                    
+                
+            
+            
+            
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">如烟花升腾般</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/like-fireworks/" />
@@ -128,7 +171,7 @@
             <title type="text">第四类幻想</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/fancy-thoughts/" />
             <id>https://blog.c01dkit.com/life/fancy-thoughts/</id>
-            <updated>2023-10-13T18:15:49&#43;08:00</updated>
+            <updated>2023-12-24T09:30:45&#43;08:00</updated>
             <published>2023-10-10T13:13:30&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
