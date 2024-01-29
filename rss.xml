@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Mon, 22 Jan 2024 10:12:16 &#43;0800</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jan 2024 10:12:06 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://blog.c01dkit.com/rss.xml" />
         
@@ -1126,6 +1126,12 @@ broadcaster、observer广播&lt;/p&gt;
 &lt;p&gt;绕了很久终于到了房间所在的一层&lt;/p&gt;
 &lt;p&gt;稍稍走几步，与中年人汇合&lt;/p&gt;
 &lt;p&gt;“那是商场里的电梯，很远的。你看我这里的电梯，很近。”&lt;/p&gt;
+&lt;h2 id=&#34;debug&#34;&gt;debug&lt;/h2&gt;
+&lt;p&gt;实验室的fuzzing工作被MHY拿去做测试&lt;/p&gt;
+&lt;p&gt;排了一些新生去负责调试，结果出现异常的bug，唤我去修&lt;/p&gt;
+&lt;p&gt;“你们这是Java写的fuzzing程序啊……&lt;/p&gt;
+&lt;p&gt;你们这个循环里先打印出局部变量调试下啊，然后break结束循环……&lt;/p&gt;
+&lt;p&gt;Java我用的也不熟，输出是什么来着，Arrays.util.print吗……“&lt;/p&gt;
 </description>
                 
                 
