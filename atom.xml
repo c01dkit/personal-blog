@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">渊漪</title>
     <subtitle type="html">关心下一代二进制软件安全</subtitle>
-    <updated>2024-03-11T09:50:54&#43;08:00</updated>
+    <updated>2024-03-21T10:36:44&#43;08:00</updated>
     <id>https://blog.c01dkit.com/</id>
     <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://blog.c01dkit.com/atom.xml" />
@@ -762,7 +762,7 @@ broadcaster、observer广播&lt;/p&gt;
             <title type="text">光怪陆离</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/lustrous-and-dazzling/" />
             <id>https://blog.c01dkit.com/life/lustrous-and-dazzling/</id>
-            <updated>2024-01-29T10:11:53&#43;08:00</updated>
+            <updated>2024-03-21T10:36:27&#43;08:00</updated>
             <published>2022-06-19T19:55:48&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
@@ -1159,6 +1159,24 @@ broadcaster、observer广播&lt;/p&gt;
 &lt;p&gt;“你们这是Java写的fuzzing程序啊……&lt;/p&gt;
 &lt;p&gt;你们这个循环里先打印出局部变量调试下啊，然后break结束循环……&lt;/p&gt;
 &lt;p&gt;Java我用的也不熟，输出是什么来着，Arrays.util.print吗……“&lt;/p&gt;
+&lt;h2 id=&#34;营业许可调研上&#34;&gt;营业许可调研（上）&lt;/h2&gt;
+&lt;p&gt;学校发了通知，标定老家二十来个物品贩售点，要考察记录实际营业者、生产许可编号&lt;/p&gt;
+&lt;p&gt;调查进行到一半回到寝室交流发现大家都在用电子记录，而我用面皮记录&lt;/p&gt;
+&lt;p&gt;想了想还是算了&lt;/p&gt;
+&lt;h2 id=&#34;游览公园&#34;&gt;游览公园&lt;/h2&gt;
+&lt;p&gt;上午天气晴朗，来到没什么人的大院，中间布置了十字形的游览通道&lt;/p&gt;
+&lt;p&gt;玻璃很干净，让人分不清门在哪里，出口又在哪里&lt;/p&gt;
+&lt;p&gt;汇聚处的三扇门只需一按按钮便自动关闭谢绝游客进入&lt;/p&gt;
+&lt;p&gt;剩下一扇门则通往冷气供应的长廊&lt;/p&gt;
+&lt;p&gt;看到高低落差的石制楼梯组成的墙上爬满了章鱼 很多人围观抚摸&lt;/p&gt;
+&lt;p&gt;园方请来非洲人表演怎么用章鱼给自己编织头发、上色&lt;/p&gt;
+&lt;h2 id=&#34;营业许可调研下&#34;&gt;营业许可调研（下）&lt;/h2&gt;
+&lt;p&gt;后边有人轻轻拍我，原来是个中学生看到黑轩老师的挂坠&lt;/p&gt;
+&lt;p&gt;兴奋地拉到一边讨论放课后的玩耍事项&lt;/p&gt;
+&lt;p&gt;最后盛情发出邀请：“要不要来我家玩！现在没有人”&lt;/p&gt;
+&lt;p&gt;后来发现原来是为了悄悄把我之前调研的生产许可共享出去。&lt;/p&gt;
+&lt;p&gt;这样的话我就不再算是独立调研了。&lt;/p&gt;
+&lt;p&gt;真可恶啊，这个小胖子。&lt;/p&gt;
 </content>
             
             
