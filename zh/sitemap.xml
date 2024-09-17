@@ -2,24 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.c01dkit.com/life/</loc>
-    <lastmod>2024-06-30T10:01:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://blog.c01dkit.com/en/life/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://blog.c01dkit.com/life/"
-                />
+    <loc>https://blog.c01dkit.com/report/2023/</loc>
+    <lastmod>2024-06-28T10:36:05+08:00</lastmod>
   </url><url>
     <loc>https://blog.c01dkit.com/</loc>
-    <lastmod>2024-09-01T09:47:54+08:00</lastmod>
+    <lastmod>2024-09-17T09:34:12+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-US"
+                hreflang="en"
                 href="https://blog.c01dkit.com/en/"
                 />
     <xhtml:link
@@ -28,8 +18,18 @@
                 href="https://blog.c01dkit.com/"
                 />
   </url><url>
-    <loc>https://blog.c01dkit.com/report/2023/</loc>
-    <lastmod>2024-06-28T10:36:05+08:00</lastmod>
+    <loc>https://blog.c01dkit.com/life/</loc>
+    <lastmod>2024-06-30T10:01:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.c01dkit.com/en/life/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://blog.c01dkit.com/life/"
+                />
   </url><url>
     <loc>https://blog.c01dkit.com/life/bio-thoughts/</loc>
     <lastmod>2024-06-28T10:36:05+08:00</lastmod>
@@ -62,7 +62,7 @@
     <lastmod>2024-06-28T10:36:05+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-US"
+                hreflang="en"
                 href="https://blog.c01dkit.com/en/life/about-reading-novels/"
                 />
     <xhtml:link
@@ -75,7 +75,7 @@
     <lastmod>2024-06-28T10:36:05+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-US"
+                hreflang="en"
                 href="https://blog.c01dkit.com/en/life/connection-with-people/"
                 />
     <xhtml:link
@@ -88,7 +88,7 @@
     <lastmod>2024-06-28T10:36:05+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-US"
+                hreflang="en"
                 href="https://blog.c01dkit.com/en/life/why-reminiscence/"
                 />
     <xhtml:link
@@ -101,7 +101,7 @@
     <lastmod>2024-06-30T10:01:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-US"
+                hreflang="en"
                 href="https://blog.c01dkit.com/en/life/lustrous-and-dazzling/"
                 />
     <xhtml:link
@@ -114,7 +114,7 @@
     <lastmod>2024-06-28T10:36:05+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-US"
+                hreflang="en"
                 href="https://blog.c01dkit.com/en/life/calm-down/"
                 />
     <xhtml:link
@@ -124,13 +124,13 @@
                 />
   </url><url>
     <loc>https://blog.c01dkit.com/report/</loc>
-    <lastmod>2024-09-01T09:47:54+08:00</lastmod>
+    <lastmod>2024-09-17T09:34:12+08:00</lastmod>
   </url><url>
     <loc>https://blog.c01dkit.com/life/dusk-thoughts/</loc>
     <lastmod>2024-06-28T10:36:05+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-US"
+                hreflang="en"
                 href="https://blog.c01dkit.com/en/life/dusk-thoughts/"
                 />
     <xhtml:link
@@ -143,7 +143,7 @@
     <lastmod>2024-06-28T10:36:05+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-US"
+                hreflang="en"
                 href="https://blog.c01dkit.com/en/life/letter-to-the-young/"
                 />
     <xhtml:link
@@ -156,7 +156,7 @@
     <lastmod>2024-06-28T10:36:05+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-US"
+                hreflang="en"
                 href="https://blog.c01dkit.com/en/life/memodor/"
                 />
     <xhtml:link
@@ -193,10 +193,10 @@
     <lastmod>2024-06-28T10:36:05+08:00</lastmod>
   </url><url>
     <loc>https://blog.c01dkit.com/categories/</loc>
-    <lastmod>2024-06-28T10:36:05+08:00</lastmod>
+    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-US"
+                hreflang="en"
                 href="https://blog.c01dkit.com/en/categories/"
                 />
     <xhtml:link
