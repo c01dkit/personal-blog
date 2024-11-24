@@ -10,7 +10,7 @@
         <title>Ripple in Abyss</title>
         <link>https://blog.c01dkit.com/en/</link>
         <description>关心下一代二进制软件安全</description>
-        <generator>Hugo 0.108.0 https://gohugo.io/</generator>
+        <generator>Hugo 0.111.1 https://gohugo.io/</generator>
         
             <language>en-US</language>
         
@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Sat, 02 Nov 2024 10:05:24 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sun, 24 Nov 2024 17:51:55 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://blog.c01dkit.com/en/rss.xml" />
         
