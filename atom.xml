@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">渊漪</title>
     <subtitle type="html">关心下一代二进制软件安全</subtitle>
-    <updated>2024-12-09T10:41:46&#43;08:00</updated>
+    <updated>2024-12-30T10:48:26&#43;08:00</updated>
     <id>https://blog.c01dkit.com/</id>
     <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://blog.c01dkit.com/atom.xml" />
@@ -16,6 +16,101 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.111.1">Hugo</generator>
+        <entry>
+            <title type="text">失语者</title>
+            <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/aphasia/" />
+            <id>https://blog.c01dkit.com/life/aphasia/</id>
+            <updated>2024-12-21T21:34:40&#43;08:00</updated>
+            <published>2024-05-27T13:22:00&#43;08:00</published>
+            <author>
+                    <name>c01dkit</name>
+                    <uri>https://blog.c01dkit.com/</uri>
+                    <email>contact@c01dkit.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">他丧失了开口说话的能力。 起初，他是保持沉默的。不打断、不插嘴，耐心倾听别人发言，是一种礼貌。他面带微笑，点头致意。别人问他的时候……</summary>
+            
+                <content type="html">&lt;p&gt;他丧失了开口说话的能力。&lt;/p&gt;
+&lt;p&gt;起初，他是保持沉默的。不打断、不插嘴，耐心倾听别人发言，是一种礼貌。他面带微笑，点头致意。别人问他的时候，他也可以从容地开口，愉快地应答。&lt;/p&gt;
+&lt;p&gt;后来，他习惯了沉默的感觉。别人喜欢说话，那就让他们去表达。总有人愿意展现自我，那就把舞台留给别人。这一出出热情而激烈的舞台剧，当个安安静静的观赏者也不错。&lt;/p&gt;
+&lt;p&gt;再之后，他觉得说话是一件颇耗费心神的事。世间喧嚣，人心浮杂，他只想安安稳稳地站在一边，如同一座雕像般，一言不发。不说话就不会说错话，也不需要斟酌着开口。即便到了必须发言的时候，他也不过三两句草草收尾，结束主题。若是不能解决问题，他用冗长至极的句子包装自己的思绪，全然不顾别人是否能够听懂。&lt;/p&gt;
+&lt;p&gt;最后，他丧失了开口说话的能力。想要说些什么话，却不知道怎么表达自己的想法。他成为了最不起眼的那个人，失去了所有存在感。&lt;/p&gt;
+</content>
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                        
+                            <category scheme="https://blog.c01dkit.com/life/" term="life" label="life" />
+                        
+                    
+                
+            
+            
+            
+                
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">致我懵懂的求索</title>
+            <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/2023-summary/" />
+            <id>https://blog.c01dkit.com/life/2023-summary/</id>
+            <updated>2024-12-21T21:31:11&#43;08:00</updated>
+            <published>2024-01-01T20:05:51&#43;08:00</published>
+            <author>
+                    <name>c01dkit</name>
+                    <uri>https://blog.c01dkit.com/</uri>
+                    <email>contact@c01dkit.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">新的一年，写给自己一篇，浅浅总结下过去一年的故事。如果用一个词来概括去年，应该是“懵懂求索”了，如标题所示。过去的一年是自己独立……</summary>
+            
+                <content type="html">&lt;p&gt;新的一年，写给自己一篇，浅浅总结下过去一年的故事。如果用一个词来概括去年，应该是“懵懂求索”了，如标题所示。过去的一年是自己独立开展科研工作的一年，是在实验室浸泡的一年，是懵懵懂懂中行走着的一年。那么接下来就从几个方面来回忆过去的日子，稍微概括下。&lt;/p&gt;
+&lt;h2 id=&#34;致埋头走着脚下的路&#34;&gt;致埋头走着脚下的路&lt;/h2&gt;
+&lt;p&gt;既然是研究生，那么首先要说说科研工作了。尽管只是一个微不足道的小硕，但也是在认真地为自己工作着。去年一年读了一些文献，也对一个问题展开进行探索，并尝试了自己的解决方案。在此期间也整理了一些生活随笔，和论文随笔。实验室工作都有在认真完成，组会也有认真在进行。&lt;/p&gt;
+&lt;p&gt;有点太过于专注于面前的小路了。一味走着脚下的路，也就只能走着脚下的路。路上旁边的繁华是看不到的，旁边更为宽阔的路也是看不到的，旁边的路人也是看不到的。新的一年，希望自己多多抬头向前看、向旁边张望，不要总是闷着头。&lt;/p&gt;
+&lt;p&gt;思维方式来讲确实有了极大的转变。越来越不轻易表达自己的观点，越来越欣赏别人的自我表达，越来越以批判的眼光评价遇到的种种事情，就更加不喜欢表达自己的观点。喜欢将自己的耳朵堵住。生理上的神经衰弱与心理上对他人二三事的毫不留意双管齐下，更使得只顾走在自己的路上了。&lt;/p&gt;
+&lt;h2 id=&#34;致继续戴着自我规约的枷锁&#34;&gt;致继续戴着自我规约的枷锁&lt;/h2&gt;
+&lt;p&gt;自童年而起的成长轨迹与大学前受到的种种规训仍然深刻影响着如今的思维模式。被训诫的得体的举止与被寄予的种种不切实际的期许仍然成为莫名其妙的自我限制。已经在他人心中固化的刻板印象仍然存在并且将长期存在。&lt;/p&gt;
+&lt;p&gt;在三次元的现实生活里，仍然还是那个在聚会时安安静静地听别人吹水然后在大家都稍作停顿的间隙里发言（但是因为大家聊得非常多所以找不到两秒以上的停顿所以就不发言所以导致别人以为是自闭），实际上人多的时候被问到的时候才会说话。和群友聊，戏称其为二进制指数退避算法，CSMA/CD。&lt;/p&gt;
+&lt;h2 id=&#34;致自我的放纵恣肆&#34;&gt;致自我的放纵恣肆&lt;/h2&gt;
+&lt;p&gt;好在QQ成为了最后一片精神自留地，最后一片不设防的休憩点，可以和群友空友纵情地口嗨。一年来认识了（相对往年来说）很多的新朋友，也一起经历了很多难忘的畅聊夜谈，一起分享自己成长的心路历程。&lt;/p&gt;
+&lt;p&gt;厌恶一切背后对他人的非议，厌恶一切过度而恶意的揣测，更厌恶在各种场合散布种种流言蜚语的人。他人如何、他人怎样、他人干着怎样的勾当都是他的选择，个中缘由何必又由别人去评价呢。何必自己“解读”过之后再强加给别人、不管对方感不感兴趣呢。&lt;/p&gt;
+&lt;p&gt;但好像有确实有这样的一个圈子，不去彼此吹水就无法融入其中。还是越晚接触越好吧。&lt;/p&gt;
+&lt;h2 id=&#34;致一路上的欢声笑语&#34;&gt;致一路上的欢声笑语&lt;/h2&gt;
+&lt;p&gt;元旦的晚上和五年未见的老学长约了个晚饭，被指出已经成为憔悴的社畜了……虽然如此，自我感觉还是可以的，可能已经被驯化了。过去的一年里，也确实经历过许多快乐的事，特别感谢实验室大家的陪伴与互动。&lt;/p&gt;
+&lt;p&gt;抱着“不要埋怨自己，要指责他人”的摆烂心态，这一路上确实充满着阳光。活在世间也不过走一遭，指不准哪天就突然天降横祸而暴毙身亡，何苦在尚存一息的时候挣扎着揉搓自己脸上的泥巴呢。&lt;/p&gt;
+&lt;p&gt;最后希望崭新的一年，能够荣辱不惊地平平淡淡地度过吧。&lt;/p&gt;
+</content>
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                        
+                            <category scheme="https://blog.c01dkit.com/life/" term="life" label="life" />
+                        
+                    
+                
+            
+            
+            
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">动植物随想</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/bio-thoughts/" />
