@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">渊漪</title>
     <subtitle type="html">关心下一代二进制软件安全</subtitle>
-    <updated>2024-12-30T10:48:26&#43;08:00</updated>
+    <updated>2025-01-06T11:14:52&#43;08:00</updated>
     <id>https://blog.c01dkit.com/</id>
     <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://blog.c01dkit.com/atom.xml" />
@@ -16,6 +16,49 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.111.1">Hugo</generator>
+        <entry>
+            <title type="text">又是新的一年</title>
+            <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/2024-summary/" />
+            <id>https://blog.c01dkit.com/life/2024-summary/</id>
+            <updated>2025-01-06T11:14:45&#43;08:00</updated>
+            <published>2024-12-21T21:28:26&#43;08:00</published>
+            <author>
+                    <name>c01dkit</name>
+                    <uri>https://blog.c01dkit.com/</uri>
+                    <email>contact@c01dkit.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">忙忙碌碌，回过神来的时候已经到了24年的尾巴了。年初的时候趁着名额尚有，选择了春季转博，续费三年！这下不能再总是划水摸鱼了，得积……</summary>
+            
+                <content type="html">&lt;p&gt;忙忙碌碌，回过神来的时候已经到了24年的尾巴了。年初的时候趁着名额尚有，选择了春季转博，续费三年！这下不能再总是划水摸鱼了，得积极主动地为自己毕业大事着想。CCS被拒，改投Oakland接收，意料之外地获得了第一篇一作CCF A类paper，毕业有望。秋冬学期成为了老板的C尖助教，帮助更新ppt、上机课答疑、实验监考和理论改卷。虽然事情不少，但感觉也挺有趣的。年末的时候老板让参加作品赛，时间短任务重，也是和林总合作体会了一下两天一会的工作效率，认识到如果不摸鱼确实可以极快推进进度的（原来平常每天不由自主地在摸鱼啊！怪不得进展那么慢）。一时摸鱼一时爽，但还是蛮虚无的。不能总是凝视着要做的事情，无论大小得先做起来，靠惯性去推动。也在这一过程中学到了更加便捷的网站开发工具、ppt制作与录制技巧，挺好玩的。&lt;/p&gt;
+&lt;p&gt;每天在忙着推进新的课题，一时间顾不上更新个人博客，说来惭愧。感叹自己文学素养有待提高，购买了一整年的三联周刊，了解校园之外的生活。除此之外，其他纸质书籍要提上阅读日程了。有很多事情一直不去做也就渐渐没有了心气去做，一直搁置下去，缺乏做出改变的契机。平静的海面下方，暗流汹涌。没有生活的苦厄也便缺了创作的激情，更不用提什么文字产出了。&lt;/p&gt;
+&lt;p&gt;还是要早做规划。要放眼三年后，以切实提高个人能力为主，早做规划。至少从每天总结扩展知识内容、早睡早起开始吧！除了课题工作内容，每天再学习一些新的知识、整理成笔记，提高个人能力。早睡早起，提高工作效率、保护身体。25岁起免费的身体试用期就失效了，之后是要注意养生的。年末的时候体检发现肝功指标异常，再进一步B超发现有不均质性脂肪肝，要多多锻炼身体、控制饮食了。大冬天去跑步寒气入体不太好，加了乒乓球约球群，两三天就去打打球，算是体育锻炼。&lt;/p&gt;
+&lt;p&gt;今年也认识了不少五湖四海的网友，不过大部分加好友聊两三句就再没有消息了，也就逢年过节的时候再发个节日快乐活络活络。读万卷书行万里路，从大一到现在还从来没有以旅游为目的，自己到其他城市去转转呢。实验室同学时不时去长沙、上海、哈尔滨等地旅行打卡，感觉确实很有趣。也许我也有一天能够不再那么push自己，能够在（不存在的）假期里出去转转，就当是克服社恐了。&lt;/p&gt;
+&lt;p&gt;比较值得宽慰的事情是还能保持着一点心气，虽然也没有实际做出什么事情，但是一想到将会完成这些事情，还是忍不住会兴奋。工欲善其事必先利其器，这几天已经多次意识到完善工具链的作用了，否则茫然四处努力也不过很低效率，而且也不能带来很大成长。尤其是在AI时代，技术力发展飞速，必须得借势而行，顺势而为。比如希望调研领域现状时，之前说是先找survey提纲挈领，但现在可以直接问AI，让他来凝练搜索关键字、推荐paper、总结现状。现在最要紧的事情就是与时间赛跑，在尽可能短的时间里做出尽可能多的事情。&lt;/p&gt;
+&lt;p&gt;最后希望新的一年平平安安！&lt;/p&gt;
+</content>
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                        
+                            <category scheme="https://blog.c01dkit.com/life/" term="life" label="life" />
+                        
+                    
+                
+            
+            
+            
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">失语者</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/aphasia/" />
