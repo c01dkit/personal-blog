@@ -2,8 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.c01dkit.com/</loc>
+    <lastmod>2025-01-31T00:45:43+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.c01dkit.com/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://blog.c01dkit.com/"
+                />
+  </url><url>
+    <loc>https://blog.c01dkit.com/report/</loc>
+    <lastmod>2025-01-31T00:39:09+00:00</lastmod>
+  </url><url>
     <loc>https://blog.c01dkit.com/life/</loc>
-    <lastmod>2025-01-06T11:14:45+08:00</lastmod>
+    <lastmod>2025-01-31T00:45:43+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,59 +32,46 @@
                 />
   </url><url>
     <loc>https://blog.c01dkit.com/life/2024-summary/</loc>
-    <lastmod>2025-01-06T11:14:45+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.c01dkit.com/</loc>
-    <lastmod>2025-01-06T11:14:45+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.c01dkit.com/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://blog.c01dkit.com/"
-                />
+    <lastmod>2025-01-06T03:14:45+00:00</lastmod>
   </url><url>
     <loc>https://blog.c01dkit.com/life/aphasia/</loc>
-    <lastmod>2024-12-21T21:34:40+08:00</lastmod>
+    <lastmod>2024-12-21T13:34:40+00:00</lastmod>
   </url><url>
     <loc>https://blog.c01dkit.com/report/2023/</loc>
-    <lastmod>2024-11-24T15:11:46+08:00</lastmod>
+    <lastmod>2025-01-30T23:57:37+00:00</lastmod>
   </url><url>
     <loc>https://blog.c01dkit.com/life/2023-summary/</loc>
-    <lastmod>2024-12-21T21:31:11+08:00</lastmod>
+    <lastmod>2024-12-21T13:31:11+00:00</lastmod>
   </url><url>
     <loc>https://blog.c01dkit.com/life/bio-thoughts/</loc>
-    <lastmod>2024-11-24T15:11:45+08:00</lastmod>
+    <lastmod>2024-11-24T07:11:45+00:00</lastmod>
   </url><url>
     <loc>https://blog.c01dkit.com/life/like-fireworks/</loc>
-    <lastmod>2024-11-24T15:11:45+08:00</lastmod>
+    <lastmod>2024-11-24T07:11:45+00:00</lastmod>
   </url><url>
     <loc>https://blog.c01dkit.com/life/time-consuming-techniques/</loc>
-    <lastmod>2024-11-24T15:11:45+08:00</lastmod>
+    <lastmod>2024-11-24T07:11:45+00:00</lastmod>
   </url><url>
     <loc>https://blog.c01dkit.com/life/fancy-thoughts/</loc>
-    <lastmod>2024-11-24T15:11:45+08:00</lastmod>
+    <lastmod>2024-11-24T07:11:45+00:00</lastmod>
   </url><url>
     <loc>https://blog.c01dkit.com/life/writing-a-bubble/</loc>
-    <lastmod>2024-11-24T15:11:46+08:00</lastmod>
+    <lastmod>2024-11-24T07:11:46+00:00</lastmod>
   </url><url>
     <loc>https://blog.c01dkit.com/life/life-is-a-crossline/</loc>
-    <lastmod>2024-11-24T15:11:45+08:00</lastmod>
+    <lastmod>2024-11-24T07:11:45+00:00</lastmod>
   </url><url>
     <loc>https://blog.c01dkit.com/life/trip-to-shanghai-gossip/</loc>
-    <lastmod>2024-11-24T15:11:45+08:00</lastmod>
+    <lastmod>2024-11-24T07:11:45+00:00</lastmod>
   </url><url>
     <loc>https://blog.c01dkit.com/life/reading-books/</loc>
-    <lastmod>2024-11-24T15:11:45+08:00</lastmod>
+    <lastmod>2024-11-24T07:11:45+00:00</lastmod>
   </url><url>
     <loc>https://blog.c01dkit.com/life/trip-to-shenzhen-inforsec/</loc>
-    <lastmod>2024-11-24T15:11:45+08:00</lastmod>
+    <lastmod>2024-11-24T07:11:45+00:00</lastmod>
   </url><url>
     <loc>https://blog.c01dkit.com/life/about-reading-novels/</loc>
-    <lastmod>2024-11-24T15:11:45+08:00</lastmod>
+    <lastmod>2024-11-24T07:11:45+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -81,7 +84,7 @@
                 />
   </url><url>
     <loc>https://blog.c01dkit.com/life/connection-with-people/</loc>
-    <lastmod>2024-11-24T15:11:45+08:00</lastmod>
+    <lastmod>2024-11-24T07:11:45+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -94,7 +97,7 @@
                 />
   </url><url>
     <loc>https://blog.c01dkit.com/life/why-reminiscence/</loc>
-    <lastmod>2024-11-24T15:11:45+08:00</lastmod>
+    <lastmod>2024-11-24T07:11:45+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -107,7 +110,7 @@
                 />
   </url><url>
     <loc>https://blog.c01dkit.com/life/lustrous-and-dazzling/</loc>
-    <lastmod>2024-12-09T10:41:22+08:00</lastmod>
+    <lastmod>2025-01-31T00:45:43+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -120,7 +123,7 @@
                 />
   </url><url>
     <loc>https://blog.c01dkit.com/life/calm-down/</loc>
-    <lastmod>2024-11-24T15:11:45+08:00</lastmod>
+    <lastmod>2024-11-24T07:11:45+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -132,11 +135,11 @@
                 href="https://blog.c01dkit.com/life/calm-down/"
                 />
   </url><url>
-    <loc>https://blog.c01dkit.com/report/</loc>
-    <lastmod>2024-12-30T10:48:07+08:00</lastmod>
+    <loc>https://blog.c01dkit.com/report/2024/</loc>
+    <lastmod>2025-01-30T23:59:51+00:00</lastmod>
   </url><url>
     <loc>https://blog.c01dkit.com/life/dusk-thoughts/</loc>
-    <lastmod>2024-11-24T15:11:45+08:00</lastmod>
+    <lastmod>2024-11-24T07:11:45+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -149,7 +152,7 @@
                 />
   </url><url>
     <loc>https://blog.c01dkit.com/life/letter-to-the-young/</loc>
-    <lastmod>2024-11-24T15:11:45+08:00</lastmod>
+    <lastmod>2024-11-24T07:11:45+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -162,7 +165,7 @@
                 />
   </url><url>
     <loc>https://blog.c01dkit.com/life/memodor/</loc>
-    <lastmod>2024-11-24T15:11:45+08:00</lastmod>
+    <lastmod>2024-11-24T07:11:45+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -175,31 +178,31 @@
                 />
   </url><url>
     <loc>https://blog.c01dkit.com/life/beloved-and-dismissed/</loc>
-    <lastmod>2024-11-24T15:11:45+08:00</lastmod>
+    <lastmod>2024-11-24T07:11:45+00:00</lastmod>
   </url><url>
     <loc>https://blog.c01dkit.com/life/undergraduate/</loc>
-    <lastmod>2024-11-24T15:11:45+08:00</lastmod>
+    <lastmod>2024-11-24T07:11:45+00:00</lastmod>
   </url><url>
     <loc>https://blog.c01dkit.com/life/drill-thoughts/</loc>
-    <lastmod>2024-11-24T15:11:45+08:00</lastmod>
+    <lastmod>2024-11-24T07:11:45+00:00</lastmod>
   </url><url>
     <loc>https://blog.c01dkit.com/life/all-silent/</loc>
-    <lastmod>2024-11-24T15:11:45+08:00</lastmod>
+    <lastmod>2024-11-24T07:11:45+00:00</lastmod>
   </url><url>
     <loc>https://blog.c01dkit.com/life/growth/</loc>
-    <lastmod>2024-11-24T15:11:45+08:00</lastmod>
+    <lastmod>2024-11-24T07:11:45+00:00</lastmod>
   </url><url>
     <loc>https://blog.c01dkit.com/life/sorrow-in-deep/</loc>
-    <lastmod>2024-11-24T15:11:45+08:00</lastmod>
+    <lastmod>2024-11-24T07:11:45+00:00</lastmod>
   </url><url>
     <loc>https://blog.c01dkit.com/life/world-that-without-you/</loc>
-    <lastmod>2024-11-24T15:11:46+08:00</lastmod>
+    <lastmod>2024-11-24T07:11:46+00:00</lastmod>
   </url><url>
     <loc>https://blog.c01dkit.com/life/he-and-it/</loc>
-    <lastmod>2024-11-24T15:11:45+08:00</lastmod>
+    <lastmod>2024-11-24T07:11:45+00:00</lastmod>
   </url><url>
     <loc>https://blog.c01dkit.com/life/drill-posts/</loc>
-    <lastmod>2024-11-24T15:11:45+08:00</lastmod>
+    <lastmod>2024-11-24T07:11:45+00:00</lastmod>
   </url><url>
     <loc>https://blog.c01dkit.com/categories/</loc>
     <priority>0</priority>

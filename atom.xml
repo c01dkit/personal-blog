@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">渊漪</title>
     <subtitle type="html">关心下一代二进制软件安全</subtitle>
-    <updated>2025-01-06T11:14:52&#43;08:00</updated>
+    <updated>2025-01-31T01:00:43&#43;00:00</updated>
     <id>https://blog.c01dkit.com/</id>
     <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://blog.c01dkit.com/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">又是新的一年</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/2024-summary/" />
             <id>https://blog.c01dkit.com/life/2024-summary/</id>
-            <updated>2025-01-06T11:14:45&#43;08:00</updated>
+            <updated>2025-01-06T03:14:45&#43;00:00</updated>
             <published>2024-12-21T21:28:26&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
@@ -63,7 +63,7 @@
             <title type="text">失语者</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/aphasia/" />
             <id>https://blog.c01dkit.com/life/aphasia/</id>
-            <updated>2024-12-21T21:34:40&#43;08:00</updated>
+            <updated>2024-12-21T13:34:40&#43;00:00</updated>
             <published>2024-05-27T13:22:00&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
@@ -105,7 +105,7 @@
             <title type="text">致我懵懂的求索</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/2023-summary/" />
             <id>https://blog.c01dkit.com/life/2023-summary/</id>
-            <updated>2024-12-21T21:31:11&#43;08:00</updated>
+            <updated>2024-12-21T13:31:11&#43;00:00</updated>
             <published>2024-01-01T20:05:51&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
@@ -158,7 +158,7 @@
             <title type="text">动植物随想</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/bio-thoughts/" />
             <id>https://blog.c01dkit.com/life/bio-thoughts/</id>
-            <updated>2024-11-24T15:11:45&#43;08:00</updated>
+            <updated>2024-11-24T07:11:45&#43;00:00</updated>
             <published>2023-12-24T09:33:43&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
@@ -201,7 +201,7 @@
             <title type="text">如烟花升腾般</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/like-fireworks/" />
             <id>https://blog.c01dkit.com/life/like-fireworks/</id>
-            <updated>2024-11-24T15:11:45&#43;08:00</updated>
+            <updated>2024-11-24T07:11:45&#43;00:00</updated>
             <published>2023-12-10T17:19:53&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
@@ -242,7 +242,7 @@
             <title type="text">闲来无事打发时间的小技巧</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/time-consuming-techniques/" />
             <id>https://blog.c01dkit.com/life/time-consuming-techniques/</id>
-            <updated>2024-11-24T15:11:45&#43;08:00</updated>
+            <updated>2024-11-24T07:11:45&#43;00:00</updated>
             <published>2023-10-13T13:49:06&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
@@ -309,7 +309,7 @@
             <title type="text">第四类幻想</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/fancy-thoughts/" />
             <id>https://blog.c01dkit.com/life/fancy-thoughts/</id>
-            <updated>2024-11-24T15:11:45&#43;08:00</updated>
+            <updated>2024-11-24T07:11:45&#43;00:00</updated>
             <published>2023-10-10T13:13:30&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
@@ -350,7 +350,7 @@
             <title type="text">聊聊写文</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/writing-a-bubble/" />
             <id>https://blog.c01dkit.com/life/writing-a-bubble/</id>
-            <updated>2024-11-24T15:11:46&#43;08:00</updated>
+            <updated>2024-11-24T07:11:46&#43;00:00</updated>
             <published>2023-10-09T19:00:02&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
@@ -390,7 +390,7 @@
             <title type="text">君子之交淡如水</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/life-is-a-crossline/" />
             <id>https://blog.c01dkit.com/life/life-is-a-crossline/</id>
-            <updated>2024-11-24T15:11:45&#43;08:00</updated>
+            <updated>2024-11-24T07:11:45&#43;00:00</updated>
             <published>2023-09-27T10:28:22&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
@@ -432,7 +432,7 @@
             <title type="text">Gossip暑校上海行</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/trip-to-shanghai-gossip/" />
             <id>https://blog.c01dkit.com/life/trip-to-shanghai-gossip/</id>
-            <updated>2024-11-24T15:11:45&#43;08:00</updated>
+            <updated>2024-11-24T07:11:45&#43;00:00</updated>
             <published>2023-07-29T19:17:30&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
@@ -570,7 +570,7 @@ broadcaster、observer广播&lt;/p&gt;
             <title type="text">读书札记</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/reading-books/" />
             <id>https://blog.c01dkit.com/life/reading-books/</id>
-            <updated>2024-11-24T15:11:45&#43;08:00</updated>
+            <updated>2024-11-24T07:11:45&#43;00:00</updated>
             <published>2023-06-25T22:58:38&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
@@ -642,7 +642,7 @@ broadcaster、observer广播&lt;/p&gt;
             <title type="text">Inforsec深圳行</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/trip-to-shenzhen-inforsec/" />
             <id>https://blog.c01dkit.com/life/trip-to-shenzhen-inforsec/</id>
-            <updated>2024-11-24T15:11:45&#43;08:00</updated>
+            <updated>2024-11-24T07:11:45&#43;00:00</updated>
             <published>2023-04-10T19:47:08&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
@@ -702,7 +702,7 @@ broadcaster、observer广播&lt;/p&gt;
             <title type="text">谈读网文</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/about-reading-novels/" />
             <id>https://blog.c01dkit.com/life/about-reading-novels/</id>
-            <updated>2024-11-24T15:11:45&#43;08:00</updated>
+            <updated>2024-11-24T07:11:45&#43;00:00</updated>
             <published>2023-03-12T15:53:48&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
@@ -756,7 +756,7 @@ broadcaster、observer广播&lt;/p&gt;
             <title type="text">与人的缘</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/connection-with-people/" />
             <id>https://blog.c01dkit.com/life/connection-with-people/</id>
-            <updated>2024-11-24T15:11:45&#43;08:00</updated>
+            <updated>2024-11-24T07:11:45&#43;00:00</updated>
             <published>2022-08-28T20:31:15&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
@@ -807,7 +807,7 @@ broadcaster、observer广播&lt;/p&gt;
             <title type="text">我们为什么越来越怀旧？</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/why-reminiscence/" />
             <id>https://blog.c01dkit.com/life/why-reminiscence/</id>
-            <updated>2024-11-24T15:11:45&#43;08:00</updated>
+            <updated>2024-11-24T07:11:45&#43;00:00</updated>
             <published>2022-07-07T14:10:49&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
@@ -900,7 +900,7 @@ broadcaster、observer广播&lt;/p&gt;
             <title type="text">光怪陆离</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/lustrous-and-dazzling/" />
             <id>https://blog.c01dkit.com/life/lustrous-and-dazzling/</id>
-            <updated>2024-12-09T10:41:22&#43;08:00</updated>
+            <updated>2025-01-31T00:45:43&#43;00:00</updated>
             <published>2022-06-19T19:55:48&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
@@ -1376,6 +1376,18 @@ broadcaster、observer广播&lt;/p&gt;
 &lt;p&gt;四五人簇拥在小小的厨房里，围坐在木质的桌子旁&lt;/p&gt;
 &lt;p&gt;毕业多年的老学长也来这里听数学了&lt;/p&gt;
 &lt;p&gt;大家轻快地笑着&lt;/p&gt;
+&lt;h2 id=&#34;揭秘&#34;&gt;揭秘&lt;/h2&gt;
+&lt;p&gt;在国旗台前，他们男男女女坐成两排&lt;/p&gt;
+&lt;p&gt;后排的隐挤出一个挑衅的嘴型，朝着其他人公然宣布：&lt;/p&gt;
+&lt;p&gt;这边有个男生是呢！&lt;/p&gt;
+&lt;p&gt;右边只有湍一个男生，愤愤地起身离开了&lt;/p&gt;
+&lt;p&gt;“——与你何干！”&lt;/p&gt;
+&lt;h2 id=&#34;组会&#34;&gt;组会&lt;/h2&gt;
+&lt;p&gt;大家围坐在长条桌子旁，注视着放映屏&lt;/p&gt;
+&lt;p&gt;“好的，下面我们按家乡地区分成三个小组会”&lt;/p&gt;
+&lt;p&gt;“不同房间使用和家乡特点有关的学习方式，效果更好些”&lt;/p&gt;
+&lt;p&gt;“诶——？”我惊异地低呼，旋即茫然地不知道自己应该在哪里了&lt;/p&gt;
+&lt;p&gt;还是哪个房间的主题比较有趣去哪里吧&lt;/p&gt;
 </content>
             
             
@@ -1404,7 +1416,7 @@ broadcaster、observer广播&lt;/p&gt;
             <title type="text">平心与静气</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/calm-down/" />
             <id>https://blog.c01dkit.com/life/calm-down/</id>
-            <updated>2024-11-24T15:11:45&#43;08:00</updated>
+            <updated>2024-11-24T07:11:45&#43;00:00</updated>
             <published>2022-05-25T18:43:03&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
@@ -1446,7 +1458,7 @@ broadcaster、observer广播&lt;/p&gt;
             <title type="text">黄昏随想</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/dusk-thoughts/" />
             <id>https://blog.c01dkit.com/life/dusk-thoughts/</id>
-            <updated>2024-11-24T15:11:45&#43;08:00</updated>
+            <updated>2024-11-24T07:11:45&#43;00:00</updated>
             <published>2022-04-04T17:48:04&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
@@ -1490,7 +1502,7 @@ broadcaster、observer广播&lt;/p&gt;
             <title type="text">此间过往，说予你听</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/letter-to-the-young/" />
             <id>https://blog.c01dkit.com/life/letter-to-the-young/</id>
-            <updated>2024-11-24T15:11:45&#43;08:00</updated>
+            <updated>2024-11-24T07:11:45&#43;00:00</updated>
             <published>2022-03-29T20:49:10&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
@@ -1534,7 +1546,7 @@ broadcaster、observer广播&lt;/p&gt;
             <title type="text">记忆的气息</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/memodor/" />
             <id>https://blog.c01dkit.com/life/memodor/</id>
-            <updated>2024-11-24T15:11:45&#43;08:00</updated>
+            <updated>2024-11-24T07:11:45&#43;00:00</updated>
             <published>2022-02-26T17:11:38&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
@@ -1579,7 +1591,7 @@ broadcaster、observer广播&lt;/p&gt;
             <title type="text">所珍视的与所忽视的</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/beloved-and-dismissed/" />
             <id>https://blog.c01dkit.com/life/beloved-and-dismissed/</id>
-            <updated>2024-11-24T15:11:45&#43;08:00</updated>
+            <updated>2024-11-24T07:11:45&#43;00:00</updated>
             <published>2021-12-31T23:00:00&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
@@ -1628,7 +1640,7 @@ broadcaster、observer广播&lt;/p&gt;
             <title type="text">追忆：本科生涯</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/undergraduate/" />
             <id>https://blog.c01dkit.com/life/undergraduate/</id>
-            <updated>2024-11-24T15:11:45&#43;08:00</updated>
+            <updated>2024-11-24T07:11:45&#43;00:00</updated>
             <published>2021-09-24T14:38:01&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
@@ -1721,7 +1733,7 @@ broadcaster、observer广播&lt;/p&gt;
             <title type="text">追忆：带训时光</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/drill-thoughts/" />
             <id>https://blog.c01dkit.com/life/drill-thoughts/</id>
-            <updated>2024-11-24T15:11:45&#43;08:00</updated>
+            <updated>2024-11-24T07:11:45&#43;00:00</updated>
             <published>2021-09-12T14:32:26&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
@@ -1795,7 +1807,7 @@ broadcaster、observer广播&lt;/p&gt;
             <title type="text">此时万物无声</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/all-silent/" />
             <id>https://blog.c01dkit.com/life/all-silent/</id>
-            <updated>2024-11-24T15:11:45&#43;08:00</updated>
+            <updated>2024-11-24T07:11:45&#43;00:00</updated>
             <published>2020-12-31T22:49:55&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
@@ -1845,7 +1857,7 @@ broadcaster、observer广播&lt;/p&gt;
             <title type="text">成长</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/growth/" />
             <id>https://blog.c01dkit.com/life/growth/</id>
-            <updated>2024-11-24T15:11:45&#43;08:00</updated>
+            <updated>2024-11-24T07:11:45&#43;00:00</updated>
             <published>2020-09-02T10:04:42&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
@@ -1904,7 +1916,7 @@ broadcaster、observer广播&lt;/p&gt;
             <title type="text">我深深的悲哀</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/sorrow-in-deep/" />
             <id>https://blog.c01dkit.com/life/sorrow-in-deep/</id>
-            <updated>2024-11-24T15:11:45&#43;08:00</updated>
+            <updated>2024-11-24T07:11:45&#43;00:00</updated>
             <published>2020-04-16T19:46:43&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
@@ -1947,7 +1959,7 @@ broadcaster、observer广播&lt;/p&gt;
             <title type="text">世界可以缺少你们</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/world-that-without-you/" />
             <id>https://blog.c01dkit.com/life/world-that-without-you/</id>
-            <updated>2024-11-24T15:11:46&#43;08:00</updated>
+            <updated>2024-11-24T07:11:46&#43;00:00</updated>
             <published>2019-02-25T22:43:47&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
@@ -2009,7 +2021,7 @@ broadcaster、observer广播&lt;/p&gt;
             <title type="text">他和它</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/he-and-it/" />
             <id>https://blog.c01dkit.com/life/he-and-it/</id>
-            <updated>2024-11-24T15:11:45&#43;08:00</updated>
+            <updated>2024-11-24T07:11:45&#43;00:00</updated>
             <published>2019-02-17T09:58:40&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
@@ -2051,7 +2063,7 @@ broadcaster、observer广播&lt;/p&gt;
             <title type="text">军训通讯稿合集</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/drill-posts/" />
             <id>https://blog.c01dkit.com/life/drill-posts/</id>
-            <updated>2024-11-24T15:11:45&#43;08:00</updated>
+            <updated>2024-11-24T07:11:45&#43;00:00</updated>
             <published>2018-09-08T09:38:43&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
