@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
     <title type="text">Ripple in Abyss</title>
     <subtitle type="html">关心下一代二进制软件安全</subtitle>
-    <updated>2025-01-31T01:04:32&#43;00:00</updated>
+    <updated>2025-03-01T11:00:40&#43;08:00</updated>
     <id>https://blog.c01dkit.com/en/</id>
     <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/en/" />
     <link rel="self" type="application/atom&#43;xml" href="https://blog.c01dkit.com/en/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">Inforsec In Shenzhen</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/en/life/trip-to-shenzhen-infosec/" />
             <id>https://blog.c01dkit.com/en/life/trip-to-shenzhen-infosec/</id>
-            <updated>2024-11-24T07:11:45&#43;00:00</updated>
+            <updated>2024-11-24T15:11:45&#43;08:00</updated>
             <published>2023-04-10T19:47:08&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
@@ -76,7 +76,7 @@ What should we do in the future? It is better to have a proper attitude towards 
             <title type="text">About Net Literature</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/en/life/about-reading-novels/" />
             <id>https://blog.c01dkit.com/en/life/about-reading-novels/</id>
-            <updated>2024-11-24T07:11:45&#43;00:00</updated>
+            <updated>2024-11-24T15:11:45&#43;08:00</updated>
             <published>2023-03-12T15:53:48&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
@@ -126,7 +126,7 @@ What should we do in the future? It is better to have a proper attitude towards 
             <title type="text">Margin with people</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/en/life/connection-with-people/" />
             <id>https://blog.c01dkit.com/en/life/connection-with-people/</id>
-            <updated>2024-11-24T07:11:45&#43;00:00</updated>
+            <updated>2024-11-24T15:11:45&#43;08:00</updated>
             <published>2022-08-28T20:31:15&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
@@ -165,7 +165,7 @@ What should we do in the future? It is better to have a proper attitude towards 
             <title type="text">Why are we getting nostalgic？</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/en/life/why-reminiscence/" />
             <id>https://blog.c01dkit.com/en/life/why-reminiscence/</id>
-            <updated>2024-11-24T07:11:45&#43;00:00</updated>
+            <updated>2024-11-24T15:11:45&#43;08:00</updated>
             <published>2022-07-07T14:10:49&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
@@ -255,7 +255,7 @@ Perhaps you have noticed that we are being densely wrapped in nostalgia. Cultura
             <title type="text">Lustrous and Dazzling</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/en/life/lustrous-and-dazzling/" />
             <id>https://blog.c01dkit.com/en/life/lustrous-and-dazzling/</id>
-            <updated>2024-11-24T07:11:45&#43;00:00</updated>
+            <updated>2024-11-24T15:11:45&#43;08:00</updated>
             <published>2022-06-19T19:55:48&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
@@ -386,7 +386,7 @@ Perhaps you have noticed that we are being densely wrapped in nostalgia. Cultura
             <title type="text">Peace and Calmness</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/en/life/calm-down/" />
             <id>https://blog.c01dkit.com/en/life/calm-down/</id>
-            <updated>2024-11-24T07:11:45&#43;00:00</updated>
+            <updated>2024-11-24T15:11:45&#43;08:00</updated>
             <published>2022-05-25T18:43:03&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
@@ -424,7 +424,7 @@ Perhaps you have noticed that we are being densely wrapped in nostalgia. Cultura
             <title type="text">Dusk Reflections</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/en/life/dusk-thoughts/" />
             <id>https://blog.c01dkit.com/en/life/dusk-thoughts/</id>
-            <updated>2024-11-24T07:11:45&#43;00:00</updated>
+            <updated>2024-11-24T15:11:45&#43;08:00</updated>
             <published>2022-04-04T17:48:04&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
@@ -465,7 +465,7 @@ Perhaps the task is more clearly arranged, purely to write code? Or is the tea h
             <title type="text">Letter to The Young</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/en/life/letter-to-the-young/" />
             <id>https://blog.c01dkit.com/en/life/letter-to-the-young/</id>
-            <updated>2024-11-24T07:11:45&#43;00:00</updated>
+            <updated>2024-11-24T15:11:45&#43;08:00</updated>
             <published>2022-03-29T20:49:10&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
@@ -505,7 +505,7 @@ Perhaps the task is more clearly arranged, purely to write code? Or is the tea h
             <title type="text">Scent of Memory</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/en/life/memodor/" />
             <id>https://blog.c01dkit.com/en/life/memodor/</id>
-            <updated>2024-11-24T07:11:45&#43;00:00</updated>
+            <updated>2024-11-24T15:11:45&#43;08:00</updated>
             <published>2022-02-26T17:11:38&#43;08:00</published>
             <author>
                     <name>c01dkit</name>
