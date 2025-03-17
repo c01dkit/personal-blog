@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">渊漪</title>
     <subtitle type="html">关心下一代二进制软件安全</subtitle>
-    <updated>2025-03-01T11:00:40&#43;08:00</updated>
+    <updated>2025-03-17T09:49:23&#43;08:00</updated>
     <id>https://blog.c01dkit.com/</id>
     <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://blog.c01dkit.com/atom.xml" />
@@ -16,6 +16,51 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.111.1">Hugo</generator>
+        <entry>
+            <title type="text">三月随想</title>
+            <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/refresh/" />
+            <id>https://blog.c01dkit.com/life/refresh/</id>
+            <updated>2025-03-17T09:49:06&#43;08:00</updated>
+            <published>2025-03-17T09:16:06&#43;08:00</published>
+            <author>
+                    <name>c01dkit</name>
+                    <uri>https://blog.c01dkit.com/</uri>
+                    <email>contact@c01dkit.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">发现忙起来的时候、注意力高度调动起来的时候做事情效率蛮高的，而且感受不到时间的流动。打算下班了再一看表，哦！原来已经十一点多了。……</summary>
+            
+                <content type="html">&lt;p&gt;发现忙起来的时候、注意力高度调动起来的时候做事情效率蛮高的，而且感受不到时间的流动。打算下班了再一看表，哦！原来已经十一点多了。得让事情调动起来情绪。每天都像昨日的重复，是没有什么激情的，做事情也是还没开工就乏了三分。&lt;/p&gt;
+&lt;p&gt;有人说读博是对精神的折磨，想不开容易抑郁走向自毁。可能是课题没有进展的苦恼，生活不尽如人意的烦闷吧。至少在我这里是没什么焦虑，可能是因为已经完全放平了心态，不再去和别人做什么对比了。相比本科阶段，每天的行动轨迹极为固定，也没什么开口说话的机会，这也导致语言功能逐渐退化，词不达意。讲话东拉西扯连汤带水的。也许是因为没时间读什么闲书？&lt;/p&gt;
+&lt;p&gt;好心态的另一层原因很有可能是拿一些心理学方面的概念来迷惑自己了，在认知层面意识到什么“飞轮效应”，“从垃圾开始”，就好像给驴头上悬一个胡萝卜，让它绕着磨盘一直转悠。不过最关键的事情还没有付诸行动的。想着要学go、做网站、学AI、读论文，但只是想想就欺骗自己，好像已经取得最终的成就一样，在实践上甚至没什么建树了。还不如那头驴，虽然吃不到胡萝卜，但还留个念想，也就能继续拉磨。&lt;/p&gt;
+&lt;p&gt;事情不会消失，只会随着焦虑越来越严重。提心吊胆的事情不尽早完成会带来远超实际的心理负担。在这个三月的大忙月里要做的事情确实不少，辛苦自己了，游走在被焦虑击垮与注重当下之间，在崩溃与稳持之间起舞。哦说起起舞，本来也打算练练舞蹈来锻炼锻炼身体，也好才艺展示，最终也是欺骗自己想了就是做了。&lt;/p&gt;
+&lt;p&gt;在合适的地点与时间做合适的事情，尽可能消除环境因素带来的负面影响。尤其是早上9点到11点的时间，非常短暂也非常可贵。注意力最好的时候，也少有什么别的人际事务的安排，没人打扰，可以学习新的知识。不要在这个时候处理任何杂务！这些不占用什么心理负担的事情就应该放在时间最不值钱的时候做，比如饭后，精神涣散的时候。&lt;/p&gt;
+&lt;p&gt;唉唉，不知道从什么时候起开始晕碳了。去食堂吃面食回来就晕晕乎乎的，不知道是消化问题还是什么。膝关节也开始出毛病，久蹲再站起来难以发力。还真是像别人说的那样，25岁之前是地球online给人的vip免费体验券，过了之后各种大大小小的毛病就接踵而至了。也不知道对事情兴趣减淡是什么征兆。对别人的事情不感兴趣，对吃瓜不感兴趣，不重要的事情或者和自己没关系的事情听听就过去了，不知道是不是记忆力衰退的一种表现。&lt;/p&gt;
+&lt;p&gt;不少事情都是要长期做下去才能感受到收益的，比如学习新语言、锻炼身体、读paper。把它当做routine的一部分就好了。甚至到一定程度，会体现出某种特质，潜移默化地改变习性。到了这种外显的阶段，事情才算是做出苗头来了。&lt;/p&gt;
+&lt;p&gt;兴趣驱动比不过任务型驱动。与其定下“每天学xx个词汇”，不如直接定下“产出一段文本”；与其定下“学AI算法”，不如准备一些图片直接使用各种方法做一个图片分类器；与其定下“学习go语言”，不如直接用go做一个网站服务器后端。这样也可以避免之前学js时候学了忘忘了学的尴尬局面了。&lt;/p&gt;
+</content>
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                        
+                            <category scheme="https://blog.c01dkit.com/life/" term="life" label="life" />
+                        
+                    
+                
+            
+            
+            
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">又是新的一年</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/2024-summary/" />
