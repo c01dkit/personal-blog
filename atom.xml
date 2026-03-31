@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">渊漪</title>
     <subtitle type="html">关心下一代二进制软件安全</subtitle>
-    <updated>2026-03-02T12:18:31&#43;08:00</updated>
+    <updated>2026-03-31T20:32:47&#43;08:00</updated>
     <id>https://blog.c01dkit.com/</id>
     <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://blog.c01dkit.com/atom.xml" />
@@ -16,6 +16,54 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.111.1">Hugo</generator>
+        <entry>
+            <title type="text">时间跳变</title>
+            <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/2025-summary/" />
+            <id>https://blog.c01dkit.com/life/2025-summary/</id>
+            <updated>2026-03-31T20:32:08&#43;08:00</updated>
+            <published>2026-03-31T15:52:48&#43;08:00</published>
+            <author>
+                    <name>c01dkit</name>
+                    <uri>https://blog.c01dkit.com/</uri>
+                    <email>contact@c01dkit.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">是谁2026年第一季度末了才开始写2025年的年终总结啊……都已经要忘了25年做了什么事情，看到缺了这一年的记录才来补的。还好有……</summary>
+            
+                <content type="html">&lt;p&gt;是谁2026年第一季度末了才开始写2025年的年终总结啊……都已经要忘了25年做了什么事情，看到缺了这一年的记录才来补的。还好有日志可以回看到底干了什么事情。&lt;/p&gt;
+&lt;h2 id=&#34;奔波&#34;&gt;奔波&lt;/h2&gt;
+&lt;p&gt;五月份去oakland开会，确实是一次难忘的美国旅程（如果不考虑倒时差带来的反胃头晕困倦的话）。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.c01dkit.com/images/Snipaste_2026-03-31_17-09-12.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.c01dkit.com/images/Snipaste_2026-03-31_19-49-28.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
+&lt;p&gt;回国以后马不停蹄奔赴长沙参加比赛决赛，真是挑挑又战战啊。还好最后结果还可以，拿了个一等奖。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.c01dkit.com/images/Snipaste_2026-03-31_19-58-18.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;前进转向与后退&#34;&gt;前进，转向，与后退&lt;/h2&gt;
+&lt;p&gt;遥望1月份还在撞frama-c的南墙，再看7月份推进的agent，谁能想到当时大模型随口一句能让科研进展整整落后半年呢？也许命运就是这样，惩罚每一个为了做事而做事，用虚假的勤奋掩盖本质的懒惰的人（其实也并非懒惰，只是单纯的菜）。也从这件事意识到，深入了解一件事情还是要注重细节，即便是做不出来什么成果，也能在这一过程中收获到新的知识。&lt;/p&gt;
+&lt;p&gt;年末没办法了，赶OSDI rush了一篇，果不其然被拒了。所以说做科研这种事情还是要时刻记得自己在干什么，不然总是浪费时间。&lt;/p&gt;
+&lt;p&gt;第三个工作找点也是非常漫长，到处碰壁。感觉还是要深入细节，实际去做一些工作，才能发现问题的。&lt;/p&gt;
+</content>
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                        
+                            <category scheme="https://blog.c01dkit.com/life/" term="life" label="life" />
+                        
+                    
+                
+            
+            
+            
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">三月随想</title>
             <link rel="alternate" type="text/html" href="https://blog.c01dkit.com/life/refresh/" />
