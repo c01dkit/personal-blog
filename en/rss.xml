@@ -23,15 +23,757 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Mon, 04 May 2026 22:29:40 &#43;0800</lastBuildDate>
+        <lastBuildDate>Mon, 04 May 2026 22:54:11 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://blog.c01dkit.com/en/rss.xml" />
         
         
             <item>
+                <title>Time Skip</title>
+                <link>https://blog.c01dkit.com/en/life/2025-summary/</link>
+                <guid isPermaLink="true">https://blog.c01dkit.com/en/life/2025-summary/</guid>
+                <pubDate>Tue, 31 Mar 2026 15:52:48 &#43;0800</pubDate>
+                
+                    <author>contact@c01dkit.com (c01dkit)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;p&gt;Who would only start writing the 2025 year-end summary at the end of Q1 of 2026... I&#39;ve almost forgotten what I did in 2025; I&#39;m only making up for it now after seeing this year&#39;s record was missing. Luckily I have logs to look back on what I actually did.&lt;/p&gt;
+&lt;h2 id=&#34;on-the-move&#34;&gt;On the Move&lt;/h2&gt;
+&lt;p&gt;In May I went to Oakland for a conference—it was indeed an unforgettable American journey (if we don&#39;t count the nausea, dizziness and drowsiness brought on by jet lag).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.c01dkit.com/images/Snipaste_2026-03-31_17-09-12.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.c01dkit.com/images/Snipaste_2026-03-31_19-49-28.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
+&lt;p&gt;After returning to China, I rushed nonstop to Changsha to participate in a competition final—a real challenge after a challenge. Fortunately the result was acceptable in the end; I got a first prize.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.c01dkit.com/images/Snipaste_2026-03-31_19-58-18.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;forward-pivot-and-retreat&#34;&gt;Forward, Pivot, and Retreat&lt;/h2&gt;
+&lt;p&gt;Looking back at January when I was still hitting the wall with frama-c, and then at the agent work pushed forward in July, who would have thought that a casual word from an LLM at the time could set research progress back a full half a year? Maybe fate is just like that, punishing every person who works for the sake of working, who covers up essential laziness with false diligence (actually it&#39;s not laziness, just plain incompetence). I also realized from this matter that to deeply understand something, you need to focus on the details. Even if no results come of it, you can still gain new knowledge in the process.&lt;/p&gt;
+&lt;p&gt;By the end of the year there was no choice but to rush a paper to OSDI, and as expected it was rejected. So when it comes to research, you really have to constantly remember what you&#39;re doing, otherwise you&#39;re always wasting time.&lt;/p&gt;
+&lt;p&gt;The third work&#39;s starting point has also been very long and drawn out, hitting walls everywhere. I feel I really need to dive into the details, actually do some work, before I can discover the problems. Who would have thought that not until mid-2026 would I settle on even a vague direction? Actually there are many ideas I want to work on, but none have anything to do with my dissertation theme, so they&#39;ve been shelved for now. Perhaps after graduation I can take them up as a hobby, write some papers, and submit them.&lt;/p&gt;
+</description>
+                
+                
+                
+                    
+                    
+                    
+                        
+                        
+                        
+                            
+                                <category domain="https://blog.c01dkit.com/en/life/">life</category>
+                            
+                        
+                    
+                
+                
+                
+            </item>
+        
+            <item>
+                <title>March Reflections</title>
+                <link>https://blog.c01dkit.com/en/life/refresh/</link>
+                <guid isPermaLink="true">https://blog.c01dkit.com/en/life/refresh/</guid>
+                <pubDate>Mon, 17 Mar 2025 09:16:06 &#43;0800</pubDate>
+                
+                    <author>contact@c01dkit.com (c01dkit)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;p&gt;I&#39;ve found that when I&#39;m busy and my attention is highly engaged, I work quite efficiently, and I don&#39;t even feel time flowing. I plan to clock out and then look at the watch—oh! It&#39;s already past eleven. I need to let things mobilize my emotions. Every day feels like a repetition of yesterday, with no passion, and I&#39;m already three parts weary before even starting any task.&lt;/p&gt;
+&lt;p&gt;Some say a PhD is torture for the spirit, that if you can&#39;t think it through it&#39;s easy to fall into depression and self-destruction. Maybe it&#39;s the distress of stalled research progress, or the frustration of life not going as wished. At least on my end there&#39;s no anxiety, perhaps because I&#39;ve completely flattened my mindset and no longer compare myself with others. Compared to undergraduate days, my daily trajectory is extremely fixed, and I have no opportunity to open my mouth and speak, which has caused my language function to gradually atrophy, and my words to fail to convey my meaning. My speech rambles all over the place, dragging in everything but the kitchen sink. Maybe it&#39;s because I have no time to read leisure books?&lt;/p&gt;
+&lt;p&gt;Another underlying reason for the good mindset is very likely that I&#39;ve been deluding myself with concepts from psychology. On the cognitive level, I&#39;m aware of things like the &amp;quot;flywheel effect&amp;quot; and &amp;quot;starting from garbage&amp;quot;, just like hanging a carrot in front of a donkey&#39;s head to make it circle around the millstone. But the most crucial things still haven&#39;t been put into action. I think about learning Go, building websites, learning AI, reading papers, but just thinking about them deceives me, as if I&#39;d already achieved the final accomplishment, while in practice I have nothing to show. I&#39;m even worse off than that donkey—at least it can&#39;t eat the carrot but still keeps a hope, and so can keep pulling the millstone.&lt;/p&gt;
+&lt;p&gt;Things don&#39;t disappear; they only get worse along with the anxiety. Things you fret about, if not finished early, bring a psychological burden far exceeding the actual one. In this busy March, there really are quite a few things to do. I&#39;ve put myself through the wringer, walking the line between being crushed by anxiety and focusing on the present, dancing between collapse and steady holding. Oh, speaking of dancing, I had originally planned to practice some dance moves to exercise my body, and also to have some talent to display, but in the end I deceived myself again that thinking about it equaled doing it.&lt;/p&gt;
+&lt;p&gt;Do the right thing in the right place at the right time, and eliminate as much as possible the negative impact from environmental factors. Especially the time from 9 to 11 AM is extremely brief and extremely precious. It&#39;s when attention is at its best, and there are few interpersonal arrangements scheduled, with no one to disturb you, so you can learn new knowledge. Don&#39;t handle any miscellaneous matters at this time! Things that don&#39;t take up much psychological burden should be done when time is least valuable, like after meals when the spirit is scattered.&lt;/p&gt;
+&lt;p&gt;Sigh, I don&#39;t know when I started getting carb-dizzy. After eating noodles at the cafeteria, I come back feeling dizzy and woozy, not sure if it&#39;s a digestion issue or what. My knee joints have also started to act up, and after squatting for a long time, it&#39;s hard to stand up. It really is like others say—before age 25 it&#39;s a free VIP trial coupon that earth online gives to people, and after that, all kinds of big and small ailments come one after another. I also don&#39;t know what it&#39;s a sign of when interest in things fades. I&#39;m not interested in others&#39; affairs, not interested in gossip, and unimportant things or things unrelated to me just go in one ear and out the other. I wonder if this is a manifestation of memory decline.&lt;/p&gt;
+&lt;p&gt;Many things only show their benefits after long-term commitment, like learning a new language, exercising, or reading papers. Just treat them as part of the routine. Even, to a certain extent, they will manifest a certain quality, imperceptibly changing one&#39;s habits. Only when reaching this externally visible stage can a thing be said to have shown signs of bearing fruit.&lt;/p&gt;
+&lt;p&gt;Interest-driven motivation is no match for task-driven motivation. Rather than setting &amp;quot;learn xx vocabulary words a day&amp;quot;, it&#39;s better to directly set &amp;quot;produce a passage of text&amp;quot;; rather than setting &amp;quot;study AI algorithms&amp;quot;, better to prepare some images and directly use various methods to make an image classifier; rather than setting &amp;quot;study the Go language&amp;quot;, better to directly use Go to make a website server backend. This way you can also avoid the awkward situation from before of learning JS only to forget it and re-learn it again.&lt;/p&gt;
+</description>
+                
+                
+                
+                    
+                    
+                    
+                        
+                        
+                        
+                            
+                                <category domain="https://blog.c01dkit.com/en/life/">life</category>
+                            
+                        
+                    
+                
+                
+                
+            </item>
+        
+            <item>
+                <title>Yet Another New Year</title>
+                <link>https://blog.c01dkit.com/en/life/2024-summary/</link>
+                <guid isPermaLink="true">https://blog.c01dkit.com/en/life/2024-summary/</guid>
+                <pubDate>Sat, 21 Dec 2024 21:28:26 &#43;0800</pubDate>
+                
+                    <author>contact@c01dkit.com (c01dkit)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;p&gt;Hustling and bustling, by the time I came back to my senses, it was already the tail end of 2024. At the beginning of the year, while there were still slots available, I chose to transfer to the doctoral track in spring, three more years to renew! Now I can no longer just drift along and slack off; I need to take the initiative and think about my own graduation. CCS rejected me, and I changed to submit to Oakland and got accepted, unexpectedly receiving my first first-author CCF A-class paper, with graduation now in sight. In the autumn-winter semester, I became my advisor&#39;s TA for the C-Sharp course, helping update slides, answering questions during lab sessions, supervising experiment exams and grading theory papers. Although there was a lot to do, it felt quite interesting too. At the end of the year, my advisor had me participate in a project competition, with short timelines and heavy tasks. Together with brother Lin, I experienced the work efficiency of &amp;quot;two days, one meeting&amp;quot;, and realized that if you don&#39;t slack off, you can really push progress forward extremely fast (turns out I&#39;m slacking off uncontrollably every day! No wonder progress was so slow). Slacking off feels good in the moment, but it really is empty. You can&#39;t keep staring at the things you need to do; whether big or small, you have to start first, and let inertia push it along. In the process, I also learned more convenient website development tools, slide-making and recording techniques, which were quite fun.&lt;/p&gt;
+&lt;p&gt;Every day I&#39;m busy pushing forward new research topics, and for a while I haven&#39;t gotten around to updating my personal blog, which is shameful to mention. Lamenting that my literary cultivation needs improvement, I bought a year&#39;s subscription to Sanlian Lifeweek to learn about life beyond campus. Besides that, other paper books need to be put on the reading agenda. There are many things that, if you keep not doing them, gradually you lose the spirit to do them, and they get shelved indefinitely, lacking the catalyst for change. Beneath the calm sea surface, undercurrents surge. Without the bitterness of life, there is also a lack of passion for creation, not to mention any output of words.&lt;/p&gt;
+&lt;p&gt;I still need to plan early. I need to look three years ahead, focus on actually improving personal abilities, and plan early. At least let me start with summarizing each day to expand my knowledge content, and going to bed and waking up early! Beyond research work, every day I should learn some new knowledge and organize it into notes, improving my personal ability. Going to bed early and waking up early improves work efficiency and protects the body. Starting at age 25, the free trial period for the body expires; after that, I need to pay attention to health. At the end of the year, my physical exam revealed abnormal liver function, and a further B-ultrasound found heterogeneous fatty liver, so I need to exercise more and control my diet. Running in the dead of winter and letting cold air enter the body isn&#39;t great, so I joined a ping pong appointment group, and go play every two or three days, which counts as physical exercise.&lt;/p&gt;
+&lt;p&gt;This year I also met quite a few online friends from all corners of the country, but most of them, after adding as friends and chatting two or three sentences, never sent another message. We only liven up around holidays and festivals by sending happy holiday messages. Read ten thousand books, travel ten thousand miles—from freshman year until now, I&#39;ve never traveled to other cities just for the sake of touring. Lab classmates occasionally travel to Changsha, Shanghai, Harbin and other places to check in, and it does seem really fun. Maybe one day I too can stop pushing myself so hard, and on a (non-existent) vacation go out and wander around, treating it as overcoming social anxiety.&lt;/p&gt;
+&lt;p&gt;Something rather comforting is that I can still maintain a bit of spirit. Even though I haven&#39;t really accomplished anything concrete, just thinking that I will accomplish these things still excites me. To do a job well, one must first sharpen their tools—these past few days I&#39;ve repeatedly realized the role of refining the toolchain. Otherwise, blindly working hard everywhere is just inefficient, and doesn&#39;t bring much growth. Especially in the AI era, with technology developing rapidly, you must ride the wave and go with the flow. For instance, when investigating the state of a field, previously I&#39;d say to first find a survey for the outline, but now I can directly ask AI to refine search keywords, recommend papers, and summarize the current state. The most important thing now is to race against time, and accomplish as much as possible in as short a time as possible.&lt;/p&gt;
+&lt;p&gt;Finally, may the new year be peaceful and safe!&lt;/p&gt;
+</description>
+                
+                
+                
+                    
+                    
+                    
+                        
+                        
+                        
+                            
+                                <category domain="https://blog.c01dkit.com/en/life/">life</category>
+                            
+                        
+                    
+                
+                
+                
+            </item>
+        
+            <item>
+                <title>The Aphasic</title>
+                <link>https://blog.c01dkit.com/en/life/aphasia/</link>
+                <guid isPermaLink="true">https://blog.c01dkit.com/en/life/aphasia/</guid>
+                <pubDate>Mon, 27 May 2024 13:22:00 &#43;0800</pubDate>
+                
+                    <author>contact@c01dkit.com (c01dkit)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;p&gt;He has lost the ability to open his mouth and speak.&lt;/p&gt;
+&lt;p&gt;At first, he simply kept silent. Not interrupting, not cutting in, listening patiently while others spoke -- that was a kind of courtesy. He smiled, nodded in acknowledgement. When others asked him something, he could still open his mouth with composure and answer cheerfully.&lt;/p&gt;
+&lt;p&gt;Later, he grew accustomed to the feel of silence. Others liked to talk, so let them express themselves. There would always be people willing to put themselves on display, so leave the stage to them. As one fervent and intense play after another unfolded, it wasn&#39;t so bad to be a quiet onlooker.&lt;/p&gt;
+&lt;p&gt;Later still, he came to feel that speaking was something that consumed a great deal of mental energy. The world was clamorous, people&#39;s hearts unsettled and noisy; he only wanted to stand placidly off to one side, like a statue, without saying a word. If you don&#39;t speak you cannot say anything wrong, nor do you have to weigh your words before opening your mouth. Even when he had no choice but to speak, he would wrap things up in two or three short sentences and bring the topic to a close. If that didn&#39;t resolve the matter, he would package his thoughts in extraordinarily long-winded sentences, with no regard for whether others could understand him at all.&lt;/p&gt;
+&lt;p&gt;In the end, he lost the ability to open his mouth and speak. He wanted to say something, but no longer knew how to express what was on his mind. He became the most inconspicuous person of all, having lost any sense of presence whatsoever.&lt;/p&gt;
+</description>
+                
+                
+                
+                    
+                    
+                    
+                        
+                        
+                        
+                            
+                                <category domain="https://blog.c01dkit.com/en/life/">life</category>
+                            
+                        
+                    
+                
+                
+                
+            </item>
+        
+            <item>
+                <title>To My Bewildered Searching</title>
+                <link>https://blog.c01dkit.com/en/life/2023-summary/</link>
+                <guid isPermaLink="true">https://blog.c01dkit.com/en/life/2023-summary/</guid>
+                <pubDate>Mon, 01 Jan 2024 20:05:51 &#43;0800</pubDate>
+                
+                    <author>contact@c01dkit.com (c01dkit)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;p&gt;In the new year, I&#39;m writing one for myself, briefly summing up the story of the past year. If I were to describe last year in one phrase, it would be &amp;quot;bewildered searching,&amp;quot; as the title says. The past year was the year I independently began my research work, the year I steeped myself in the lab, the year I walked along in a daze. Then let me reminisce about the past days from a few angles, and offer a slight summary.&lt;/p&gt;
+&lt;h2 id=&#34;to-walking-with-head-bowed-along-the-road-beneath-my-feet&#34;&gt;To Walking with Head Bowed Along the Road Beneath My Feet&lt;/h2&gt;
+&lt;p&gt;Since I&#39;m a graduate student, I should talk about research first. Although I&#39;m only an insignificant little master&#39;s student, I have nevertheless been earnestly working for myself. Over the past year I read some literature, also explored a problem and tried out my own solution. During this time I also organized some essays on life and some essays on papers. I have been earnestly completing my lab work, and earnestly attending group meetings as well.&lt;/p&gt;
+&lt;p&gt;I have been a bit too focused on the small road in front of me. By only walking the road beneath my feet, one can only walk the road beneath one&#39;s feet. The bustle alongside the road can&#39;t be seen, the broader road beside it can&#39;t be seen, the passersby alongside it can&#39;t be seen either. In the new year, I hope I can lift my head more often to look ahead and to glance to the side, and not always keep my head down.&lt;/p&gt;
+&lt;p&gt;In terms of mindset, there has indeed been a tremendous shift. I am less and less willing to express my own views, more and more appreciative of others&#39; self-expression, more and more inclined to look at the various things I encounter with a critical eye, and so even more disinclined to express my own views. I like to stuff my ears shut. Physiological neurasthenia and a psychological inattention to the trivial affairs of others double up, all the more making me only mind walking my own road.&lt;/p&gt;
+&lt;h2 id=&#34;to-continuing-to-wear-the-shackles-of-self-discipline&#34;&gt;To Continuing to Wear the Shackles of Self-Discipline&lt;/h2&gt;
+&lt;p&gt;The growth trajectory from childhood and the various forms of disciplining I received before college still profoundly shape my present mode of thinking. The &amp;quot;proper conduct&amp;quot; I was admonished into and the various unrealistic expectations placed on me still become inexplicable self-imposed restrictions. The stereotyped impressions already fixed in others&#39; minds still exist and will exist for a long time to come.&lt;/p&gt;
+&lt;p&gt;In real-life, three-dimensional reality, I&#39;m still the one who quietly listens to others chat at gatherings and then speaks up in the brief pauses when everyone takes a momentary break (but because everyone is chatting so much that I can&#39;t find a pause longer than two seconds, so I don&#39;t speak, so others assume I&#39;m withdrawn) - in fact I only speak when I&#39;m asked, in a crowd. Chatting with friends in a group, I jokingly call this my binary exponential backoff algorithm, CSMA/CD.&lt;/p&gt;
+&lt;h2 id=&#34;to-self-indulgence-and-wantonness&#34;&gt;To Self-Indulgence and Wantonness&lt;/h2&gt;
+&lt;p&gt;Fortunately, QQ has become my last patch of mental private ground, the last unguarded resting spot, where I can shoot the breeze unrestrainedly with friends from groups and from QZone. Over the past year I&#39;ve made (relatively, compared with previous years) many new friends, and gone through with them many unforgettable nights of unbroken talk, sharing the inner journeys of growing up.&lt;/p&gt;
+&lt;p&gt;I detest all backstabbing of others, detest all excessive and malicious speculation, and detest even more those who in various settings spread rumors and gossip. How others are, how others act, what others are up to - these are all their own choices; what need is there for someone else to evaluate the reasons why? Why must one &amp;quot;interpret&amp;quot; things and then force that interpretation onto others, regardless of whether the other party is interested?&lt;/p&gt;
+&lt;p&gt;But there does seem to be a certain kind of circle where, if you don&#39;t shoot the breeze with one another, you can&#39;t blend in. The later one comes into contact with such a circle, the better.&lt;/p&gt;
+&lt;h2 id=&#34;to-the-laughter-along-the-way&#34;&gt;To the Laughter Along the Way&lt;/h2&gt;
+&lt;p&gt;On the evening of New Year&#39;s Day I had dinner with an old senior I hadn&#39;t seen for five years, and was told I&#39;d already become a haggard wage-slave... Even so, my own self-perception is still all right - perhaps I&#39;ve simply been domesticated. In the past year, I really did experience many happy things, and I&#39;m especially grateful for the company and interaction of everyone in the lab.&lt;/p&gt;
+&lt;p&gt;Holding the lying-flat attitude of &amp;quot;don&#39;t blame yourself, blame others,&amp;quot; the road has indeed been full of sunshine. To live in this world is just to take a single trip; you can never tell when calamity might fall from the sky and one will suddenly perish - so why, while still drawing breath, struggle to scrub the mud off one&#39;s own face?&lt;/p&gt;
+&lt;p&gt;In the end, I hope that the brand-new year can pass plainly and unhurriedly, undisturbed by either glory or disgrace.&lt;/p&gt;
+</description>
+                
+                
+                
+                    
+                    
+                    
+                        
+                        
+                        
+                            
+                                <category domain="https://blog.c01dkit.com/en/life/">life</category>
+                            
+                        
+                    
+                
+                
+                
+            </item>
+        
+            <item>
+                <title>Random Thoughts on Animals and Plants</title>
+                <link>https://blog.c01dkit.com/en/life/bio-thoughts/</link>
+                <guid isPermaLink="true">https://blog.c01dkit.com/en/life/bio-thoughts/</guid>
+                <pubDate>Sun, 24 Dec 2023 09:33:43 &#43;0800</pubDate>
+                
+                    <author>contact@c01dkit.com (c01dkit)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;p&gt;What people eat most these days are still cooked foods, that is, animals or plants prepared through various cooking methods and then eaten.&lt;/p&gt;
+&lt;p&gt;Apart from a few plants like lettuce that can be eaten directly after washing, most plants need to be cooked, otherwise the texture is poor or even toxic. As for animals, except for some seafood that can be eaten raw, most meats still need to be cooked to be easily digested. But for the fruits of plants (or fruits in particular), it seems they are usually eaten raw. Cooking them, on the contrary, would cause them to lose their natural sweetness.&lt;/p&gt;
+&lt;p&gt;Both being parts of plants, why is it that fruit alone is suited to being eaten raw? Is it because of structural differences? For example, the flesh of fruit is generally soft and juicy, with a high sugar content, and not as hard as the plant itself. From an evolutionary perspective, common fruits contain seeds. After the fruit ripens, it attracts various animals to eat it through bright colors and emitted fragrance, while the seeds, being difficult to digest, are excreted along with feces, which is beneficial to the propagation of the plant. The animals here do not include insects.&lt;/p&gt;
+&lt;p&gt;So this component, the fruit, distinct from other parts of the plant (for instance, with an apple tree, in normal circumstances, most animals as commonly understood would choose to eat the apple rather than directly eat the branches or leaves), bears the important function of reproduction and propagation. Many plants depend on outside agents for their reproduction. Is this perhaps because plants generally cannot move, so they need to use fruit as an exchange? Of course, the fruit referred to here means apples, oranges, peaches, strawberries and the like, which are juicy in texture and carry seeds.&lt;/p&gt;
+&lt;p&gt;Drawing an analogy with plants, do animals have any components that can be eaten directly without affecting the survival of the main body? Since animals can move on their own, such cases seem rare. Mammals produce milk during lactation, but that is only after birth has occurred, and the purpose of producing milk is not to obtain new offspring. Poultry like chickens, ducks, and geese lay eggs, but the necessary preparations are completed before the egg is laid, and the egg is not meant to attract other animals to help with reproduction. Peacocks spreading their tails and birds singing serve reproduction, but those are courtship behaviors, and not something that can be materially &amp;quot;eaten&amp;quot; by other animals or plants.&lt;/p&gt;
+&lt;p&gt;Thinking about it this way, it really does seem rather rare for an animal to produce a component, for the sake of reproduction, that other animals can eat. So, to distinguish them from real-world animals and plants, fantasy animals could be defined to possess this attribute. For instance, a certain group member&#39;s fantasy animal is, by setting, capable of producing a kind of juice for other animals to drink (whether the purpose is reproduction is uncertain). This kind of animal setting that carries some plant traits is really quite interesting.&lt;/p&gt;
+</description>
+                
+                
+                
+                    
+                    
+                    
+                        
+                        
+                        
+                            
+                                <category domain="https://blog.c01dkit.com/en/life/">life</category>
+                            
+                        
+                    
+                
+                
+                
+            </item>
+        
+            <item>
+                <title>Like Fireworks Rising</title>
+                <link>https://blog.c01dkit.com/en/life/like-fireworks/</link>
+                <guid isPermaLink="true">https://blog.c01dkit.com/en/life/like-fireworks/</guid>
+                <pubDate>Sun, 10 Dec 2023 17:19:53 &#43;0800</pubDate>
+                
+                    <author>contact@c01dkit.com (c01dkit)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;p&gt;Moonlight pours down, the bamboo rustles. There is no one around, only wind, gust upon gust. Their laughter is so clear and bright that hearing it sets the heart trembling, like a pebble dropped into a lake, ripples spreading out ring by ring. The waves of water come in waves, gently washing the shore, declaring their existence; but the moment the wind stops, there is no sound at all. Because bamboo is, after all, only bamboo: without an outside force, it will not announce itself.&lt;/p&gt;
+&lt;p&gt;Life is like fireworks rising, slowly, straight upward into the night sky, glimmering with fine threads of blue-white light against a vast black field at the very limit of sight, then bursting into bloom. Across too great a distance, no sound reaches you -- you cannot hear the various anxieties, sorrows, indifference, disappointments, joys and longings of being alive, nor can you hear, at the moment of dissipation, the relief, the reluctance, the calm, the regret. However many of those gestures of lighting up the night sky there may be, surging forward one after another, they are still nothing more than tiny, futile self-destructions that cannot even mount a protest. Within a heavy, solemn silence, scattered sparks erupt, mournfully trembling and disappearing -- and that only makes the moonlight look all the more luminous.&lt;/p&gt;
+&lt;p&gt;I dare not dream too far-reaching dreams, fearing that on waking it will all be empty joy. What is more pitiful still is that, in the blink of an eye, even that disappointment will be forgotten along with everything else, and the sorrow brought by such forgetting will, by the same forgetting, also be unremembered. We come into the world carrying only the most innocent of hopes, and although we are as fragile as a piece of glass, we don&#39;t realize it; we insist on burning ourselves fiercely, only to plunge in the end into an icy lake, suddenly cracking open in fine lines, sinking to the bottom, striking against an old stone covered in slick green algae, breaking dully into countless fragments, no longer daring or able to make any sound. Each one of those countless cold fragments mirrors the dream that once hoped to rise into the heights of the sky. Even after being smashed to pieces, who would have thought that the night sky -- itself only another kind of sorrow -- was still beyond what such earth-bound things could ever reach?&lt;/p&gt;
+&lt;p&gt;Dancing a dance no one notices, a dance even I cannot give a name to. It is not that I like it, nor that I dislike it -- it is only that, in the midst of numbness, tears silently fall in quiet desolation. It has been so from time immemorial, it remains so now, and in that infinitely extending distance, it will be so forever.&lt;/p&gt;
+</description>
+                
+                
+                
+                    
+                    
+                    
+                        
+                        
+                        
+                            
+                                <category domain="https://blog.c01dkit.com/en/life/">life</category>
+                            
+                        
+                    
+                
+                
+                
+            </item>
+        
+            <item>
+                <title>Little Tricks for Killing Time When There&#39;s Nothing to Do</title>
+                <link>https://blog.c01dkit.com/en/life/time-consuming-techniques/</link>
+                <guid isPermaLink="true">https://blog.c01dkit.com/en/life/time-consuming-techniques/</guid>
+                <pubDate>Fri, 13 Oct 2023 13:49:06 &#43;0800</pubDate>
+                
+                    <author>contact@c01dkit.com (c01dkit)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;p&gt;When the mood is anxious, one needs to find a few things to do to soothe oneself. Whether or not these have any benefit for accumulating knowledge, in the end they are at least a kind of mental calisthenics. For instance, when it&#39;s past nine and you&#39;re desperately hoping to get off work, they can ease the anxiety a little.&lt;/p&gt;
+&lt;p&gt;Things that don&#39;t require making any sound:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tidy up the files on your computer&#39;s hard drive: delete useless files, organize related files, rename files&lt;/li&gt;
+&lt;li&gt;Pick a paper, look at the teams of the first author, second author, corresponding author, etc., and which papers they have published before&lt;/li&gt;
+&lt;li&gt;Look at a map of China, and get to know the location of each province, the lay of the mountains and rivers&lt;/li&gt;
+&lt;li&gt;Look at human anatomy diagrams, learn the types and locations of bones and muscles (Essential Anatomy 5 in English, 3DBody in Chinese)&lt;/li&gt;
+&lt;li&gt;Find some images, design an input-method skin and release it for everyone to use&lt;/li&gt;
+&lt;li&gt;Learn AI drawing techniques on Bilibili, use Stable Diffusion, LoRA, etc., to draw some interesting pictures&lt;/li&gt;
+&lt;li&gt;Read a CTF writeup and summarize some new knowledge you&#39;ve learned&lt;/li&gt;
+&lt;li&gt;Learn about an open-source / commercial piece of software - say, the general functionality and implementation principles of Elasticsearch or Redis, and what its advantages are over similar products&lt;/li&gt;
+&lt;li&gt;Design a fictional character, and build out their experiences, personality, appearance, manner of speech, and so on&lt;/li&gt;
+&lt;li&gt;Learn and master a color-scheme series, and save it for later&lt;/li&gt;
+&lt;li&gt;Pick a pronunciation in a chengyu dictionary, and see what idioms there are - the joy of recognition&lt;/li&gt;
+&lt;li&gt;Take an everyday object you often see, and look up what it&#39;s called in other languages&lt;/li&gt;
+&lt;li&gt;Record the dream you had the last time you slept&lt;/li&gt;
+&lt;li&gt;While doing a problem on LeetCode or PTA, learn the basic usage of a programming language&lt;/li&gt;
+&lt;li&gt;Pick a paper, find related papers on Connected Papers (or via the paper&#39;s references), and get a sense of what this field is working on and what the related teams are&lt;/li&gt;
+&lt;li&gt;Read some industry research reports and note the data sources - they often come in handy when writing proposals or PowerPoints&lt;/li&gt;
+&lt;li&gt;Learn the rules of a sporting event&lt;/li&gt;
+&lt;li&gt;Learn a car logo and the related models and price ranges&lt;/li&gt;
+&lt;li&gt;Summarize your own knowledge-and-skill tree: each day, write what you&#39;ve learned as JSON, and when you have time, save it to a database&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Things that require making sound:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Use apps like Perfect Piano to sing along to ascending and descending scales&lt;/li&gt;
+&lt;li&gt;Use apps like Duolingo to learn a language&lt;/li&gt;
+&lt;li&gt;Use apps like WeSing to learn to sing (for showing off socially)&lt;/li&gt;
+&lt;li&gt;Body-instrument performance (whistling, hand-ocarina, etc.) - learn a tune&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                
+                
+                
+                    
+                    
+                    
+                        
+                        
+                        
+                            
+                                <category domain="https://blog.c01dkit.com/en/life/">life</category>
+                            
+                        
+                    
+                
+                
+                
+            </item>
+        
+            <item>
+                <title>Fancies of the Fourth Kind</title>
+                <link>https://blog.c01dkit.com/en/life/fancy-thoughts/</link>
+                <guid isPermaLink="true">https://blog.c01dkit.com/en/life/fancy-thoughts/</guid>
+                <pubDate>Tue, 10 Oct 2023 13:13:30 &#43;0800</pubDate>
+                
+                    <author>contact@c01dkit.com (c01dkit)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;ol start=&#34;20231013&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;Today my senior in the lab was trying to grab a Yaoyao-Lingxian phone in an online flash sale. When it comes to online ticket-grabbing, beating a web crawler is just too hard. And for the kind of grab where the central server does verification, you really have to slip in yourself at the moment the sale starts, before everyone else has even begun, snatch up a slot, then pause and wait for the old world&#39;s clocks to sync up to you -- and you&#39;ve got it.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Today I was chatting with the group about height and weight. One member said he was too tall and wanted to be shorter. Although there are plenty of medical students in the group (remove a vertebra? (x)), perhaps a better method might be to fold part of your body into the fourth dimension. That way, your projection in the three-dimensional world would shrink, wouldn&#39;t it!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Today I saw the group complaining that organizing an in-person party is hard because it&#39;s so difficult to find a time when everyone is free, and it also makes high demands on the organizer. So you could pick three or four different time slots and host a party in each of them, then in the spatiotemporal dimension squeeze them all together! That way, everyone can pick whichever slot they happen to have free and join the party, and they all still get to meet each other.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Today I was discussing the art of immortality with the group. Since the rate at which time flows is not the same everywhere in the universe, then as long as you carry around a short-range device that alters the local rate of time, can&#39;t you become an old turtle whose lifespan, in others&#39; eyes, looks immensely long? Although your own subjective lifespan would remain unchanged. Of course, in that case, everything around you would be running at accelerated speed, and your own reaction time would be the thing that couldn&#39;t keep up.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+                
+                
+                
+                    
+                    
+                    
+                        
+                        
+                        
+                            
+                                <category domain="https://blog.c01dkit.com/en/life/">life</category>
+                            
+                        
+                    
+                
+                
+                
+            </item>
+        
+            <item>
+                <title>On Writing</title>
+                <link>https://blog.c01dkit.com/en/life/writing-a-bubble/</link>
+                <guid isPermaLink="true">https://blog.c01dkit.com/en/life/writing-a-bubble/</guid>
+                <pubDate>Mon, 09 Oct 2023 19:00:02 &#43;0800</pubDate>
+                
+                    <author>contact@c01dkit.com (c01dkit)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;p&gt;In moments of muddled drifting, there are always certain knots in the heart that refuse to be smoothed out. Perhaps it is the various small misfortunes accumulating, bit by bit. In ordinary times you don&#39;t really feel them, perhaps because amid the busyness there is never any quiet stretch in which to listen to the voice of your own heart. Smelling all sorts of unpleasant odors, hearing all sorts of grating sounds, plus the anxiety and panic that surface in the mind from time to time, along with the emptiness and listlessness left behind when a dream collapses -- all of it is like one viscous bubble after another rising out of a swamp, slowly swelling but refusing to burst. Using busyness to escape from quiet thinking, filling fragmented time with all kinds of trivial small matters, thinking about doing this one moment and that the next, multithreading forward simultaneously yet making barely any progress, until in the end it looks as if you know a little about every area, but the moment it comes to actually putting any of it into practice, you can&#39;t manage it anywhere. This is very bad.&lt;/p&gt;
+&lt;p&gt;Writing a few words is a fairly good way of relieving it. &amp;quot;I use my pen to express my heart&amp;quot; is my only reason for writing. In moments of stirred emotion, in moments of worry, or in moments of sudden inspiration when something is just felt and falls into place, I&#39;ll use a few short lines to vent or record the state of mind. From the broken streams of consciousness in primary and middle school, to the fervent pursuit of parallelism, antithesis and rhyme in high school, then to the pursuit of plain and sincere expression in university, the style has indeed kept changing. It is at moments like these that one&#39;s restless inner self and tense, anxious feelings can gradually settle, that one can try to make a little peace with oneself, and ask oneself (or a sub-personality?) what one really thinks. And it is precisely at such moments that &amp;quot;I&amp;quot; am truly &amp;quot;myself&amp;quot;, rather than that shadow living under the gaze of others.&lt;/p&gt;
+&lt;p&gt;I find myself zoning out from time to time. It isn&#39;t really that anything in particular is on my mind; I simply don&#39;t want to think about anything, just frittering time away pointlessly until the rest of the evening arrives. Rather than letting these snatched-away fragments of leisure go to waste, I might as well use them to record whatever I&#39;ve recently learned, write a few technical posts, and consolidate my knowledge. Day after day I envy others for being so widely learned, but in truth all such learning is built up bit by bit. Without a beginning, how can there ever be a result? And going forward, don&#39;t keep doing meaningless things -- for example, when searching with Baidu, don&#39;t go clicking on the &amp;quot;News&amp;quot; sidebar. Before doing anything, think about cause and effect, think about expected costs and gains, so as not to act blindly. There are many ways to do any one thing; choose the most efficient one.&lt;/p&gt;
+</description>
+                
+                
+                
+                    
+                    
+                    
+                        
+                        
+                        
+                            
+                                <category domain="https://blog.c01dkit.com/en/life/">life</category>
+                            
+                        
+                    
+                
+                
+                
+            </item>
+        
+            <item>
+                <title>The Friendship of a Gentleman Is as Plain as Water</title>
+                <link>https://blog.c01dkit.com/en/life/life-is-a-crossline/</link>
+                <guid isPermaLink="true">https://blog.c01dkit.com/en/life/life-is-a-crossline/</guid>
+                <pubDate>Wed, 27 Sep 2023 10:28:22 &#43;0800</pubDate>
+                
+                    <author>contact@c01dkit.com (c01dkit)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;p&gt;Born into the world, we are nothing more than soap bubbles iridescent in the sunlight, trembling and swaying as we contract and expand, as if breathing softly, as if trying to say something. Crowded together, forced to alter our own shapes, we pile and hesitate within clusters of foam, unable to make up our minds, not knowing how to choose, not knowing whether to linger or to leave, nor knowing where to go.&lt;/p&gt;
+&lt;p&gt;If the trajectories of the world and of life all lead toward some far-off elsewhere, then two straight line-segments, after they intersect, can only gradually drift apart from one another. If, in their moment of nearness, they are drawn together by each other&#39;s warmth, sincerity, and goodness, then surely even straight line-segments will bend, trembling, stubbornly twisting toward each other -- like the helices of DNA, like the interweaving of twin meteors, cheering and leaping at each other, drawn by the smile at the corner of the other&#39;s mouth, drawn by the touch of brightness in the other&#39;s soul, drawn by the spirited grace shown in the other&#39;s eyes and brows -- and even though, by the dictates of fate, they have no choice but to head toward their separate finales, that instant of eternity will surely, like a brilliant white-hot iron, sear an indelible crimson mark into the heart. Each time it is touched, a wave of heart-rending, lung-piercing pain comes surging like the tide, a suffocation as if drowning, despair without a voice.&lt;/p&gt;
+&lt;p&gt;But fantasies are, in the end, only fantasies. Born into the world, we are fragile soap bubbles, breaking into pieces at the slightest touch. The moment the dream ends, you realize the line-segments are still calmly heading off in their predetermined directions. O wishful one, did you hear it? -- that roar that tore apart every curtain and shattered every mirror: &amp;quot;Wake up. You aren&#39;t worth it!&amp;quot;&lt;/p&gt;
+&lt;p&gt;Because DNA must in the end unwind, and meteors must in the end vanish at the edge of the sky. Every beautiful thing in the world has its end, and after great joy comes only deeper pain. Memory always has a touch of bitterness mingled with its sweetness, because time flows slowly forward, and everything will forever lie behind. The past cannot be replayed; nor can one return to an earlier moment in time.&lt;/p&gt;
+&lt;p&gt;After great joy comes great sorrow. If that is so, then perhaps one ought to choose to take it all calmly. The fireworks burn out, and threads of ash drift down from the sky. Within the corpses of the fireworks lies buried a phantasmagorical past. A pot of hot tea, before it is even drunk, slowly cools, and faint wisps of steam diffuse out and dissipate into the void. Is the friendship of a gentleman, plain as water, also a kind of fearing and fleeing from the inevitable scorching to come? Just like dropping a tea-leaf into a cup of hot water: since things have already come to this, why add another pale, futile garnish?&lt;/p&gt;
+</description>
+                
+                
+                
+                    
+                    
+                    
+                        
+                        
+                        
+                            
+                                <category domain="https://blog.c01dkit.com/en/life/">life</category>
+                            
+                        
+                    
+                
+                
+                
+            </item>
+        
+            <item>
+                <title>Gossip Summer School Trip to Shanghai</title>
+                <link>https://blog.c01dkit.com/en/life/trip-to-shanghai-gossip/</link>
+                <guid isPermaLink="true">https://blog.c01dkit.com/en/life/trip-to-shanghai-gossip/</guid>
+                <pubDate>Sat, 29 Jul 2023 19:17:30 &#43;0800</pubDate>
+                
+                    <author>contact@c01dkit.com (c01dkit)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;h2 id=&#34;prologue&#34;&gt;Prologue&lt;/h2&gt;
+&lt;p&gt;This year, SJTU&#39;s Gossip event was held on 7.24-28 at the School of Information Security Engineering in Shanghai (the lecture hall at Zhangjiang Science Park). For the event posts, see: &lt;a href=&#34;https://mp.weixin.qq.com/s/LNwEhv51GbmiA8BWieSSlw&#34;&gt;Event Agenda&lt;/a&gt;, &lt;a href=&#34;https://mp.weixin.qq.com/s/kEqX2QXLqzoIsa_GVhE62w&#34;&gt;Attendance Guide&lt;/a&gt;, &lt;a href=&#34;https://mp.weixin.qq.com/s/AAvWrv0pdBTw8PfpWrfEKQ&#34;&gt;Event Notes&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I arrived at the hotel on Sunday, and after dinner Yifan and I went over in advance to scout the route. The buildings inside the Zhangjiang Institute for Advanced Study look quite nice, and seem to have been completed less than five years ago. Since we had registered our identity information ahead of time, we could swipe open the access gates with the Suishen QR code.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://c01dkit.s3.ap-northeast-1.amazonaws.com/assets/images/20230728gossip/Snipaste_2023-07-29_19-43-09.png&#34; alt=&#34;Night scouting&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The exterior and interior decorations of the buildings look great and are very functional. My favorite part was that the buildings are connected by warm corridors, and there are plenty of sofas, chairs, and tables for discussion.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://c01dkit.s3.ap-northeast-1.amazonaws.com/assets/images/20230728gossip/Snipaste_2023-07-29_19-43-24.png&#34; alt=&#34;Discussion area&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;lu-kangjie---open-source-software&#34;&gt;Lu Kangjie - Open-Source Software&lt;/h2&gt;
+&lt;p&gt;Ancient unfixed vulnerabilities are still effective.&lt;/p&gt;
+&lt;h3 id=&#34;advanced-analysis-and-reasoning&#34;&gt;advanced analysis and reasoning&lt;/h3&gt;
+&lt;p&gt;Indirect function calls, linux127k, firefox241k.
+How to accurately determine indirect calls during static analysis (CCS &#39;19 best paper, using multi-layer nested struct types for tracing) (NDSS 2024, GNN-assisted, locating anchor functions like open, etc., where similar functions can be matched based on semantic information).
+General rule: use documentation and rules as bug oracles; use inconsistencies as bug oracles.&lt;/p&gt;
+&lt;p&gt;understandability - understand the program&lt;/p&gt;
+&lt;h3 id=&#34;secure-by-design-defense&#34;&gt;secure-by-design defense&lt;/h3&gt;
+&lt;p&gt;assurability - hardening mechanisms.
+Memory attack working modes.
+Modularize complex systems and isolate modules to avoid cross-module memory access; dependency analysis is needed.
+TyPM, analyzes whether modules have a particular type-based dependency relationship (type based analysis); the insight is that information passing between two modules only happens via global variables and function calls, so analyzing the boundary type information can split the modules.
+Implementing isolation: use bound check, use overlapping methods, use 3 registers to achieve a partition into 6 regions.&lt;/p&gt;
+&lt;h3 id=&#34;affordable-and-continuous-protection&#34;&gt;affordable and continuous protection&lt;/h3&gt;
+&lt;p&gt;sustainability - sustainability.
+Open-source volunteers have no financial support, leading to issues with not being able to maintain things continuously.&lt;/p&gt;
+&lt;p&gt;The security question of open-source vs. closed-source: which is more secure?
+Program analysis; build systems; AI.&lt;/p&gt;
+&lt;h3 id=&#34;some-research-insights&#34;&gt;Some research insights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Solve fundamental problems, solve general problems, propose new insights&lt;/li&gt;
+&lt;li&gt;Research types: attack-study-detection-defense&lt;/li&gt;
+&lt;li&gt;Abstract new general problems from corner cases&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Research starting points: read papers; recent vulnerability and attack reports; derive new problems from previous work; communicate more; trial and error.&lt;/p&gt;
+&lt;p&gt;Some self-questions to ask:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Where is the intuition (summarize in one sentence; is it interesting and novel?)&lt;/li&gt;
+&lt;li&gt;Why hasn&#39;t anyone done it before (not worth doing? impossible to implement?)&lt;/li&gt;
+&lt;li&gt;What can others learn from this work (technical contribution? real-world impact? new findings?)&lt;/li&gt;
+&lt;li&gt;Is the research &lt;strong&gt;sufficiently&lt;/strong&gt; meaningful?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Issues in system design and implementation:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Every design choice should be explained (in the paper)&lt;/li&gt;
+&lt;li&gt;Solve the root problem rather than surface phenomena, do not be ad hoc&lt;/li&gt;
+&lt;li&gt;Don&#39;t get fixated on a corner, don&#39;t go down the wrong path, solve the overall problem&lt;/li&gt;
+&lt;li&gt;Keep thinking and improving&lt;/li&gt;
+&lt;li&gt;Stay sensitive and curious about details (new ideas)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Competitive papers:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tell a good story in the abstract and intro&lt;/li&gt;
+&lt;li&gt;Technical difficulties and solutions&lt;/li&gt;
+&lt;li&gt;Experimental results that support the claims&lt;/li&gt;
+&lt;li&gt;Writing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;zhang-yue---iot-bluetooth&#34;&gt;Zhang Yue - IoT Bluetooth&lt;/h2&gt;
+&lt;p&gt;peripheral and central need to pair.
+broadcaster and observer broadcast.&lt;/p&gt;
+&lt;h2 id=&#34;yin-tingting---from-fuzzing-to-bounty&#34;&gt;Yin Tingting - From Fuzzing to Bounty&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://c01dkit.s3.ap-northeast-1.amazonaws.com/assets/images/20230728gossip/Snipaste_2023-07-29_19-43-16.png&#34; alt=&#34;Web Security&#34;&gt;&lt;/p&gt;
+&lt;p&gt;FANS&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Issues of concern: the lower layers of Android, vulnerabilities at native code interfaces, new attack surfaces&lt;/li&gt;
+&lt;li&gt;Comprehensive automation, e.g. automated flashing and rebooting, to save time&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;StateFuzz&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Identify key variables&lt;/li&gt;
+&lt;li&gt;Identify state-change features&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;KextFuzz&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The pointer authentication instructions on macOS can be replaced with instrumentation instructions, avoiding offset errors (the PAC mechanism on ARMv8)&lt;/li&gt;
+&lt;li&gt;Interface information acquisition, wrapper code for the encapsulation layer&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;xie-mengyao---hardware-assisted-memory-isolation-mechanisms&#34;&gt;Xie Mengyao - Hardware-Assisted Memory Isolation Mechanisms&lt;/h2&gt;
+&lt;p&gt;Existing memory isolation techniques: address-based isolation, with a check before memory access; domain-based isolation; dedicated memory access instructions.&lt;/p&gt;
+&lt;p&gt;Defense papers: think first, lay out the threat model in advance.&lt;/p&gt;
+&lt;h2 id=&#34;meng-wei---challenges-and-opportunities-in-web-security-research&#34;&gt;Meng Wei - Challenges and Opportunities in Web Security Research&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://c01dkit.s3.ap-northeast-1.amazonaws.com/assets/images/20230728gossip/Snipaste_2023-07-29_19-42-50.png&#34; alt=&#34;Web Security&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;client-side-security&#34;&gt;Client-Side Security&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Clickjacking&lt;/strong&gt; Instrument the underlying C++ code to detect attribute modifications; detect element similarity and transparent overlays.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;JS global identifier conflicts&lt;/strong&gt; Use absolute addresses, check whether the identifier is defined.&lt;/p&gt;
+&lt;h3 id=&#34;server-side-security&#34;&gt;Server-Side Security&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Low-frequency application-layer DoS&lt;/strong&gt; Check delay, refuse first-time connections, check whether requests are malicious.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Taint type defects&lt;/strong&gt; Inter-procedural data flow analysis.&lt;/p&gt;
+&lt;h2 id=&#34;ma-siqi--li-juanru---discovering-security-vulnerabilities-in-the-era-of-smart-devices&#34;&gt;Ma Siqi &amp;amp; Li Juanru - Discovering Security Vulnerabilities in the Era of Smart Devices&lt;/h2&gt;
+&lt;p&gt;Start from real-world applications around you, think about whether some security principle has been violated, then expand and induce general, common patterns.&lt;/p&gt;
+&lt;h2 id=&#34;shen-wenbo---evolution-and-outlook-of-os-kernel-attack-and-defense&#34;&gt;Shen Wenbo - Evolution and Outlook of OS Kernel Attack and Defense&lt;/h2&gt;
+&lt;p&gt;The dedication to research from project zero, in industry and academia.&lt;/p&gt;
+&lt;p&gt;The evolution of traditional kernel attacks and defenses, kernel security issues in container scenarios.&lt;/p&gt;
+&lt;p&gt;Issues of ethics: attack papers should also implement defenses, and discuss ethics.&lt;/p&gt;
+&lt;p&gt;To publish a paper: prove that you have advanced the SOTA.&lt;/p&gt;
+&lt;p&gt;How to do research? Read tons of papers, blogs, videos, and any kind of material.&lt;/p&gt;
+&lt;h2 id=&#34;epilogue&#34;&gt;Epilogue&lt;/h2&gt;
+&lt;p&gt;In summary, I gained quite a lot from the five days of lectures. The main thing was getting a deeper understanding of how to do research, while also reminding myself to settle down and lay a solid foundation. There was a student/teacher with a Beijing accent who was really interesting; he asked questions after almost every speaker&#39;s talk, and his tone was very much like a roundtable moderator&#39;s hhh.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://c01dkit.s3.ap-northeast-1.amazonaws.com/assets/images/20230728gossip/Snipaste_2023-07-29_19-41-50.png&#34; alt=&#34;Group photo&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Over these few days, the group often ate Sichuan food, like Xianqi Banbudian and Chuanyu Youhuo at Longyang Plaza. Eating Sichuan food in Shanghai really feels a bit interesting. But I have to say, Xianqi was the best of all.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://c01dkit.s3.ap-northeast-1.amazonaws.com/assets/images/20230728gossip/Snipaste_2023-07-29_19-42-36.png&#34; alt=&#34;Sichuan food&#34;&gt;&lt;/p&gt;
+&lt;p&gt;ChinaJoy was being held in Shanghai on Saturday, which caused the room rates at nearby hotels to skyrocket, so I could only book through Thursday. The pictures Huazhu&#39;s app showed looked like the White House, and in reality it&#39;s actually pretty similar, but you have to wait for the right time and the right lighting to take a photo. At night it looks roughly like this:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://c01dkit.s3.ap-northeast-1.amazonaws.com/assets/images/20230728gossip/Snipaste_2023-07-29_19-43-01.png&#34; alt=&#34;Hotel&#34;&gt;&lt;/p&gt;
+&lt;p&gt;On the last evening I went to a certain mall and ate Hunan food. Almost all of it was pre-made dishes, very unappetizing and the portions were tiny. Counted as a bad experience, I guess. But on the way out, I saw a board-game training class in the mall. I have to say, even board games have started to get competitive now... they were originally just an entertainment activity to promote communication and friendship, but now they have to rank winners and losers - isn&#39;t that sort of putting the cart before the horse?&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://c01dkit.s3.ap-northeast-1.amazonaws.com/assets/images/20230728gossip/Snipaste_2023-07-29_19-43-31.png&#34; alt=&#34;Board games&#34;&gt;&lt;/p&gt;
+</description>
+                
+                
+                
+                    
+                    
+                    
+                        
+                        
+                        
+                            
+                                <category domain="https://blog.c01dkit.com/en/life/">life</category>
+                            
+                        
+                    
+                
+                
+                
+            </item>
+        
+            <item>
+                <title>Reading Notes</title>
+                <link>https://blog.c01dkit.com/en/life/reading-books/</link>
+                <guid isPermaLink="true">https://blog.c01dkit.com/en/life/reading-books/</guid>
+                <pubDate>Sun, 25 Jun 2023 22:58:38 &#43;0800</pubDate>
+                
+                    <author>contact@c01dkit.com (c01dkit)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;h2 id=&#34;跃迁-the-leap&#34;&gt;《跃迁》 (The Leap)&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Look for value first, and start from the head.&lt;/li&gt;
+&lt;li&gt;Place steady bets with a 51% win rate, and iterate toward success.&lt;/li&gt;
+&lt;li&gt;Seek out first-hand information to save time and improve quality.&lt;/li&gt;
+&lt;li&gt;Divide work into four quadrants by value and advantage, and think carefully.&lt;/li&gt;
+&lt;li&gt;Always start from value, never from advantage.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Solo learning: think-integrate-learn. Networked learning: think-integrate-share-connect with the outside world-learn. A good method must run counter to human nature. When you encounter a problem: who is most likely to know the answer? How do you reach them? What do you need to prepare beforehand?&lt;/p&gt;
+&lt;p&gt;On reading&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Blind learning has negative effects. You need to improve cognitive efficiency (cognitive return divided by energy invested), set goals, and allocate resources.&lt;/li&gt;
+&lt;li&gt;Use fragmented time for informational reading. Before searching, judge whether the knowledge is useful, and only then decide how deeply to engage.&lt;/li&gt;
+&lt;li&gt;Reading from page one is the most foolish approach. Read the table of contents first to understand the most important chapters. If there is no framework at the start, there will be none at the end either.&lt;/li&gt;
+&lt;li&gt;Don&#39;t buy books blindly. Look at reviews and the table of contents first. Read with questions in mind.&lt;/li&gt;
+&lt;li&gt;The concept of &amp;quot;knowledge crystals,&amp;quot; structured knowledge: tree structures, associative structures, sequential relationships, data structures.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;On asking questions&lt;/p&gt;
+&lt;p&gt;Be a lifelong questioner. Start from a tree of questions, and learn only the knowledge that solves problems. Three key points for asking questions: 1. Be well-prepared and have clear goals. Ask questions with concrete pointers, and present your own attempts and thought process. 2. Compose questions: ask several deep questions in a row to push thinking forward. 3. Output the answers. Record, organize, and feed back the answers, then propose further action plans.&lt;/p&gt;
+&lt;p&gt;Angles for thinking: evidence (how to prove what is right or wrong), perspective (how others see this question), connection (whether there are patterns and rules between things, whether similar situations have appeared before), conjecture (what it might look like), relevance (why it matters).&lt;/p&gt;
+&lt;p&gt;On learning&lt;/p&gt;
+&lt;p&gt;The point of learning is not to acquire knowledge, but to solve problems. While learning, you must constantly remember: can the thing I&#39;m learning right now solve my problem? Can it solve the problem in front of me? If not, mark it and stop. Otherwise you&#39;ll spend hours on it and end up with nothing.&lt;/p&gt;
+&lt;p&gt;On output&lt;/p&gt;
+&lt;p&gt;Output doesn&#39;t have to be large, but it must exist. A little accumulation gradually takes shape, and with a touch of polish it can produce the effect of &amp;quot;the sum of the individuals being greater than the whole.&amp;quot;&lt;/p&gt;
+&lt;p&gt;On sharing&lt;/p&gt;
+&lt;p&gt;Complete output through sharing, and test input through sharing. Helping others solve problems is sharpening your own thinking.&lt;/p&gt;
+&lt;h2 id=&#34;思考的艺术-the-art-of-thinking&#34;&gt;《思考的艺术》 (The Art of Thinking)&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Don&#39;t define yourself by other people&#39;s evaluations. The past is merely the past; the future depends on the present.&lt;/li&gt;
+&lt;li&gt;Acknowledge that your thoughts are deeply influenced by your environment. Your mind is full of other people&#39;s views and attitudes, many of which have already hardened into principles and beliefs, but some are surely wrong or out of step with the times. You need to figure out exactly how they affect your behavior. If you wish to be a person of character, you must ask yourself for your own opinions on matters, carefully discern whether they originate from others&#39; thinking, then judge them from every angle and accept the most reasonable view.&lt;/li&gt;
+&lt;li&gt;Concentration doesn&#39;t mean never being distracted; it means correcting course as soon as you are distracted. Just as driving doesn&#39;t mean clutching the steering wheel to death, but rather adjusting it constantly.&lt;/li&gt;
+&lt;li&gt;Overvaluing yourself can lead to undervaluing others.&lt;/li&gt;
+&lt;li&gt;If you don&#39;t understand both sides of a contradiction, you don&#39;t understand the contradiction itself.&lt;/li&gt;
+&lt;li&gt;Overcome six habits that hinder thinking: the &amp;quot;mine is better&amp;quot; mentality, saving face, resistance to change, conformity, stereotyping, and self-deception.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Carrying out systematic thinking&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Read the problem and decide how to approach it.&lt;/li&gt;
+&lt;li&gt;Recall the knowledge needed to solve it.&lt;/li&gt;
+&lt;li&gt;Solve it systematically: for instance, simplify the problem, find key points, decompose the problem.&lt;/li&gt;
+&lt;li&gt;Trust your own reasoning and have confidence.&lt;/li&gt;
+&lt;li&gt;Stay prudent throughout the entire problem-solving process.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Holding more meaningful discussions&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Prepare in advance whenever possible.&lt;/li&gt;
+&lt;li&gt;Set reasonable expectations.&lt;/li&gt;
+&lt;li&gt;Avoid self-centeredness and personal preferences.&lt;/li&gt;
+&lt;li&gt;Speak in moderation.&lt;/li&gt;
+&lt;li&gt;Avoid speech habits that distract people.&lt;/li&gt;
+&lt;li&gt;Listen actively.&lt;/li&gt;
+&lt;li&gt;Make responsible judgments.&lt;/li&gt;
+&lt;li&gt;Restrain the urge to shout and interrupt others.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Recovering curiosity&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Be a good observer: observe the words and gestures of those around you and capture details.&lt;/li&gt;
+&lt;li&gt;Look for the imperfections in things.&lt;/li&gt;
+&lt;li&gt;Pay attention to your own and others&#39; dissatisfactions.&lt;/li&gt;
+&lt;li&gt;Search for causes.&lt;/li&gt;
+&lt;li&gt;Be sensitive to possible consequences.&lt;/li&gt;
+&lt;li&gt;Spot opportunities within disputes.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Distinguishing problems from controversies&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Express problems with &amp;quot;How can we...&amp;quot;, and gradually refine the solution.&lt;/li&gt;
+&lt;li&gt;Express controversies with &amp;quot;Whether (or whether one should)...&amp;quot;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;Identify the challenge, and distinguish problems from controversies.&lt;/li&gt;
+&lt;li&gt;Express the problem or controversy in as many ways as possible.&lt;/li&gt;
+&lt;li&gt;Refine the expression: use precise, concrete words.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;In most cases, both sides of a controversy tend to develop biases, and memory is being constantly reshaped. You must investigate thoroughly and exclude bias.&lt;/p&gt;
+&lt;p&gt;Generating ideas&lt;/p&gt;
+&lt;p&gt;The more ideas you have, the greater the chance of a good one appearing. Initial ideas are usually inferior in quality to later ones. The success of creative thinking depends on producing a steady stream of new ideas, until ordinary, taken-for-granted ideas have been swept away, and unusual, imaginative ideas can be produced.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Force yourself to make unusual responses: no matter how absurd, otherwise you will unknowingly discard the seeds of originality.&lt;/li&gt;
+&lt;li&gt;Use free association: let go of control over your thinking and observe what ideas and associations may emerge.&lt;/li&gt;
+&lt;li&gt;Use analogies: ask yourself what these problems and controversies resemble, and what they remind you of.&lt;/li&gt;
+&lt;li&gt;Look for unusual combinations.&lt;/li&gt;
+&lt;li&gt;Visualize the solution: imagine the scene after it has been solved, and reason backward to the conditions it should meet.&lt;/li&gt;
+&lt;li&gt;Construct arguments for and against: but be careful to fight bias and understand both sides fairly.&lt;/li&gt;
+&lt;li&gt;Construct related scenarios.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Don&#39;t pass judgment too easily: the time to judge is after ideas have been generated. Don&#39;t filter out ideas that haven&#39;t yet been fully conceptualized. Don&#39;t judge ideas while they are still being produced.&lt;/p&gt;
+&lt;p&gt;Overcoming obstacles&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Mental block: leads to an inability to produce ideas, sitting there waiting and growing more and more nervous. Cultivate the habit of not passing easy judgment while producing ideas. Carefully read what you have written down and let it lead to new ideas; copy existing ideas repeatedly and watch for ideas at the edge of consciousness; set the problem aside for a while; reconsider other expressions.&lt;/li&gt;
+&lt;li&gt;Bewildered confusion: the most common cause is forgetting the problem.&lt;/li&gt;
+&lt;li&gt;Rigidity: too many ideas of one kind and no variation, because thinking has been led down a narrow path. You need to deliberately stimulate the imagination.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Critical thinking&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Focus on your own ideas.&lt;/li&gt;
+&lt;li&gt;Overcome the obstacles to critical thinking: force yourself to make critical, fault-finding examinations; use your self-respect, and imagine the scene of someone pointing out a serious flaw.&lt;/li&gt;
+&lt;li&gt;Apply curiosity: ask yourself how it could work in application, and how others might react to it.&lt;/li&gt;
+&lt;li&gt;Don&#39;t make assumptions: don&#39;t assume that other people familiar with the problem or controversy will be enthusiastic about your idea — in fact, the more familiar they are, the more they tend to have ideas of their own; don&#39;t assume that the flaws in your ideas won&#39;t affect others&#39; acceptance; don&#39;t assume that because your view is clear to you, it must be clear to others; don&#39;t assume that those who would benefit most from your idea will accept it without thinking.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Improving the solution&lt;/p&gt;
+&lt;p&gt;First, understand the solution:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;How is the solution to be applied? List all the steps and important details.&lt;/li&gt;
+&lt;li&gt;What difficulties will arise in implementing the solution? How can they be overcome most effectively?&lt;/li&gt;
+&lt;li&gt;What reasons will others find to oppose it? How can it be improved to dissolve that opposition?&lt;/li&gt;
+&lt;li&gt;Whom must you persuade of the solution&#39;s value? What kind of presentation is most likely to persuade them?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Then proceed from three concrete steps:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Pin down the details: determine how the solution will be applied. Exactly how is it to be carried out step by step, by whom, when, where, who provides the funding, what tools and materials might be needed, how to obtain them, how to transport them, how to store them, and what special conditions might be required.&lt;/li&gt;
+&lt;li&gt;Find the flaws: clarity (is it hard to understand), safety, convenience, efficiency, simplicity, comfort, durability, aesthetics, compatibility; compare it with competing solutions; consider what changes the solution will bring about; consider the effects the solution will have on people.&lt;/li&gt;
+&lt;li&gt;Make improvements: change the terminology, change the way it is explained, change the way it is applied.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Considering errors that affect truthfulness&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The &amp;quot;either... or...&amp;quot; mode of thinking: stubbornly believing there are only two options.&lt;/li&gt;
+&lt;li&gt;Avoiding the controversy: shifting from resolving the dispute to attacking the person.&lt;/li&gt;
+&lt;li&gt;Hasty generalization.&lt;/li&gt;
+&lt;li&gt;Oversimplification: ask yourself which important aspects of the controversy your formulation has ignored, and settle on a fitting, accurate one.&lt;/li&gt;
+&lt;li&gt;Double standards.&lt;/li&gt;
+&lt;li&gt;Shifting the burden of proof.&lt;/li&gt;
+&lt;li&gt;Irrational appeals.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Considering errors that affect validity&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Pay attention to causal logic.&lt;/li&gt;
+&lt;li&gt;Identify the hidden premises of an argument.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Evaluating arguments&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;State the argument completely, achieve clarity, find all the hidden premises, and articulate every part of a complex argument.&lt;/li&gt;
+&lt;li&gt;Examine each part to find errors that affect truthfulness.&lt;/li&gt;
+&lt;li&gt;Examine the argument to find errors that affect validity.&lt;/li&gt;
+&lt;li&gt;If you find errors, you need to revise the argument.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Expressing ideas and persuading others&lt;/p&gt;
+&lt;p&gt;Merely possessing high-quality ideas is not enough; you must also help your audience perceive their quality.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Figure out why people reject new ideas.&lt;/li&gt;
+&lt;li&gt;Anticipate the audience&#39;s objections.&lt;/li&gt;
+&lt;li&gt;Understand the specific audience you wish to persuade.&lt;/li&gt;
+&lt;li&gt;Present the ideas effectively.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+                
+                
+                
+                    
+                    
+                    
+                        
+                        
+                        
+                            
+                                <category domain="https://blog.c01dkit.com/en/life/">life</category>
+                            
+                        
+                    
+                
+                
+                
+            </item>
+        
+            <item>
                 <title>Inforsec In Shenzhen</title>
-                <link>https://blog.c01dkit.com/en/life/trip-to-shenzhen-infosec/</link>
-                <guid isPermaLink="true">https://blog.c01dkit.com/en/life/trip-to-shenzhen-infosec/</guid>
+                <link>https://blog.c01dkit.com/en/life/trip-to-shenzhen-inforsec/</link>
+                <guid isPermaLink="true">https://blog.c01dkit.com/en/life/trip-to-shenzhen-inforsec/</guid>
                 <pubDate>Mon, 10 Apr 2023 19:47:08 &#43;0800</pubDate>
                 
                     <author>contact@c01dkit.com (c01dkit)</author>
@@ -505,6 +1247,525 @@ What should we do in the future? It is better to have a proper attitude towards 
 &lt;p&gt;I once saw a way to make a &amp;quot;memory capsule&amp;quot;: choose a piece of music that you have not heard before and play it on a loop for a certain period of time. When I hear the music again years later, all the memories and feelings from that time will come flooding back, like a frozen river breaking the ice and running. Many of the scents evoke memories of the past, nostalgia for old friends - memories of those childhood days when I liked the wrong people and made funny mistakes because of the scents. I wish I could make these scents into time capsules, so that when I have nothing to do, I can go back to the memory of the past.&lt;/p&gt;
 &lt;p&gt;The other day I read an interesting quote: The reason why the older you get the faster time passes is because each day accounts for a smaller and smaller percentage of the years experienced. It sounds like there is some truth to it, and I can&#39;t help but smile. Every night when I summarize myself, I always feel that there are various shortcomings of the day, which is really lacking; and when I wake up the next morning, I forget the relaxation of yesterday and repeat yesterday&#39;s story. Day by day, you do grow up, but it&#39;s just simply getting older.&lt;/p&gt;
 &lt;p&gt;Nowadays, people like to put themselves into shells, using various packages to cover their original scents, and deliberately keep them at a safe distance, and I am less and less able to draw a portrait of others through my sense of smell; the scents of certain places will also be very different with the slightest change in environmental conditions, losing the unique meaning. It&#39;s a rare blessing to be able to recall the past when I smell a familiar scent in a moment of inadvertence!&lt;/p&gt;
+</description>
+                
+                
+                
+                    
+                    
+                    
+                        
+                        
+                        
+                            
+                                <category domain="https://blog.c01dkit.com/en/life/">life</category>
+                            
+                        
+                    
+                
+                
+                
+            </item>
+        
+            <item>
+                <title>What I Cherish and What I Overlook</title>
+                <link>https://blog.c01dkit.com/en/life/beloved-and-dismissed/</link>
+                <guid isPermaLink="true">https://blog.c01dkit.com/en/life/beloved-and-dismissed/</guid>
+                <pubDate>Fri, 31 Dec 2021 23:00:00 &#43;0800</pubDate>
+                
+                    <author>contact@c01dkit.com (c01dkit)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;p&gt;Time really has passed quite quickly. Every year at this time, on this night, I think about writing something, and feel I should write something. But when I actually start, I no longer know how to put pen to paper.&lt;/p&gt;
+&lt;p&gt;It&#39;s also time to properly reflect on what I have gained and lost over the past days—or, in a more interesting phrasing, time to wait for my exhausted soul to catch up. Examining myself at this moment, instead, gives rise to a strange sense of estrangement. I want to say something, but I always feel that what I say isn&#39;t quite beautiful enough, isn&#39;t quite smooth enough, like the screech of a fingernail across a blackboard.&lt;/p&gt;
+&lt;p&gt;When did I lose the ability to perceive things subtly? It might have been from the moment I stopped reading literature and stopped producing meaningful written work. The once-flowering brush may now be covered in mottled rust, and writing has become a thing where I have to squeeze something out, pile up some words. Is it self-consolation? Or is it for some illusory sense of existence or ritual?&lt;/p&gt;
+&lt;p&gt;In the past year, I&#39;ve been alive—just merely alive. Body and spirit have grown out of sync; every move is governed by instinct, and each day seems to be a repetition of yesterday. The various things I experienced—deputy company commander in 2021&#39;s military training, securing graduate admission—looked like such big deals at the time, but looking back now, they don&#39;t seem like much. Perhaps the day-after-day lab life now has erased the sounds and lights from those memories.&lt;/p&gt;
+&lt;p&gt;The outward life looks proper and presentable, but the inner world seems already in shambles. Cognitive space has been cut into seven or eight pieces by countless information fragments; independent thinking and self-criticism have been polluted by the muddy torrent of news media. Too much mental energy goes to small matters that have nothing whatsoever to do with me, passing time amid the illusory and the boring, like consuming spiritual opium. Truly this should not be.&lt;/p&gt;
+&lt;p&gt;Speaking of which, it really is laughable, how I waste the time I should be putting to good use, every day so peacefully. The plans are always so thorough, those grand ambitions—what kind of self do they sketch out? Are they expectations of myself? Or is it that, once a plan is set, that already counts as having accomplished the vast majority? In the end, isn&#39;t it that I still don&#39;t finish, due to laziness, and put it off to the next day? Has that person who used to be &amp;quot;as punctual as a machine&amp;quot; gone never to return?&lt;/p&gt;
+&lt;p&gt;In the end, it&#39;s still the problem of weak willpower, of relaxing my demands on myself day by day, getting by, drifting aimlessly, lacking planning, and lacking execution. The daily reflections and monthly summaries I once stuck with have become intermittent, and now even my workday reports are incomplete—truly this should not be. If you think of something, go do it; better leave yourself some time to think.&lt;/p&gt;
+&lt;p&gt;But still, I should remain grateful to the past. The friends whose life trajectories are entwined or crossed with mine, the most marvelous encounters and the most painful partings, the longest dark nights and the warmest dawns—these are bonds worth recalling now and again with a faint smile. Those eager journeys to Hong Kong and Yuquan, those bright eyes shining like stars, the thoughts that ten thousand words could not exhaust—these too will forever be frozen in memory.&lt;/p&gt;
+&lt;p&gt;This year, I seem to have come to see myself ever more clearly, and at the same time to take myself ever more lightly. Gradually it becomes harder to articulate my own thoughts, harder to express my own emotions; I always end conversations with words that blurt out, as if trying to evade lengthy exchanges, as if I&#39;ve come to view interpersonal interactions as superficial pleasantries and obligations. Perhaps the older one gets, the harder it is to find friends with whom one can empathize? So one can only watch from afar—truly &amp;quot;to be appreciated from a distance and not approached too closely&amp;quot;.&lt;/p&gt;
+&lt;p&gt;There have also been many attempts I&#39;d never made before, and many things hard to put into words that I&#39;ve talked through. I can accept myself, but I also hope to make changes. I don&#39;t need others&#39; criticism, nor do I need others&#39; sympathy and pity. The more I communicate, the more I realize that with some people one cannot show one&#39;s complete self; one should keep an appropriate social distance, otherwise it will be like two hedgehogs, just hurting each other.&lt;/p&gt;
+&lt;p&gt;In 2021, did I live as the true self? Or did I, as before, repeat the past stories and live the way others wanted me to?&lt;/p&gt;
+&lt;p&gt;In the coming 2022, let me continue to ponder.&lt;/p&gt;
+</description>
+                
+                
+                
+                    
+                    
+                    
+                        
+                        
+                        
+                            
+                                <category domain="https://blog.c01dkit.com/en/life/">life</category>
+                            
+                        
+                    
+                
+                
+                
+            </item>
+        
+            <item>
+                <title>Reminiscence: Undergraduate Years</title>
+                <link>https://blog.c01dkit.com/en/life/undergraduate/</link>
+                <guid isPermaLink="true">https://blog.c01dkit.com/en/life/undergraduate/</guid>
+                <pubDate>Fri, 24 Sep 2021 14:38:01 &#43;0800</pubDate>
+                
+                    <author>contact@c01dkit.com (c01dkit)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;h2 id=&#34;preface&#34;&gt;Preface&lt;/h2&gt;
+&lt;p&gt;Four years passed by in a flash. Looking back, the memories are still vivid. The clearest in my mind are the bits and pieces from Zijingang - no advisors keeping watch, plenty of club and organization activities, days of carefree happiness, you might say. Now that I think about it, I still didn&#39;t really study hard or train my own abilities; much of that time was wasted away... or rather, due to my low study efficiency, it was squandered on endless homework.&lt;/p&gt;
+&lt;p&gt;So, taking the occasion of graduation, let me briefly look back on undergraduate life.&lt;/p&gt;
+&lt;h2 id=&#34;pre-freshman&#34;&gt;Pre-Freshman&lt;/h2&gt;
+&lt;p&gt;After the gaokao, I missed the cutoff for Peking University main campus by two points, while just scraping into the Medical Department. At the time I was tired of being nagged by my homeroom teacher, and given that I still wanted to learn some computer technology, when fellow-townsman Mr. Zhang came for recruitment, I came to know about Zhejiang University. &amp;quot;Oh, there&#39;s also a Zhejiang University? And the ranking isn&#39;t bad?&amp;quot; hhhh I heard the major could be freely chosen, so I picked the Information and Industrial Engineering broad-major group, whose admission score was a good fit. If we really must count &amp;quot;university&amp;quot; beginning then, the summer after the gaokao should probably count as the start? Thinking carefully about it, back then I just took some online MOOCs (worth 0.5 second-classroom credits), and then went off to military training. As for the 2018 military training - looking back now, the scenes are still vivid. Standing sentry at the Bifeng gate, morning training and evening critiques at Ziyun, lining up and cutting in line to grab food at the canteen, intensive writing of application letters, holding a rifle as the lead in the chorus, frantic head-spinning attempts to tidy internal affairs, staying up all night washing clothes and writing drafts... that life was so lovable too. Compared with the various brain-burning courses that came later, the pure physical activity of military training was rather joyful~&lt;/p&gt;
+&lt;h2 id=&#34;freshman-year&#34;&gt;Freshman Year&lt;/h2&gt;
+&lt;h3 id=&#34;administrative-class&#34;&gt;Administrative Class&lt;/h3&gt;
+&lt;p&gt;At ZJU, freshmen are organized into administrative classes; in sophomore year, the administrative classes disband and everyone enters their major-specific class. Because the administrative class only lasts a short time, people don&#39;t get all that close...&lt;/p&gt;
+&lt;h3 id=&#34;roommates&#34;&gt;Roommates&lt;/h3&gt;
+&lt;p&gt;The roommates were okay - everyone was polite and courteous, and there was no staying up late on voice chat playing games. At the start I&#39;d get up early in the morning to read English on the balcony, but later my roommates said I was disturbing their sleep, so I stopped after that.&lt;/p&gt;
+&lt;h3 id=&#34;clubs&#34;&gt;Clubs&lt;/h3&gt;
+&lt;p&gt;I really like ping pong (you can see this from the way I&#39;d hand in my high school physics-competition paper early and slip off to play ping pong, hhh), so I sought out the Ping Pong Association on my own initiative. I felt I wasn&#39;t articulate enough for External Affairs or HR, and didn&#39;t play well enough for the Technical department, so when I saw that the Publicity department welcomed those with no foundation, I signed up for Publicity~ The interview overall was quite nice!&lt;/p&gt;
+&lt;p&gt;Later I got into the Publicity department as I&#39;d hoped. To be honest, when I actually got in touch with the work, I did regret it a bit. Only then did I learn that the Publicity department was responsible for pre-event publicity, mid-event photography and venue support, and post-event reporting. Pre-event publicity included posters, roll-up banners, horizontal banners, and tweets; mid-event and post-event reporting consisted of tweets. As a typical stereotypical &amp;quot;traditional science&amp;quot; (high school) / &amp;quot;engineering&amp;quot; (college) male, my aesthetic sense was rather poor, and I knew nothing about layout, composition, etc., let alone tools like Photoshop or Xiumi. There were also many events: the Three-Goods Cup, Summer Cup, Spring Cup, Freshman Cup, &amp;quot;Helping You Score Full GPA&amp;quot;, as well as the weekly Grassroots Cup, and so on. Fortunately the department head was capable enough that, with each round of internal training, she led us along bit by bit, and we managed to pull off events one after another.&lt;/p&gt;
+&lt;p&gt;A rather unfortunate thing was that we&#39;d recruited 9 people back then, but later, due to the heavy pressure on the Publicity department, 4 quit, and all the workload was divvied up among the remaining 5.&lt;/p&gt;
+&lt;p&gt;What it left me with later was the feeling that the Publicity department is a place that&#39;s more like the concept of an &amp;quot;organization&amp;quot; hhh. Department meetings were never very lively, either.&lt;/p&gt;
+&lt;h3 id=&#34;organizations&#34;&gt;Organizations&lt;/h3&gt;
+&lt;p&gt;I&#39;d heard from the older students that one usually joins 2 clubs/organizations, so I planned to sign up for one organization too.&lt;/p&gt;
+&lt;p&gt;Out of an inexplicable yearning for the library (I felt the university library was a very romantic place), combined with my being an Information student, and most importantly because that one evening at the entrance to the campus, an older female student took the initiative to hand me a flyer~ Through this twist of fate I came in contact with the wonderful organization Library Assistants, and signed up for the Systems R&amp;amp;D department that very evening.&lt;/p&gt;
+&lt;p&gt;I still remember the night of the Library Assistants first-round interview. Normally withdrawn, I performed quite excitedly. One of the interviewers asked, &amp;quot;On your application form you said you&#39;re rather introverted, but going by your performance it doesn&#39;t seem so?&amp;quot; I said, &amp;quot;I&#39;ve always been introverted, and coming to college I hope to make some changes. This interview is one form of training for me~&amp;quot;&lt;/p&gt;
+&lt;p&gt;I passed the first round. The second round was an on-the-spot event-planning session, where everyone discussed how to run an event, how to make contingency plans, and so on. When I reported in to the senior, I noticed her face wasn&#39;t very pleasant; when I asked about it she said the discussion had been terrible, simply unbearable to listen to, hhh. At the end of the second round we asked everyone how many clubs/organizations they&#39;d signed up for and whether they&#39;d passed. One guy had even signed up for 3 organizations, and passed all of them... When we talked about it afterwards, the senior said she&#39;d decided then and there not to take him.&lt;/p&gt;
+&lt;p&gt;What I hadn&#39;t expected was that the Systems department was mainly responsible for maintaining the website, modifying the legacy code passed down from predecessors as needed for our work. Modifying code generally meant simple things, like changing some text on the front-end webpage. Another type was using the back-end management interface to adjust holiday settings, reset passwords, and so on.&lt;/p&gt;
+&lt;h3 id=&#34;choosing-a-major&#34;&gt;Choosing a Major&lt;/h3&gt;
+&lt;p&gt;As I said at the start, I liked computer-related disciplines, so I picked Information and Industrial Engineering. At the time I knew nothing about CS, software engineering, or information security, but who hasn&#39;t had a hacker dream, hhh? So I chose information security. Looking back, the interview was extremely naive, truly an outpouring of patriotism through learning. &amp;quot;I want to contribute to the country&amp;quot; - I don&#39;t know how many times I said it. I still remember being asked why I&#39;d applied for information security, and I said my interest in the field originated from a hacker dream, then I came to recognize the importance of cybersecurity, and that I&#39;d come to ZJU specifically for this major, etc. - in any case, very firm. Of course, firmness was one side of it; thinking carefully now, my not choosing the more crowded CS major was also partly out of fear of not being selected, and not wanting to compete with the big shots who&#39;d already touched information competitions in high school. In the end I lived up to expectations and became a member of Information Security 1801.&lt;/p&gt;
+&lt;h2 id=&#34;sophomore-year&#34;&gt;Sophomore Year&lt;/h2&gt;
+&lt;h3 id=&#34;clubs-1&#34;&gt;Clubs&lt;/h3&gt;
+&lt;p&gt;I stayed on as the Publicity department head. Only then did I discover that Publicity is a rather awkward department... because the workload is heavy and the work is rather important~ (after all, Publicity is the face of a club, hhh). Every time we divvied up tasks I had to be careful, fearing I&#39;d scare off the kids (bushi). I&#39;d also personally show up for various activities~ A regret, however, was that communication between departments was never very plentiful, and internal building was not great. Fortunately the kids we recruited were all very nice~ When recruiting, since it&#39;s generally hard to muster up the ideal number (around 10), the priority on selection is fairly high~ One can also recommend a few people in directly, hhh. When I was earlier serving as a senior-mentor-group member, there was a kid who was quite good - I got him in by recommendation!&lt;/p&gt;
+&lt;h3 id=&#34;organizations-1&#34;&gt;Organizations&lt;/h3&gt;
+&lt;p&gt;I stayed on as the Systems department head. The Systems department had previously been somewhat marginalized, since not many activities were organized and there didn&#39;t seem to be much actual work, putting it in a precarious position of nearly being divided up. Later I learned that, beyond what I&#39;d been responsible for before, at the department-head level one also had to have a fairly clear understanding of the website&#39;s overall code logic and database. We could directly modify backend data~ A fairly rigorous task, you might say. During my time as department head, the main things I did were canceling the old rule that internships were unpaid, and improving the display state after volunteer-aid evaluation passes. The Library Assistants website used a JQuery+PHP+MySQL stack, with heavy use of ajax. It was relatively easy to read. That year as Systems department head I was mainly busy with internal training...&lt;/p&gt;
+&lt;h3 id=&#34;senior-mentor-group&#34;&gt;Senior Mentor Group&lt;/h3&gt;
+&lt;p&gt;Sister Diao led the senior mentor group~ I met many cute kids from Information and Industrial Engineering 1917 (recommended one to the Ping Pong Association and one to Library Assistants, hhh). Many of them I&#39;ve still kept in touch with later. The senior mentor group&#39;s main job was the icebreakers before the class-and-corps formation, and bringing the kids around in queues to various venues during orientation week. Once military training started, they were no longer under our charge (though during military training we joined with other senior mentor groups to send their company some watermelons~).&lt;/p&gt;
+&lt;p&gt;By tradition, the senior mentor group has to treat the freshmen to a barbecue. Although I don&#39;t enjoy livening up the atmosphere and just kept my head down eating, the awkwardness was at least bearable. We frantically invited our class advisor, who was already abroad on business, to come eat with us, then frantically expressed our regret. Eventually we successfully hinted, and the teacher reimbursed it (over 1000 yuan)~&lt;/p&gt;
+&lt;h3 id=&#34;awards-and-honors&#34;&gt;Awards and Honors&lt;/h3&gt;
+&lt;p&gt;What&#39;s worth noting is that sophomore year was the only year of undergraduate that I won absolutely no awards or honors... Mainly because of the pandemic, I disliked online classes, and my study quality was poor. What&#39;s more, many exams were postponed to after the summer, and my personal study style is to listen carefully in class and complete homework well, not to prep for exams; that meant by exam time I&#39;d forgotten a lot of things, and my grades were terrible.&lt;/p&gt;
+&lt;p&gt;At the awards-and-honors evaluation later, I was one place short of various exemplar titles, so I couldn&#39;t be named outstanding student or get a scholarship. Fortunately I got the school&#39;s First-Class Award in both freshman and junior year, which let me apply for the Provincial Outstanding Graduate honor at the end.&lt;/p&gt;
+&lt;h3 id=&#34;letter-carrier&#34;&gt;Letter Carrier&lt;/h3&gt;
+&lt;p&gt;I signed up to be a letter carrier for the College of Computer Science office, riding the campus shuttle on Wednesday mornings to drop by various offices and see whether there were any errands - delivering materials to various places at Zijingang. It was a bit RPG-like, but actually rather time-consuming - the shuttle took over an hour each way, plus the materials might need delivering to various places at Zijingang, so it was rather troublesome. (Mildly socially-anxious-friendly.)&lt;/p&gt;
+&lt;h2 id=&#34;junior-year&#34;&gt;Junior Year&lt;/h2&gt;
+&lt;h3 id=&#34;roommates-1&#34;&gt;Roommates&lt;/h3&gt;
+&lt;p&gt;We could only form teams within the same class... Originally I&#39;d already lined up classmates from the same college but different majors; then helplessly I had to find roommates again. The new roommates were like the previous ones - everyone polite and courteous, no conflicts, but also nothing close. Overall, the roommates I encountered over my four undergraduate years were all rather peaceful and respectful in a hands-off way... I don&#39;t like that.&lt;/p&gt;
+&lt;p&gt;I hope when I go to graduate school, the roommate I&#39;m assigned will be someone I didn&#39;t previously know, and very talkative!&lt;/p&gt;
+&lt;h3 id=&#34;part-time-counselor&#34;&gt;Part-Time Counselor&lt;/h3&gt;
+&lt;p&gt;Sister Wan posted a part-time counselor recruitment in the group chat - juniors and seniors could also apply. On a whim, I signed up. At the time I was just thinking, &amp;quot;Now that I&#39;m a junior, having moved to Yuquan with no more clubs or organization activities, this is exactly the time to do something for the college&amp;quot;, so I dropped two courses for it. The interview was rather awkward; I&#39;d prepared three points to introduce three of my traits, but because I was so nervous, I got stuck for a long time at the start of each of the three points... how embarrassing. At the end of the interview, Sister Wan said that, considering juniors have classes, they&#39;d generally consider seniors. In fact I&#39;d noticed this while waiting in line outside - few juniors had applied. But to my surprise, I was later selected, as the only third-year part-time counselor, hhh.&lt;/p&gt;
+&lt;p&gt;For some reason I was the only part-time counselor in my cohort - originally there were supposed to be about 3. I worked under Mr. Fei, who hadn&#39;t shown up at the interview that day. When we first met afterwards he asked what I was good at and what aspect I wanted to improve. I said I didn&#39;t know, anything was fine. Later it turned into a situation where, whenever he was overwhelmed, he&#39;d call me to do work. I felt this arrangement was fine.&lt;/p&gt;
+&lt;h3 id=&#34;deputy-company-commander-of-the-tenth-company&#34;&gt;Deputy Company Commander of the Tenth Company&lt;/h3&gt;
+&lt;p&gt;For some reason, when I saw the recruitment for military training officers, I felt like signing up. Since the 2019 training had been canceled due to the pandemic, the 2020 training combined the 2020 and 2021 cohorts: the 2020 cohort in July, the 2021 cohort in August. There&#39;d also been a sophomore military training before, with the 2016 cohort, and they were extremely hard to manage (which is why I&#39;d originally signed up for deputy instructor for the 2021 cohort). Plans never keep up with changes - in 2021 the situation was special: in July there was a troop redeployment, and all university military trainings were canceled. So it was changed to August, with both cohorts training simultaneously. In the end I went to the deputy-company-commander role I least wanted (I really can&#39;t lead troops!!!) - it was truly a strange twist of fate.&lt;/p&gt;
+&lt;h2 id=&#34;senior-year&#34;&gt;Senior Year&lt;/h2&gt;
+&lt;h3 id=&#34;branch-deputy-secretary&#34;&gt;Branch Deputy Secretary&lt;/h3&gt;
+&lt;p&gt;I really hadn&#39;t expected I&#39;d serve as deputy secretary? Oh boy! This term the branch only had 4 official Party members, so it was a do-or-die situation. Later, one of them planned to go abroad and was no longer coming to school, so he wouldn&#39;t serve on the branch committee. Another one was currently doing an internship and not coming to school either, leaving just two comrades to do the work... Fortunately the other one was very capable too! Over two semesters we held thirteen branch general meetings; from initially having to write out word-for-word scripts, to later being able to just throw together a PowerPoint and start presenting directly - in both mindset and capability we matured a great deal.&lt;/p&gt;
+&lt;p&gt;In the final transition, Ziao came on as the next deputy secretary. A smooth handover!&lt;/p&gt;
+&lt;h3 id=&#34;lab-life&#34;&gt;Lab Life&lt;/h3&gt;
+&lt;p&gt;The seniors in the lab are all very nice; everyone throws themselves wholeheartedly into research, and the lights in rooms 420 and 320 stay on constantly, even at one or two in the morning.&lt;/p&gt;
+&lt;p&gt;The senior who guided my undergraduate thesis is amazing - it feels like she&#39;s online at all times, doesn&#39;t need rest, and her work efficiency is uncanny. Salute!&lt;/p&gt;
+&lt;h3 id=&#34;graduation&#34;&gt;Graduation&lt;/h3&gt;
+&lt;p&gt;To be honest, graduation didn&#39;t bring me too many feelings, even the graduation ceremony and degree-conferral ceremony. Maybe because I was still going to stay on through summer break, and would continue studying at Yuquan afterwards. Even my graduation photos were just group photos taken with my class and cohort - I didn&#39;t book a photographer to take any nice pictures. Maybe I felt that the bachelor&#39;s is just the beginning, and putting effort into checking off landmarks would just be a waste of time, without much meaning.&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Over four years, I don&#39;t really feel I rolled and competed all that much, and in the end I won Provincial Outstanding Graduate and Outstanding Undergraduate Thesis. The only shortcoming - and the biggest issue - is that I feel I&#39;ve always been pushed along by others, lacking subjective initiative. I hope that in the upcoming graduate stage I can soon possess &amp;quot;independent thought&amp;quot;!&lt;/p&gt;
+</description>
+                
+                
+                
+                    
+                    
+                    
+                        
+                        
+                        
+                            
+                                <category domain="https://blog.c01dkit.com/en/life/">life</category>
+                            
+                        
+                    
+                
+                
+                
+            </item>
+        
+            <item>
+                <title>Reminiscence: Days as a Military Training Officer</title>
+                <link>https://blog.c01dkit.com/en/life/drill-thoughts/</link>
+                <guid isPermaLink="true">https://blog.c01dkit.com/en/life/drill-thoughts/</guid>
+                <pubDate>Sun, 12 Sep 2021 14:32:26 &#43;0800</pubDate>
+                
+                    <author>contact@c01dkit.com (c01dkit)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;h2 id=&#34;preface&#34;&gt;Preface&lt;/h2&gt;
+&lt;p&gt;The military training for the class of 2021 took place from August 24th to September 8th. It was perhaps an unprecedented training session: under the conditions of pandemic prevention, the training of both the 2020 and 2021 cohorts of students was carried out simultaneously, with as many as twelve thousand participants, while the number of training officers was roughly on par with previous years.&lt;/p&gt;
+&lt;p&gt;It was my first time serving as a training officer. I was the deputy company commander of the Tenth Company in the Second Regiment, in charge of internal affairs work, and concurrently responsible for arranging the rotation of sentries, patrol teams, and other duties; occasionally I would also drop by the training ground to take a look. In the latter half of training, I was mainly responsible for managing members of the boxing formation. Setting aside what I gained, suffice it to say I got plenty tanned.&lt;/p&gt;
+&lt;h2 id=&#34;daily-life&#34;&gt;Daily Life&lt;/h2&gt;
+&lt;p&gt;The schedule of training days was basically fixed. Morning training began at 5:45, and the end time was flexibly adjusted according to the rotating breakfast schedule. Sometimes we ended normally at 6:15 and went back to tidy up the dorm before regrouping; sometimes we trained right up until mealtime, then went to eat and came back to tidy up afterwards. Lunch and dinner times also rotated, so sometimes we ate immediately after training, and sometimes we returned to the dorm first before regrouping for a meal. With so many people this year, mealtimes stretched on for ages. At noon we basically didn&#39;t gather to head to the training ground until 14:50, so the lunch break was really quite generous.&lt;/p&gt;
+&lt;p&gt;In the evening we mostly took the trainees to the classroom for film viewing, and Instructor Yang would sometimes come over to chat off-the-cuff. Quite a lot of application letters were submitted within the company, precisely because the experienced Instructor Yang told us from the very start to focus on writing the application letters, otherwise there&#39;d be no time to write them later. Originally, due to pandemic prevention requirements, we had four classrooms available for spaced seating. But after dividing up the platoons, only three were needed. However, many things had to be conveyed all together, so most of the time we still gathered in one classroom, which was unbearably hot and humid - the prevention measures might as well have been for nothing.&lt;/p&gt;
+&lt;h2 id=&#34;internal-affairs-work&#34;&gt;Internal Affairs Work&lt;/h2&gt;
+&lt;p&gt;Afterwards we conducted three internal-affairs inspections within the company. After that I never lost my temper again - perhaps because no one was asking me to lose my temper. The Second Regiment&#39;s daily routine meeting originally said that Hu and I should give a talk once, but in the end it didn&#39;t happen (though I&#39;d already prepared my draft); only Danli was asked to talk about the Xuexi Qiangguo app. As for internal affairs this year, things were actually simple, because the 2020 cohort had things harder to tidy up, and consequently the standards for the 2021 cohort were also lowered. What&#39;s more, after the locker-opening incident that had occurred earlier at Lantian, the requirements were lowered even further; even ranking results were only privately notified, no longer publicly posted.&lt;/p&gt;
+&lt;p&gt;As internal affairs was my main job, I took it very seriously. Although every internal-affairs critique felt a bit like squeezing toothpaste, and I covered a great many details, I did eventually compile a detailed self-check list for them, covering the vast majority of points to watch for during inspection. In the end we won the Internal Affairs Red Flag.&lt;/p&gt;
+&lt;p&gt;The first time I went down to the dorms to give an explanation, I wasn&#39;t yet practiced at it; the first time I conducted an inspection, I wasn&#39;t practiced either. Later I got much better at it. The key was using the memo app to record dorm numbers, then taking photos, and after the inspection ended, deducting points based on the photos and giving timely feedback. That way there wouldn&#39;t be the problem of being unable to give reasons after a student lodged an appeal.&lt;/p&gt;
+&lt;p&gt;The little notebook the school gave us recorded many critique points; here&#39;s a screenshot (I really need to practice my handwriting!):&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://c01dkit.s3.ap-northeast-1.amazonaws.com/assets/images/neiwubiji.jpg&#34; alt=&#34;Internal Affairs Notes&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;the-hardships-of-military-training&#34;&gt;The Hardships of Military Training&lt;/h2&gt;
+&lt;p&gt;Military training is, of course, hard and tiring. By comparison, I felt I was even more tired than the trainees. Physical fatigue was secondary; the main thing was the mental exhaustion. Since I had no experience, I couldn&#39;t grasp the focus of the work, always wasting energy on trivial side-matters, which greatly reduced efficiency.&lt;/p&gt;
+&lt;p&gt;Even wearing sneakers, my toes still developed blood blisters. Even though I rarely went to the training ground, my daily step count was twenty to thirty thousand. Afterwards, my knees ached from standing and my ankles ached from walking. Perhaps it was due to my long-standing lack of exercise.&lt;/p&gt;
+&lt;p&gt;What I lacked most was water. When out and about I felt the moisture in my body was being constantly steamed away, so whenever I passed a vending machine I&#39;d buy something to drink. At meals, besides ordering a coconut juice, I&#39;d also add a bottle of orange-pulp drink. In the evening at the classroom recreational activities I&#39;d buy plum drinks, and at the vending machine I&#39;d buy Genki Forest sparkling water. At the company headquarters I sometimes drank coffee bought by Deputy Instructor Jiang, and also the big-bottle Nongfu Spring mineral water I&#39;d bought myself. Even so, I was still parched. During those days I reckon I bought no fewer than thirty or forty bottles of drinks.&lt;/p&gt;
+&lt;h2 id=&#34;anecdotes-from-military-training&#34;&gt;Anecdotes from Military Training&lt;/h2&gt;
+&lt;p&gt;There were many interesting things during military training, like the lofty aspirations and self-criticisms the students revealed in their application letters. After the first round of investigating internal affairs, I followed the advice of the other two deputy instructors and felt I needed to lose my temper, so during the evening critique I &amp;quot;lost my temper&amp;quot;. Perhaps there was a certain element of theatrical personality at play?&lt;/p&gt;
+&lt;p&gt;&amp;quot;Unifying our thinking&amp;quot; became code for going to chow - a tacit little secret among us deputy company commanders and deputy instructors. During this period we were supposed to eat at the third-floor teachers&#39; canteen. Although the meal prices fluctuated strangely from time to time, the overall food quality was not bad.&lt;/p&gt;
+&lt;p&gt;One day there was an emergency-evacuation drill, requiring training officers to be in position on the dorm floors at 4:50, then around 5:00 to wake the students up, line them up at the door, and evacuate floor by floor from the top down. The night before, I just didn&#39;t go back to the dorm at all, and slept in the company headquarters. Sleeping there was of course very uncomfortable; I basically woke up once an hour. Looking back now, it was completely unnecessary - the fact that most people were able to be in position on time already showed I could have gone back to rest.&lt;/p&gt;
+&lt;p&gt;The way our company assembled was strangely funny. For instance, at 5:45 morning training was supposed to be assembled, but at 5:43 there&#39;d be no one there, then at 5:44 everyone would suddenly be there all at once. The kids&#39; timing skills were second to none!&lt;/p&gt;
+&lt;p&gt;When heading to the training ground there was a kid named Du Wenyuan who joked that he hadn&#39;t been picked for anything (formation, chorus, boxing). Later he signed up for a bunch of sentry duties and the like, and in the end he actually got a Second-Class Citation! A bit strange, hm. The citations were given out in order of overall ranking from the top down.&lt;/p&gt;
+&lt;h2 id=&#34;company-headquarters-work&#34;&gt;Company Headquarters Work&lt;/h2&gt;
+&lt;p&gt;I have to say, even though Little Ding sprained her ankle, the artistic quality of her drafts was first-rate! Here is a divisional masterpiece:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://c01dkit.s3.ap-northeast-1.amazonaws.com/assets/images/20210913shibujiazuo.jpg&#34; alt=&#34;Divisional Masterpiece&#34;&gt;&lt;/p&gt;
+&lt;p&gt;There was a strange slacker named Wang Chenyu, who said he was dizzy and lay in his dorm, applied for half-training and didn&#39;t attend morning training or evening activities; later he just stayed at the company headquarters not knowing what he was doing, and even got caught playing video games. Just absurd - and his attitude when speaking was quite arrogant too.&lt;/p&gt;
+&lt;p&gt;The all-purpose handyman Ruan Hongning! Sometimes I also had Wang Zihan accompany me on dorm inspections (in charge of opening doors).&lt;/p&gt;
+&lt;h2 id=&#34;sudden-incidents&#34;&gt;Sudden Incidents&lt;/h2&gt;
+&lt;p&gt;One awkward incident: when Commissar Peng came to inspect the company headquarters, I was the only training officer present. Also there at the time were Wang Zihan, who had switched from full to half training, Ding Yuhan, with her sprained ankle, and Xiang Sicheng, doing normal company-headquarters work. I had only just started working at the headquarters and didn&#39;t even know their names, let alone their situations. Wang Zihan was sitting in the seat right by the entrance, not in training uniform, watching calculus videos. Commissar Peng patiently inquired about their situations, taught Little Ding how to walk on crutches and go up and down stairs, and even gave her some herbal ointment.&lt;/p&gt;
+&lt;p&gt;There was no rain during this round of military training, except for a brief shower the first time we went to the classroom in the evening. We collected four boxes of raincoats, but never used them again afterwards. Later we collected company-wide raincoats two more times, and the last batch went unused as well. The same went for the simulated fire-extinguishing with the Mechanical group: the training ground side suddenly said they needed masks. I was over at the headquarters, so I went to the campus supermarket to buy 180 masks and dispatched students to bring them over. But upon arrival, it turned out masks weren&#39;t necessary, and the activity had already ended. Those masks ended up never being used either.&lt;/p&gt;
+&lt;p&gt;The summary assembly was originally going to be on the morning of September 9th, but it was later moved to the evening of September 8th. Officially this was because the morning of the 9th was expected to be rainy (though in fact it didn&#39;t rain). On September 8th the entire morning was a full rehearsal, and the afternoon was performance-formation practice. The weather was alright - cloudy. We also received the notice on short notice. The originally planned September 8th evening farewell party for the instructors fell through too; at noon we just sent some platoon leaders to buy gifts and have a brief meeting at the instructors&#39; dormitory.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;You could call this a challenge. At first, faced with a barrage of incoming notices, I really was a bit at a loss, and my socially-anxious, withdrawn traits surfaced as well. I was also a bit overwhelmed handling all kinds of interpersonal relationships. The high-frequency, high-intensity processing of new things didn&#39;t suit me well, and from beginning to end I mainly followed the arrangements of the other four training officers. After getting used to it later on, things were okay.&lt;/p&gt;
+&lt;p&gt;The main contradiction, I think, lay in the fact that on the one hand I had been granted greater authority than before, and on the other hand I still wanted to follow others&#39; arrangements. As a result, I became indecisive, wrestling over which option was better when &amp;quot;this works, that works too&amp;quot;, insisting on telling others my decisions to lower the risk of acting on my own initiative - this is perhaps not a great trait.&lt;/p&gt;
+&lt;p&gt;It also exposed problems such as weak on-the-spot reactions, weak ability to quickly adapt to new things, and weak interpersonal communication skills. But the silver lining is that my self-awareness has become clearer: I&#39;m still inclined to handle cold, unfeeling matters, and not good at dealing with ever-changing people.&lt;/p&gt;
+&lt;p&gt;But in the end, things turned out alright - we got three Red Flags for Internal Affairs, Ideology, and Marksmanship (though I felt we should have had the Formation Red Flag too!).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://c01dkit.s3.ap-northeast-1.amazonaws.com/assets/images/20211014junxun.jpg&#34; alt=&#34;Formation&#34;&gt;&lt;/p&gt;
+</description>
+                
+                
+                
+                    
+                    
+                    
+                        
+                        
+                        
+                            
+                                <category domain="https://blog.c01dkit.com/en/life/">life</category>
+                            
+                        
+                    
+                
+                
+                
+            </item>
+        
+            <item>
+                <title>All Things Silent at This Moment</title>
+                <link>https://blog.c01dkit.com/en/life/all-silent/</link>
+                <guid isPermaLink="true">https://blog.c01dkit.com/en/life/all-silent/</guid>
+                <pubDate>Thu, 31 Dec 2020 22:49:55 &#43;0800</pubDate>
+                
+                    <author>contact@c01dkit.com (c01dkit)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;p&gt;The night at Yuquan, even on New Year&#39;s Eve, is just this quiet.&lt;/p&gt;
+&lt;p&gt;2020 passed too fast, too fast, leaving me overwhelmed. I still remember the night I last went home: my father drove to the train station to pick me up, and my mother bought discounted cake and burgers. On the way, they were asking how my second-year final results were—naturally I said they hadn&#39;t come out yet, etc.—but in fact, my careless course selection had already cast the die for a mistake. Even with more explanation, what good would it do!&lt;/p&gt;
+&lt;p&gt;Then came the sudden epidemic, the postponed start of school, online classes, returning to school under quarantine, living alone in the dormitory for three months and more. Then there was the relocation, then the new &amp;quot;elderly&amp;quot; life. All happened too quickly. In a daze, the year-end arrived again. This morning I booked my train ticket home; if no emergencies arise, the life ahead is foreseeable.&lt;/p&gt;
+&lt;p&gt;When I was in kindergarten I deeply loved a teacher, and proactively helped her move tables, only to accidentally have a fingernail crushed off; at my grandfather&#39;s house I&#39;d touch this and feel that, and got my finger pierced through by a stapler; when classmates ran past in the hallway, I couldn&#39;t help sticking out my leg to trip them; even when restaurants were unbearably noisy, I would still pull out my homework and wait for praise... From childhood to now, I&#39;ve had a kind of touch-everything, untamed rebellious complex. But later, having accepted environmental pressures, I came to care more and more about others&#39; evaluations, more and more to second-guess others&#39; feelings, more and more to lose my self-awareness, to lose my own voice. Adhering to these invisible yet ubiquitous etiquette norms, my personality was gradually distorted, gradually assimilated, and the sad thing is I didn&#39;t know it. Even sadder, even with self-knowledge, I could only smile bitterly and choose to step aside, choose to ossify, choose to inherit.&lt;/p&gt;
+&lt;p&gt;What does one live for? Perhaps there is no meaning at all to begin with. In the rest of eternity there must be no soul; the so-called self-awareness is nothing more than an &amp;quot;existence&amp;quot; less than dust in the vast universe. What&#39;s more important is to live as oneself. For a long time I&#39;ve been looking outward and rarely inward. On my desktop, QQ, DingTalk, and WeChat all sit silent—inside is the world of others—and there are also two or three traces of mine. Modern technology, you can say it&#39;s convenient, and it is convenient; you can say it&#39;s laughable, and it really is laughable. Cold data can portray a living human being, and personalities of a thousand differences are reduced before big data to a paltry few categories. Open them, and the world rushes at you; choose to ignore, and it drifts away with the wind.&lt;/p&gt;
+&lt;p&gt;This kind of thinking also makes one lazy, accommodating, drifting along, like a walking corpse. It&#39;s easy to indulge in empty pleasures, satisfying brief joys while also bringing long-lasting pain—planning everything out clearly, only to accomplish one or two parts in ten, halting halfway. Who is making choices for oneself? For whom is oneself making choices? Thinking about it, I&#39;ll leave these lines, hammered out by the body, for more souls to ponder.&lt;/p&gt;
+&lt;p&gt;On growth. Human growth has never been the multiplication and differentiation of the body, but the trend toward peace in thought, action, and reason, toward getting along harmoniously with oneself. For a long time, in writing essays, I dared not call my parents &amp;quot;father&amp;quot; and &amp;quot;mother&amp;quot;, but now I feel there&#39;s nothing wrong with it. I can&#39;t say it&#39;s love, can&#39;t say it&#39;s respect; just that my temperament has changed, that&#39;s all. Whenever I see others&#39; strange word choices and sentences, strange writing styles, deliberate rhetoric, a sense of awkwardness wells up unbidden from the depths of my heart; yet now, using such affected and ornate phrases to express my own feelings, I feel nothing wrong with it. Can&#39;t say it&#39;s pretentious, can&#39;t say it&#39;s overblown; just an attempt to dialogue with truth, that&#39;s all.&lt;/p&gt;
+&lt;p&gt;On friends. There&#39;s really no need to love every person around you, nor is there any need to deliberately curry favor and flatter. Others have their own life trajectories, and in their world I am mostly just a busy NPC, a nameless passerby. The thing this world lacks the least is people, and it doesn&#39;t lack good people either. There&#39;s no need to incessantly share everything about yourself, your whereabouts, your likes, your dislikes... Others may not actually care. Even if they listen with relish, it usually just goes in one ear and out the other, or becomes a joke for after-dinner chat. Save your energy for those people deep in your heart, those who reach out a helping hand in times of distress.&lt;/p&gt;
+&lt;p&gt;On fate. Fate—wonderful beyond words, isn&#39;t it?&lt;/p&gt;
+&lt;p&gt;On the self. Sometimes I think I might be just a moth, fancying that I&#39;ve embraced the light I love, when in fact I&#39;m just walking toward self-destruction. The world is mostly like this: born plainly and unremarkably or amid clamor of gongs and drums, dying mediocrely or magnificently—all just walking toward destruction. Only after withering can there be new blooming—provided one can survive until the blooming season.&lt;/p&gt;
+&lt;p&gt;I don&#39;t want to say any flowery boasts, nor any social pleasantries playing along with the occasion. The dull but prevalent formalism can no longer constrain me. Thoughts are flowing, free will is surging, while on the surface there&#39;s still a pool of dead water, calm and unruffled.&lt;/p&gt;
+&lt;p&gt;Goodbye 2020, hello 2021.
+In the new year, go embrace the new light.&lt;/p&gt;
+</description>
+                
+                
+                
+                    
+                    
+                    
+                        
+                        
+                        
+                            
+                                <category domain="https://blog.c01dkit.com/en/life/">life</category>
+                            
+                        
+                    
+                
+                
+                
+            </item>
+        
+            <item>
+                <title>Growing Up</title>
+                <link>https://blog.c01dkit.com/en/life/growth/</link>
+                <guid isPermaLink="true">https://blog.c01dkit.com/en/life/growth/</guid>
+                <pubDate>Wed, 02 Sep 2020 10:04:42 &#43;0800</pubDate>
+                
+                    <author>contact@c01dkit.com (c01dkit)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;p&gt;Reviewing today, organizing exam outline notes.
+Looking at my own crooked, twisted handwriting, I&#39;m thinking of buying a calligraphy copybook to practice with.
+Suddenly I recalled that as a child I once bought a copybook but never seriously finished a single one, and in the end it served no purpose at all.
+Things that were once misunderstood, resented, and rejected have today become understood, appreciated, and accepted.
+Perhaps this is what growing up is?&lt;/p&gt;
+&lt;p&gt;......
+Foods I once didn&#39;t like to eat I can now partially accept.
+Things I once didn&#39;t want to do I now begin to do on my own initiative.
+Back when my parents repeatedly admonished me, I used to think to myself, &amp;quot;When I have a child of my own, I won&#39;t force her to do this and that all day long.&amp;quot;
+Now I think they really did have a point - it was just that they didn&#39;t choose the right way to express it, which led to my resistance.
+More and more of that rebellious mentality has gradually been worn smooth.
+Speaking of &amp;quot;rebellion&amp;quot; - it was really just another mistaken way of expressing things.
+Refusing to communicate with others was actually nothing more than not having sorted out the differences between what I wanted, what I needed, and what I would come to need.
+For most things, input and reward are positively correlated, and just how arduous the process is can only be known through experience.
+Having chosen the so-called shortcut, one had best not expect to obtain a satisfying result through wishful thinking.
+Without a lofty pursuit, without taking the difficult road, surrendering to one&#39;s instinctual indolence and sinking into oneself - that has no good ending.
+I once discussed with a classmate what is called &amp;quot;the value of a person.&amp;quot; I held that the value of a person is reflected in others&#39; evaluations of him; my classmate held that the value of a person depends on what contributions he himself has actually made. Now thinking back, both views have their reason. Whether the route is &amp;quot;doing-equals-having-done&amp;quot; stemming from inferiority&#39;s longing for recognition, or that of confidence, the ultimate result is the same - surpassing one&#39;s former self along a meaningful path.&lt;/p&gt;
+&lt;p&gt;......I am not advocating a doctrine of suffering either; deliberate hardship is not at all worth glorifying. Hardship education, plainly put, is merely the contradiction between expected goals and the difficult-to-change material conditions of the moment, which causes growth to take a different form and brings about other changes in personality and other aspects. The &amp;quot;difficult route&amp;quot; I am speaking of is just another concept set against letting things drift - a trajectory only slightly more taut than complete relaxation; I am by no means mythologizing the doctrine that suffering creates greatness.&lt;/p&gt;
+&lt;p&gt;The former self-centered &amp;quot;I&amp;quot; liked to split everything in two, black or white, liked absolutes, liked &amp;quot;will inevitably lead to,&amp;quot; &amp;quot;definitely,&amp;quot; &amp;quot;necessarily,&amp;quot; &amp;quot;is nothing but,&amp;quot; &amp;quot;is merely.&amp;quot; Later I felt this was inappropriate, and so I grew fond of &amp;quot;mostly,&amp;quot; &amp;quot;perhaps,&amp;quot; &amp;quot;may.&amp;quot; And as I see it now, a person&#39;s writing is closely tied to his life experience, and however rich life experience may be, it is still confined within a narrow little circle - the people he has met, the customs he has felt, are all very limited. Within such a system of discourse, it is hard to avoid him insisting &amp;quot;this is just how it is!&amp;quot; That is indeed not right, but if for that reason one blurs everything and leaves room for retreat in everything, on the contrary it becomes hard to convey &amp;quot;the breath of a person.&amp;quot;&lt;/p&gt;
+&lt;p&gt;In that light, the former &amp;quot;I&amp;quot; who read writing only as words also had its limitations. Regardless of the article&#39;s own choice of words and phrasing, &amp;quot;I&amp;quot; should fully take into account the limitations of the author&#39;s life, and forgive the diction that grates on &amp;quot;me.&amp;quot; I have always held that an article is the expression of a thought, not something taken up to communicate or even instill thoughts. As for the latter, those are extended, optional functions. If an author publishes an article with ulterior motives, using it to attack some figure and thereby deliberately stir up storms of public opinion, then it is a weapon, not an article. To this day I still hold to &amp;quot;the article itself is pure.&amp;quot; It&#39;s just that some people like to use the pen as a spear.&lt;/p&gt;
+&lt;p&gt;A while back a college-entrance-exam essay went viral; its diction differed from the patterns the public is accustomed to. I read a few lines of that essay and lost interest in continuing. Setting aside that the obscure characters and words exposed how shallow my literary foundation is - speaking of the article itself, I think it is very well-suited to the gaokao essay genre. &amp;quot;Letting the teacher fail to understand,&amp;quot; &amp;quot;having recondite words,&amp;quot; &amp;quot;writing in a strange manner&amp;quot; all let it stand out among countless gaokao essays. The gaokao essay does not really need any sincere emotion, nor any profound thought; you merely need, within those forty or fifty minutes, to scrape together an 800-1000 word piece with a clear structure.&lt;/p&gt;
+&lt;p&gt;......I&#39;ve drifted again. From reviewing to practicing handwriting to writing essays to the gaokao, I&#39;ve gone further and further from &amp;quot;growing up.&amp;quot; The current &amp;quot;I&amp;quot; looking at the past &amp;quot;I&amp;quot; has learned to accept many things. Then the future &amp;quot;I&amp;quot; will perhaps pay the price for the choices of the present &amp;quot;I.&amp;quot; Someone said: &amp;quot;The only thing humanity learns from history is that it learns nothing from history.&amp;quot; As for the future? I&#39;ll just leave it to the future &amp;quot;I&amp;quot; to fret over.&lt;/p&gt;
+</description>
+                
+                
+                
+                    
+                    
+                    
+                        
+                        
+                        
+                            
+                                <category domain="https://blog.c01dkit.com/en/life/">life</category>
+                            
+                        
+                    
+                
+                
+                
+            </item>
+        
+            <item>
+                <title>My Deep Sorrow</title>
+                <link>https://blog.c01dkit.com/en/life/sorrow-in-deep/</link>
+                <guid isPermaLink="true">https://blog.c01dkit.com/en/life/sorrow-in-deep/</guid>
+                <pubDate>Thu, 16 Apr 2020 19:46:43 &#43;0800</pubDate>
+                
+                    <author>contact@c01dkit.com (c01dkit)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;p&gt;Who is to define what is guilt and what is innocence? Are the &amp;quot;pitiful&amp;quot; &amp;quot;victims&amp;quot; who &amp;quot;have been wronged&amp;quot; actually telling the truth? Who is to judge whether something is a crime or not? I feel deeply the malice of the big shop bullying the small customer; I feel deeply the malice of the capitalist class colluding with the ruling class; I feel deeply the malice of those who play the people for fools, who brandish the cudgel of morality, who twist the facts as they please, who deliberately conceal the truth. Even with a hundred mouths or a thousand mouths there is no way to plead one&#39;s case; even with the clear-sightedness of the multitude there is no way to hold back the muddle-headedness of one side.&lt;/p&gt;
+&lt;p&gt;The so-called harm done to privacy is just one of those grand, high-sounding excuses meant to trigger a pitiful, cheap, manipulated sympathy. The so-called damages are nothing but the impotent rage of one whose attempted villainy has failed -- like a vicious dog that, having failed to harm anyone, barks itself into a frenzy out of shame -- a ridiculous, decayed, backward, hollow facade of self-deception trying to pull the wool over the world&#39;s eyes. It cannot meet the needs of the broad masses, yet it absolutely will not allow anything excellent to appear; it can only rely on its meager strength, leaning on the so-called orthodox bloodline, to extract value from its slaves. It deludes itself into believing its slaves are its steadfast adherents, who will never permit any person, any thing, to encroach on its pitiful, treasured rubbish.&lt;/p&gt;
+&lt;p&gt;How laughable! Living in the present day of the 21st century, there are still these giants who try to crush people by virtue of status. Sitting on piles of gold and silver and copper coins, they still pretend to be victims. On one hand they squander the trust of their slaves, on the other they snatch up the supreme power of life and death, yet they neither pursue their proper duties nor strive to better themselves nor attend to honest work. Instead they constantly think only of grasping the reins of speech every minute, every second, of clearing away every obstacle that might stand in the way of seizing more profits, while never once contemplating the ability to rise out of adversity. The realm so painfully won in years past, the dashing bearing of those days, the gold-tipped spears and iron-clad horses -- all are utterly gone now. The grand banquet is too dazzling, too exquisitely wrought; how could one not lose one&#39;s fighting spirit? How could one not, in the lofty pose of the &amp;quot;one above&amp;quot;, give orders down at others?&lt;/p&gt;
+&lt;p&gt;How pitiful! Living in the present day of the 21st century, the so-called individuality cannot be tolerated. The right to express has been utterly lost, accompanied by so-called transgressions of speech, so-called damage to interests, so-called illegal overreach. The best way to wipe out dissenting voices is by no means to wrack one&#39;s brain to find ways of bettering oneself, but rather to throttle their throats at the root, to clog up their airways, to sever their vocal cords, to hack off their limbs, to smash their brains, so that they will never again, completely and absolutely and truly, be able to make any sound, to convey any information, to freely write down what they think, what they imagine, what they feel! And as for those who shift with the wind, who waver this way and that, who shrink back in fear, whose stance is not firm, whose ears are soft and hearts easily moved, who have witnessed the bodies of the martyrs, who refuse to take even the slightest risk again -- the methods are even simpler! All you need to do is rope in a few of them -- no, these false puppets can simply be fabricated -- give them just a tiny bit of insignificant nudging, and you can successfully whip up momentum, you can pressure anyone, you can do whatever you please!&lt;/p&gt;
+&lt;p&gt;How lamentable! More and more people have no way of speaking the truth -- even words that carry no targeted meaning at all have become unspeakable things. Some are like sharp blades and keen edges; some are like rusty iron and dull weapons. The shoddy, cheap implements grow restless, insisting on dragging the sharp blades and keen edges out of their deep manors, digging them out from underground, pulling them out of their sheaths, then driving them at wholly fictitious, imagined victims, before sobbing that the divine weapons have hurt people, that the sharp implements have done evil, insisting on taking the furnace of justice to smelt them down, to melt them into liquid iron! Even when the evil deed was unsuccessful, they will absolutely throw them into the rubbish heap, throw them into the dung pit, absolutely soiling their reputation, absolutely cheapening their worth, absolutely using all this to elevate their own rank! And then they borrow a little traveling money from time itself, to smooth over any evaluations that might still emerge!&lt;/p&gt;
+&lt;p&gt;One after another, ridiculous, absurd, outrageous tragicomedies are being staged at every moment. One sound after another interweaves and resounds in the chapter of the 21st century. This is the era I share with millions upon millions of others, the era I am living in, and an era that will eventually be written down. Perhaps a thousand years from now, if humankind still exists, then please take a look at this absurd state of the world. May this be received with the utmost respect.&lt;/p&gt;
+</description>
+                
+                
+                
+                    
+                    
+                    
+                        
+                        
+                        
+                            
+                                <category domain="https://blog.c01dkit.com/en/life/">life</category>
+                            
+                        
+                    
+                
+                
+                
+            </item>
+        
+            <item>
+                <title>The World Can Do Without You</title>
+                <link>https://blog.c01dkit.com/en/life/world-that-without-you/</link>
+                <guid isPermaLink="true">https://blog.c01dkit.com/en/life/world-that-without-you/</guid>
+                <pubDate>Mon, 25 Feb 2019 22:43:47 &#43;0800</pubDate>
+                
+                    <author>contact@c01dkit.com (c01dkit)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;p&gt;There are some people who, with beautiful fantasies, weave themselves a fairy-tale-like, gorgeous outer garment, drape it on themselves, and yet never do anything related to it. They live forever in their own ideal world, never caring whether they actually possess that level of ability.&lt;/p&gt;
+&lt;p&gt;Just by putting on this garment, it is enough to make them shine.
+Six years ago they bought a thick vocabulary book, and so they had mastered all the vocabulary. They have collected articles from public accounts large and small, and so they have become domestic experts. They have ordered great quantities of books from overseas - genuine ones, pirated ones, brand-new, second-hand, intact, broken, in Chinese, in foreign languages - and so they have become widely-read scholarly authorities.&lt;/p&gt;
+&lt;p&gt;They live forever in a wonderland with no pain, no sweat, no tears of blood, perpetually maintaining a sense of superiority through the radiance of this dazzling garment, perpetually relaxing their guard. They are praised, they are flattered, they are seen as winners in life.&lt;/p&gt;
+&lt;p&gt;They will never regard effort and expenditure as something they themselves must give. They want the harvest, but are unwilling to till. They sit and enjoy what others have produced; they sleep soundly without a care.&lt;/p&gt;
+&lt;p&gt;If they really do encounter difficulty and hardship, they always think of fleeing and shrinking back. Some retreat the moment difficulty appears. Some hesitate for a while, grit their teeth, and then back away. Some find all sorts of reasons for themselves and back away. Some back away in a way that feels perfectly justified. Some back away with a guilty conscience.&lt;/p&gt;
+&lt;p&gt;In their eyes, fleeing has never been a synonym for cowards and failures.&lt;/p&gt;
+&lt;p&gt;They know how to handle the world smoothly. They are slick on all sides, getting along everywhere they go.&lt;/p&gt;
+&lt;p&gt;They trim their sails to the wind, push the boat along with the current, and look after their own skins.&lt;/p&gt;
+&lt;p&gt;They reduce flight to &amp;quot;rationality&amp;quot; and &amp;quot;good fortune,&amp;quot; and wrap it layer by layer into a medal of their own wisdom that they wear forever on their gleaming garments, telling everyone they meet, holding forth to everyone they encounter.&lt;/p&gt;
+&lt;p&gt;What a great and grand achievement! What a wise decision!&lt;/p&gt;
+&lt;p&gt;Even when the day of objective and impartial outcomes arrives, they feel not the slightest shame, because they have long since blurred the standards by which shame is judged, and have given out an exclusive interpretation favorable only to their own words. They can never see the weak points and the flaws; they can only see their own wise moves - although even within their own group, the standards by which &amp;quot;wisdom&amp;quot; is judged differ greatly.&lt;/p&gt;
+&lt;p&gt;They simply admire the success of others, with no jealousy at all, but also with no spirit of striving forward.&lt;/p&gt;
+&lt;p&gt;They blindly recite the words of others, with no innovative act, yet frequently engage in petty disputes.&lt;/p&gt;
+&lt;p&gt;They are easily shaken in their views, easily change their stances, because their views and stances are themselves things imported from outside.&lt;/p&gt;
+&lt;p&gt;They do not know what time is; they easily forget their own missions - in fact most of them do not even acknowledge that they have a mission.&lt;/p&gt;
+&lt;p&gt;They are cynical and indulgent in nihilistic excess, yet style themselves as having seen through the dust of the world, free of attachments, unbound, unrestrained, untrammeled.&lt;/p&gt;
+&lt;p&gt;They cower, they shrink back, they numb themselves, finding excuses for themselves.&lt;/p&gt;
+&lt;p&gt;They make a great fuss over their own little bit of progress.
+They cry to high heaven over their own little bit of toil.
+......&lt;/p&gt;
+&lt;p&gt;Fortunately, some of them have just awakened from delusion.
+He no longer wishes to go on living within a barrier of vainglory.
+Even if the real world has already become a narrow crack - he is willing to squeeze himself into it.
+Like a lightly-floating sheet of white paper with no words written upon it.&lt;/p&gt;
+</description>
+                
+                
+                
+                    
+                    
+                    
+                        
+                        
+                        
+                            
+                                <category domain="https://blog.c01dkit.com/en/life/">life</category>
+                            
+                        
+                    
+                
+                
+                
+            </item>
+        
+            <item>
+                <title>He and It</title>
+                <link>https://blog.c01dkit.com/en/life/he-and-it/</link>
+                <guid isPermaLink="true">https://blog.c01dkit.com/en/life/he-and-it/</guid>
+                <pubDate>Sun, 17 Feb 2019 09:58:40 &#43;0800</pubDate>
+                
+                    <author>contact@c01dkit.com (c01dkit)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;p&gt;He had no choice but to admit that he was shut inside a coffin-like box.&lt;/p&gt;
+&lt;p&gt;A substance called darkness filled the space around him, finding every way it could to bore in through his ear holes, in through his nostrils, in through the cracks of his eyes and mouth, in through wounds that had not yet healed, in through every pore of his skin, drilling into his body. He felt very tired, because of resisting all this darkness. The only thing left to support him now was this coffin-like box. Steeped in the dark, he felt fear close around his throat. Countless times he tried to shout at the top of his lungs, but always afterwards he would have a kind of illusion of having shouted -- he believed he had cried out -- when in fact he had not. He and the darkness were both very quiet. He tried to forget all of it. He tried to seek comfort in dreams. But -- he couldn&#39;t sleep. It was too noisy. He could clearly hear his own heartbeat, thump-thump, thump-thump. He could clearly hear the sound of blood flowing out of the heart, hear the sound of blood returning as the heart contracted, hear the roaring inside his head. Surging waves. Tides. He thought of the sea. Endless fine lines came sliding in, one by one, from places his gaze could not reach. In those days when there had been no darkness, light had freely suffused everything. It had whitewashed all the darkness from his body. He vaguely remembered the warm waves striking his legs again and again, drawing him for a long time into a strange kind of pleasure. What had no color was water. He felt very thirsty. But he couldn&#39;t open his mouth. The dryness had already glued his lips together. Was what was flowing inside his body blood? Or water? He was still very thirsty. But he had no way of drinking water -- in this cramped, dark container, every move he made was tightly bound. He had no choice but to admit that. What he was grateful for, though, was that within the darkness there still remained a thin trace of air for him to listen through. The memory of nothing but blood flowing was truly painful to him. The pain came and went in the depths of his mind, catching him off guard. He couldn&#39;t help but begin a countdown.&lt;/p&gt;
+&lt;p&gt;But he didn&#39;t want to recall from where the countdown should start. More importantly, why count down at all? He didn&#39;t know, and he wouldn&#39;t know. He only felt that the sound of blood flowing was growing louder and louder. He only felt that the surrounding darkness was still endlessly multiplying. The darkness had taken over the place that should have been his. He really, simply could not bear it. The coffin-box still sat there as solid as ever. He didn&#39;t think he would be rescued -- more precisely, he had never imagined that anyone would come to rescue him. Was he still a person? Was he a person of any value? -- But then, was it only valuable people who deserved to be rescued? -- And then, why would a person of any value ever soak himself in this damned darkness? He felt his breathing growing heavier and heavier. His lungs no longer had the strength to fight the darkness for what little air there was. The sound of flowing blood grew more and more deafening. He felt as if he were about to sink to the bottom of the sea. -- And what was so bad about sinking to the bottom of the sea? He would no longer feel thirst. His lips would no longer be glued together. There was nothing to be sad about, and nothing he needed to be sad over. He only felt himself beginning to swell endlessly, pressing tightly against the box.
+But he still couldn&#39;t outpace the darkness.&lt;/p&gt;
+&lt;p&gt;The empty coffin-like box was filled with darkness.&lt;/p&gt;
+</description>
+                
+                
+                
+                    
+                    
+                    
+                        
+                        
+                        
+                            
+                                <category domain="https://blog.c01dkit.com/en/life/">life</category>
+                            
+                        
+                    
+                
+                
+                
+            </item>
+        
+            <item>
+                <title>A Collection of Military Training Dispatches</title>
+                <link>https://blog.c01dkit.com/en/life/drill-posts/</link>
+                <guid isPermaLink="true">https://blog.c01dkit.com/en/life/drill-posts/</guid>
+                <pubDate>Sat, 08 Sep 2018 09:38:43 &#43;0800</pubDate>
+                
+                    <author>contact@c01dkit.com (c01dkit)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;p&gt;A collection of four dispatches written during military training in 2018.&lt;/p&gt;
+&lt;h2 id=&#34;military-training-meeting-you-here-in-zhejiang&#34;&gt;Military Training: Meeting You Here in Zhejiang&lt;/h2&gt;
+&lt;h3 id=&#34;military-training-a-baptism&#34;&gt;Military Training, A Baptism&lt;/h3&gt;
+&lt;p&gt;It is only now that I have discovered that a single drop of sweat takes only seventeen seconds from landing to disappearing. Yet the mark seared into the ground by that drop of water lingers there. That mark is not merely proof that the droplet once existed; it is, even more, the imprint of our striving.&lt;/p&gt;
+&lt;p&gt;What falls is sweat, drop by drop; what rises is one resolute soul after another. At first, when we put on our uniforms, most of us treated them as no better than cheap goods from a roadside stall. Who would willingly wear something so airless and uncomfortable just to stand in the sun?&lt;/p&gt;
+&lt;p&gt;But once we donned the camouflage and stepped onto the training ground, looking at the neatly dressed classmates around us, a sense of ceremony, faint and hard to articulate, slowly arose in our hearts. Walking into the formation, watching scattered ranks pull together into assembly and dress right with unbelievable speed, that sense of ceremony grew stronger still.&lt;/p&gt;
+&lt;p&gt;Military training is a baptism of body and soul. Call it a baptism of the body, and behold those upright figures, row upon row and column upon column, silently enduring beneath the burning sun. Call it a baptism of the soul, and quietly reflect on your own change: from being undisciplined and indifferent at the outset, to becoming meticulous and wholeheartedly committed afterward, we changed without even realizing it. This, then, is the baptism that military training brings.&lt;/p&gt;
+&lt;h3 id=&#34;military-training-a-challenge&#34;&gt;Military Training, A Challenge&lt;/h3&gt;
+&lt;p&gt;Before joining military training, I think I held both a longing for army life and a certain casualness toward it. &amp;quot;Military training? I went through it in middle school and high school. It is just going through the motions. College training will probably be the same!&amp;quot; But the moment training began, I discovered I had been wrong.&lt;/p&gt;
+&lt;p&gt;Military training is not simply standing at attention, turning, saluting, marching in step, and the like. On a much broader scale, it lets every classmate truly shine like gold. Those with musical talent join the performances; those skilled in editing and production join the company headquarters; those with strength and a spirit of service serve as medics and water carriers; those with a sense of responsibility serve as deputy platoon leaders and squad leaders. Beyond that, there are choirs, dispatches, conducting, sentry duty, tug-of-war... so many splendid undertakings, each able to bring out the unique value within every classmate. All of these are challenges to one&#39;s character, challenges to one&#39;s courage, challenges to one&#39;s perseverance.&lt;/p&gt;
+&lt;p&gt;Of course, what truly counts as a challenge is none other than the rigorous training itself. Each drill of marching to a fixed position is a tempering of the arms and of perseverance; each adjustment of dressing right is a challenge to the focus of attention; each goose-step leg-raising drill is a challenge to balance and coordination... In the face of challenge, we may fail, but we will never shrink back! Calling out &amp;quot;Report!&amp;quot; again and again has not destroyed our confidence; it has only made our will firmer. Yes, we may not yet be able to achieve perfection, but we can advance toward it!&lt;/p&gt;
+&lt;h3 id=&#34;military-training-a-unity&#34;&gt;Military Training, A Unity&lt;/h3&gt;
+&lt;p&gt;Since military training began, the two characters for &amp;quot;unity&amp;quot; have grown ever clearer in my heart. From regiment to company, from company to platoon, from platoon to squad... level upon level of division, layer upon layer of management. Treading through the faint glimmer of dawn, we arrived one after another at Zijin Field. On the very first morning class, quite a few people were late, which dragged down the assembly speed of the whole company. From that day on I knew: the reason a group activity is called a group activity is not because many people take part, but because the people taking part form a single great collective.&lt;/p&gt;
+&lt;p&gt;If a collective is a precisely operating machine, then each member is one of its small parts. The absence or breakdown of any single part will cause the entire machine to malfunction.&lt;/p&gt;
+&lt;p&gt;A &amp;quot;dress right&amp;quot; that looks so simple is not just casually shuffling small steps and being done with it; it demands evenness in row and column. A march in step that looks so simple is not just casually walking along; it demands neatness and uniformity. A stationary marching step that looks so simple is not just casually lifting a leg and stamping the ground; it demands coordination and unison...&lt;/p&gt;
+&lt;p&gt;Behind these seemingly small movements is a force called &amp;quot;unity&amp;quot; that drives them. It is precisely this force that allows us, the small parts, to fit closely together and operate in concert.&lt;/p&gt;
+&lt;h3 id=&#34;military-training-a-mission&#34;&gt;Military Training, A Mission&lt;/h3&gt;
+&lt;p&gt;Some say that military training is only a test of the body, but this view is one-sided. If everyone were merely trained into a mighty yet unprincipled human-shaped machine, what would distinguish them from mass-produced factory weapons? What guides us to throw ourselves earnestly into training, what we wear ourselves out striving for, is not only the strengthening of the body, but, even more, the bearing of a mission.&lt;/p&gt;
+&lt;p&gt;I was especially struck after being fortunate enough to attend General Luo Yuan&#39;s address. Before that, all I had carried was a vague, dreamy aspiration to serve the country, with no method to speak of and no path to call my own. Toward the malicious slander of heroes circulating online, I had always reacted with nothing more than a wry smile. But after attending the address, it suddenly struck me: why do reports of celebrity gossip emerge endlessly, while publicity for heroes and great figures is so meager? Why are remarks that smear history and pander to Japan reactionaries spread far and wide, while remarks faithful to history and loyal in serving the country go unheard? &amp;quot;No one sweeps the general&#39;s tomb, yet the household affairs of an entertainer are known throughout the world.&amp;quot; Faced with media outlets in society that turn things upside down for the sake of catching the eye through commercial hype, faced with public opinion&#39;s tendency toward homogenization and entertainment, we young people of this era must resolutely fight the battle of online opinion well, leaving no place to hide for any evil force that seeks to distort history, smear heroes, or erase conviction! When a hot event arises, we must not be cold-hearted onlookers, nor opinionless keyboard warriors. We must use a heart of utter sincerity and justice to dissolve every misunderstanding, and clear the names of our heroes!&lt;/p&gt;
+&lt;p&gt;This, then, is the sense of mission that military training has brought to each of us.&lt;/p&gt;
+&lt;p&gt;Military training has lasted but a few short days, and already it has let us know our new selves from another angle. In the days to come, may we hold firmly to our original aspiration, and make daily progress!&lt;/p&gt;
+&lt;p&gt;【First dispatch, completed at 23:57 on August 30. 1,795 characters. Awarded one point.】&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;military-training-zhejiang-made-splendid-because-of-you&#34;&gt;Military Training: Zhejiang Made Splendid Because of You&lt;/h2&gt;
+&lt;h3 id=&#34;daybreak-first-light-at-the-horizon&#34;&gt;Daybreak: First Light at the Horizon&lt;/h3&gt;
+&lt;p&gt;The phrase &amp;quot;sleeping in&amp;quot; is, for those of us in military training, no more than a joke. Set aside the high-hung sun and the campus busy with traffic, and behold instead Qiushi Park veiled by night, which holds a flavor entirely its own. Look, please: a thin sliver of dawn light quietly lifts a corner of the dark night, as though in an instant it expands without limit, dyeing the clouds a sweep of crimson and gold. The alarm rings; you turn over, glance, and see it is the 4:35 alarm. Suppressing the urge to steal a little more sleep, you rise, make the bed, dress and put on your shoes in the dim dorm, fasten on your cap, and in our sea-blue camouflage uniforms we, together with the Zijin field, greet the sunlight. Yes, this is our daily morning class, both rousing the half-asleep, half-awake spirit and consolidating the previous day&#39;s training. It was not until military training that I discovered the most beautiful sunlight is reserved only for those who rise early.&lt;/p&gt;
+&lt;h3 id=&#34;mid-morning-sweat-pours-like-rain&#34;&gt;Mid-Morning: Sweat Pours Like Rain&lt;/h3&gt;
+&lt;p&gt;Some say young people are like the sun at eight or nine in the morning, brimming with vitality and vigor. But I would say young people are like the sun around ten o&#39;clock—radiant yet tenacious, fiery yet supple. And it is in this very interval that we carry out our daily training. Whether practicing standing at attention, turning, marching in step, or goose-stepping, we adhere strictly to the dress code, putting on our caps, pulling up zippers, and fastening every button. The training uniform is airless and stiff against the skin, almost unbearable. Standing straight in the sunlight, we silently feel the sweat trickle down chest and back, down arms, down calves, building up a wet field within the hard shell of cloth, nearly enough to break us. Within half an hour, every T-shirt is soaked through. At first I simply could not bear the day-long sticky dampness, but the further it went on the more I realized: sweat dries in the end, dirty clothes can be washed again, but this stretch of experience will be treasured forever in our hearts, becoming a wealth for life.&lt;/p&gt;
+&lt;p&gt;Beneath the sun, what we shed is not only sweat but also youth—a youth that, once lost, never returns; a poetic youth penned in the ink of struggle; a passionate youth driven by relentless effort.&lt;/p&gt;
+&lt;h3 id=&#34;afternoon-a-kaleidoscope-of-culture-and-sport&#34;&gt;Afternoon: A Kaleidoscope of Culture and Sport&lt;/h3&gt;
+&lt;p&gt;If the drill movements of military training are high-intensity, repetitive muscle training, then the various lectures, addresses, and exercises become an excellent path for us to grasp essential extracurricular common sense. From the spirited military training mobilization rally, to General Luo Yuan&#39;s address full of patriotic ambition, to the substance-packed lecture on medical first aid, to the dorm evacuation drill, the cafeteria safety exercise, and the gymnasium fire-prevention briefing—so long as we listen attentively and study seriously, it is not hard to acquire many useful emergency skills.&lt;/p&gt;
+&lt;p&gt;Beyond these activities, the grand tug-of-war competition also got under way amid cheers from the students. On the surface it looks like a game, but think on it carefully and it is a different kind of education. Only by uniting in heart can the desired result be achieved. On the road toward an ideal, the support of others is indispensable, and at times one needs encouragement and cheers from companions. Strategy must also be valued; one cannot just blindly exert force. In the course of striving, no matter what the staged outcomes are, faith must not be lost. Take this tug-of-war, for instance: we, the warriors of Heroes Company Three of Stormwind Regiment Two, lost the first round in two separate matches by misstep, then rallied to win two rounds in a row, claiming final victory. In truth, win or lose, the instructor&#39;s words still echo in our ears: whether we lose or win, we must not lose our bearing! The tug-of-war final has not yet ended; whose hands will the flower fall into? We do not yet know. But what I want to say is this: as long as we have toiled and struggled together, we are warriors who do not lose!&lt;/p&gt;
+&lt;h3 id=&#34;late-night-thoughts-and-words-collide&#34;&gt;Late Night: Thoughts and Words Collide&lt;/h3&gt;
+&lt;p&gt;The colorful daily life does not, of course, draw to a close once evening falls. Back in the dorm, before doing laundry, bathing, and sleeping, we still need to complete one piece of mental labor: writing in our own words what we have seen, heard, and felt. In my view, all writing is the outpouring of the heart&#39;s mood; every work is a vessel for emotion. Whether examination essays or casual reflections, they share a single core: thought. Of a thousand essays, ten thousand words, the whole may be summed up in a single word: thought. Thought arising from what? From what is seen by day and pondered by night, all of which becomes thought. Thought of what? Thought of one&#39;s own shortcomings, thought of others&#39; strengths, thought of the weight of the matters met today, thought of the merits and faults of the people met today. And after thought, what then? Then writing to record and to carry it, so that one day it may serve as recollection. Compared longitudinally, only then does one know whether the road ahead is shrouded in mist or distinctly visible, only then does one know whether in facing matters one is following the rules or breaking the old to forge the new.&lt;/p&gt;
+&lt;p&gt;This night, a thousand strands and ten thousand threads arise solely from military training; we know where they begin, we know where they end.&lt;/p&gt;
+&lt;p&gt;This night, a thousand feelings and a hundred sentiments arise solely from military training; we know their cause, we know their consummation.&lt;/p&gt;
+&lt;p&gt;【Second dispatch, completed at 0:05 on September 2. 1,459 characters. Awarded three points.】&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;young-people-please-sing-the-military-song&#34;&gt;Young People, Please Sing the Military Song&lt;/h2&gt;
+&lt;p&gt;There is a kind of strength called unity of heart. It takes root and sprouts within a collective, growing sturdy, until in the end its tangled roots and branches flourish in dense leaves.&lt;/p&gt;
+&lt;p&gt;There is a kind of faith called the soul of a martial nation. It rises slowly within the people&#39;s hearts, ever brighter and ever hotter, until at last it sets in the zenith and lights up all four directions.&lt;/p&gt;
+&lt;p&gt;There is a kind of resolve called the passion to serve one&#39;s country. It quietly grows in the breasts of the high-minded, becoming clearer day by day, until at last it bursts forth, its righteousness moving heaven and earth.&lt;/p&gt;
+&lt;h3 id=&#34;past-not-knowing-where-to-go&#34;&gt;Past: Not Knowing Where to Go&lt;/h3&gt;
+&lt;p&gt;Lost. Indolent. Subservient. We at the beginning were no more than travelers who had lost their bearings in a heavy sea of fog, stumbling along, our hearts bearing either fright or ignorance. Without a clear direction, we grew up in confusion; without a lofty goal, we languished in indolence; without a firm stance, we drifted along, subservient. Add to that the misplaced messaging from certain social media, and we even formed a uniform set of values: idolizing celebrities, loving pop songs, indulging in ease and self-comfort. Each new flashpoint of public opinion stirred up another storm of &amp;quot;circle jargon,&amp;quot; and at every mention of hardship we shrank away as if from disaster, while at every mention of dedication we sneered.&lt;/p&gt;
+&lt;p&gt;Could this really be the label fastened to us for life?&lt;/p&gt;
+&lt;p&gt;Absolutely not!&lt;/p&gt;
+&lt;h3 id=&#34;then-an-image-of-steel&#34;&gt;Then: An Image of Steel&lt;/h3&gt;
+&lt;p&gt;I wonder whether you have ever seen rank upon rank of soldiers, gallant in bearing, advancing firmly with unified steps? I wonder whether you have ever heard one military song after another, rolling like thunder, brimming with surging passion, voicing aspiration? Listen, please, to those neat and resounding footsteps; that sound rises not from the ground but from the heart. Listen, please, to that fervent and stirring military song; that sound enters not through the ear but wells up in the mind.&lt;/p&gt;
+&lt;p&gt;&amp;quot;It is a clear morning / the pigeon whistles join the reveille / yet this world is not at peace / even an age of peace has its surging winds and clouds.&amp;quot; Listen, please, to that impassioned vow, that hot-blooded promise, that responsibility which each of us will, in the end, shoulder.&lt;/p&gt;
+&lt;p&gt;We who live in an age of peace cannot indulge in ease and pleasure. We must advance; we cannot retreat! When that day truly comes, we will not flinch! Half a month of military training may not truly let us live like soldiers forever, but this seed can take deep root in the soil of the heart. Once the soldier&#39;s image of steel is imprinted deep within, we have a goal to advance toward and the strength to do so.&lt;/p&gt;
+&lt;p&gt;To stand is to stand upright and unmoving, the head supporting heaven above, the feet planted on earth below.&lt;/p&gt;
+&lt;p&gt;To fight is to fight forthrightly and ever forward, opening the way at the front, supplying the strength at the rear.&lt;/p&gt;
+&lt;h3 id=&#34;hope-strengthening-our-martial-nation&#34;&gt;Hope: Strengthening Our Martial Nation&lt;/h3&gt;
+&lt;p&gt;When the majestic military music sounds, I think those forceful drumbeats are not simply music but a call to the soul. &amp;quot;Are you ready / brothers in arms / when that day truly comes / rest assured, motherland / rest assured, dear ones / for victory I will advance bravely.&amp;quot; In the most beautiful years of youth, displaying our youthful spirit is a choice we cannot hesitate over.&lt;/p&gt;
+&lt;p&gt;Pay no mind to others&#39; rumors and gossip, pay no mind to others&#39; cold-eyed indifference, pay no mind to others&#39; contempt—the bugle has already sounded, and it is time to advance bravely toward the resolute self; advance bravely toward fertile ground; advance bravely toward the ideal far away! Perhaps we, at eighteen or nineteen, have not yet had the chance to set foot on the battlefield, but I firmly believe that as long as we hold deep love for home and country, no matter where we may be, we will always remember our original aspiration and continue to press forward through trial!&lt;/p&gt;
+&lt;p&gt;&amp;quot;Since we have chosen the distance, we go on regardless of wind or rain.&amp;quot;&lt;/p&gt;
+&lt;p&gt;Young people, please sing the military song aloud at this moment.&lt;/p&gt;
+&lt;p&gt;【Third dispatch, completed at 0:08 on September 4. 1,054 characters. Awarded four points.】&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;rain-falls-but-please-grit-your-teeth&#34;&gt;Rain Falls, but Please Grit Your Teeth&lt;/h2&gt;
+&lt;p&gt;The weather in Hangzhou is like a timid little child: take a small grievance, and it cannot help but knit its tiny brow. A sob it fails to swallow, and it carefully begins to whimper. If it still cannot let go, then with a &amp;quot;wah!&amp;quot; it bursts into bitter tears. But bad moods always pass like smoke; in just a moment the rain ends, the clouds scatter, and brightness returns.&lt;/p&gt;
+&lt;p&gt;Rising in the morning I heard a pitter-patter outside the window that sounded like rain falling, and looked out to find it was just as I had guessed. The grey clouds had quietly seized the territory that should have belonged to the blue sky, as if plotting some great event. Listening to the sound of the rain, I could not help imagining a scene in my mind: a group of people, dressed in neat yellow raincoats, completing one drill movement after another seriously and meticulously in the morning rain. I felt a faint thrill at this novel experience—I, who even regarded military training in the rain as a kind of game, never imagined that on this sudden rainy day we would truly find ourselves.&lt;/p&gt;
+&lt;p&gt;Today is the first time our company has carried out rifle-drill formation training. At first, I felt a little sorry that the fantasy of &amp;quot;the silver-white bayonet shimmering with bright sunlight&amp;quot; had been washed clean by this unexpected rain. But when I truly walked toward the armory and solemnly received the heavy Type 56 semi-automatic rifle, with its faint scent of machine oil, that trace of regret vanished without a trace. Eagerly shouldering the 3.85-kilogram rifle, we felt very proud. After all, with a rifle we have a &amp;quot;second life,&amp;quot; we have a treasure worth our protection. We would rather be drenched ourselves than let the rifle suffer the slightest harm, and gladly took off our raincoats to wrap around the weapons.&lt;/p&gt;
+&lt;p&gt;On the way out of the armory, hurrying to the training ground, we all carried this curiosity and pride.&lt;/p&gt;
+&lt;p&gt;But when we actually formed up in ranks, we found that a rifle is not so simple, not so easy to shoulder. From the height of the hand to the angle of the rifle&#39;s body, from the placement of the arm to the swing of the rifle in striking, from the steadiness of the carry to the uniformity of the lowering—every detail requires every person in the rank to be precise, stable, and uniform, and that is the greatest difficulty.&lt;/p&gt;
+&lt;p&gt;But all of this was only the prelude.&lt;/p&gt;
+&lt;p&gt;That afternoon, on the great Zijin parade ground, the regiment was rehearsing. The weather seemed not bad: no rain, no sun, and quite cool. We, who were marching for the first time on the red rubber track with rifles in hand, were excited and also a little nervous. The instant the &amp;quot;March of the Chinese People&#39;s Liberation Army&amp;quot; began to play, we, on the instructor&#39;s command, started marching. But, whether because we were not holding the rifles properly or because our attention was drifting, the rhythm of our steps did not quite match the melody. We could not help speeding up unconsciously; then someone would slow down, and at last the steps became disordered.&lt;/p&gt;
+&lt;p&gt;Our hearts grew restless. The heavens seemed to feel our anxiety and quietly began to rain. Without raincoats on, we had to grit our teeth and continue our movements through the wash of the rain, doing our utmost to adjust to the right rhythm. But thinking &amp;quot;Why is it raining?&amp;quot; and &amp;quot;It&#39;s raining, it&#39;s raining—we&#39;ll catch a cold!&amp;quot;, we, after adjusting the rhythm, gave most of our attention to the weather. Both the neatness of our formation and our individual bearing slackened a little. And so, in a kind of distracted state, we walked through the first lap.&lt;/p&gt;
+&lt;p&gt;I had thought that completing one lap would be enough, and when I learned we would have to do another, I could not help feeling angry: with this weather, with the rain falling, still carrying rifles and walking—how is this all right? At the thought of the rifle, my right arm suddenly began to ache. Yes, this rifle of nearly eight jin had to be supported by one hand and one shoulder, held at a fixed angle to the ground. We had to grip the buttstock with the right hand, about a fist away from the body, press the rifle with the elbow&#39;s hollow, and rest the barrel against the shoulder. To hold this for just a few minutes would be one thing, but we had been carrying the rifles cumulatively for nearly three hours, from morning into afternoon, while maintaining the same posture. For me, who had never gone through any sort of muscle training, it was simply a disaster. While carrying it still I could deceive myself with numbness, but the moment I moved, the soreness from the arm surged toward my brain like the tide, wave after wave, never resting. Combined with my dissatisfaction with the training to begin with, I was wandering near the brink of collapse. Several times the searing pain in my right arm nearly made me choose to give up.&lt;/p&gt;
+&lt;p&gt;The rain kept falling, and seemed to grow heavier still. The water ran down my hair into my clothes, ran down the cuffs of my trousers into my shoes. I cannot hold on. Give up. A voice quietly sounded in my ear. I looked left and right, and found no one was speaking to me. Could it be an auditory illusion? But the soreness from the right arm grew ever stronger; the nerves of a body grown weak trembled ever more. All of this said: give up; you are not made for carrying a rifle.&lt;/p&gt;
+&lt;p&gt;No! I jerked my eyes up to the sky. A grey expanse, oppressive, damp. No—is it really anything more than a little rain? Could this make me yield? Since joining military training I have overcome all manner of bodily and spiritual obstacles; could I shrink back before this? Impossible! My right arm trembled involuntarily, but I struggled to suppress it. I gritted my teeth, trying to scatter my attention and divert the pain coming from my right arm. I looked at the classmates around me; they too were holding on. What reason did I have to give up? Just as Secretary Zheng Qiang said, sun and rain are both nature; there is no need to resist, no need to flee. Facing wind and rain, we are not afraid! We are not cowardly! We advance bravely!&lt;/p&gt;
+&lt;p&gt;The second lap with rifles in the wind and rain was particularly splendid. Quietly closing my eyes, lifting my head, feeling the rain fall, I seemed to feel a blessing from the sky. Yes—what does it matter that rain falls? Grit your teeth, and every difficulty will surely be overcome by us!&lt;/p&gt;
+&lt;p&gt;【Fourth dispatch, completed at 23:59 on September 7. 1,771 characters. Awarded two points.】&lt;/p&gt;
 </description>
                 
                 
